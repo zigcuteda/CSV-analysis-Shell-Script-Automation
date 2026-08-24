@@ -1,0 +1,7 @@
+mkdir -p ~/eda_project
+nano ~/eda_project/eda_automation.sh
+
+<Inside the shell script paste : eda_pipeline.sh contents>
+<After pasting : ctrl+O -> hit “enter” -> ctrl + X>
+chmod +x ~/eda_project/eda_automation.sh
+~/eda_project/eda_automation.sh
