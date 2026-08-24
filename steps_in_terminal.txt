@@ -1,7 +1,25 @@
+Step 1: Create the project directory
 mkdir -p ~/eda_project
+
+
+Step 2: Create and open the shell script using Nano
 nano ~/eda_project/eda_automation.sh
 
-<Inside the shell script paste : eda_pipeline.sh contents>
-<After pasting : ctrl+O -> hit “enter” -> ctrl + X>
+
+Step 3: Paste the EDA pipeline script
+Inside the Nano editor, paste the complete contents of the eda_pipeline.sh script.
+
+
+Step 4: Save and exit Nano
+After pasting the script:
+Press Ctrl + O to save the file.
+Press Enter to confirm the filename.
+Press Ctrl + X to exit the Nano editor.
+
+
+Step 5: Make the script executable
 chmod +x ~/eda_project/eda_automation.sh
+
+
+Step 6: Run the EDA automation script
 ~/eda_project/eda_automation.sh
