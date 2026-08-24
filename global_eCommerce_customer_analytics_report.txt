@@ -1,0 +1,405 @@
+
+============================================================
+                EXPLORATORY DATA ANALYSIS REPORT
+============================================================
+Source File : /home/student/Downloads/global_eCommerce_customer_analytics.csv
+Timestamp   : Monday 24 August 2026 05:43:18 PM IST
+Report File : /home/student/Downloads/global_eCommerce_customer_analytics_report.txt
+
+============================================================
+MODULE 2: STRUCTURAL DIAGNOSTICS & SCHEMA AUDIT
+============================================================
+Dataset Shape: 1200 rows, 20 columns
+Duplicate Rows: 0
+
+Column Index:
+  [1] Customer_ID
+  [2] Age
+  [3] Gender
+  [4] Country
+  [5] Membership_Tier
+  [6] Annual_Income_USD
+  [7] Product_Category
+  [8] Purchase_Amount_USD
+  [9] Payment_Method
+  [10] Orders_Per_Month
+  [11] Discount_Applied_Percent
+  [12] Delivery_Time_Days
+  [13] Review_Rating
+  [14] Satisfaction_Score
+  [15] Returned_Item
+  [16] App_Usage_Mins_Per_Week
+  [17] Preferred_Shopping_Hour
+  [18] Signup_Date
+  [19] Days_Since_Last_Purchase
+  [20] Churned
+
+Schema and Missing Value Audit:
+Index Column Name                  Data Type       Non-Null        Null/NA        
+--------------------------------------------------------------------------------
+1     Customer_ID                  Categorical     1200            0              
+2     Age                          Numeric         1200            0              
+3     Gender                       Categorical     1200            0              
+4     Country                      Categorical     1200            0              
+5     Membership_Tier              Categorical     1200            0              
+6     Annual_Income_USD            Numeric         1146            54             
+7     Product_Category             Categorical     1200            0              
+8     Purchase_Amount_USD          Numeric         1200            0              
+9     Payment_Method               Categorical     1200            0              
+10    Orders_Per_Month             Numeric         1200            0              
+11    Discount_Applied_Percent     Numeric         1200            0              
+12    Delivery_Time_Days           Numeric         1200            0              
+13    Review_Rating                Numeric         1178            22             
+14    Satisfaction_Score           Numeric         1200            0              
+15    Returned_Item                Categorical     1200            0              
+16    App_Usage_Mins_Per_Week      Numeric         1200            0              
+17    Preferred_Shopping_Hour      Numeric         1200            0              
+18    Signup_Date                  Categorical     1200            0              
+19    Days_Since_Last_Purchase     Numeric         1200            0              
+20    Churned                      Categorical     1200            0              
+
+Feature Summary:
+  Numeric Features     : 11
+  Categorical Features : 9
+
+============================================================
+MODULE 3: ADVANCED STATISTICAL ENGINE
+============================================================
+[KEY DETECTED] Customer_ID (100% unique non-null numeric values) - Excluded from aggregation.
+[KEY DETECTED] Signup_Date (100% unique non-null numeric values) - Excluded from aggregation.
+
+------------------------------------------------------------
+UNIVARIATE STATISTICS (NON-KEY NUMERICS)
+------------------------------------------------------------
+
+Feature           : Age
+Mean              : 38.160000
+Median (Q2)       : 38.000000
+Mode              : 18
+Min / Max / Range : 18.000000 / 75.000000 / 57.000000
+Q1 / Q3 / IQR     : 30.000000 / 46.000000 / 16.000000
+Sample Variance   : 130.197898
+Sample Std Dev (s): 11.410429
+Mean Abs Dev (MAD): 9.225600
+Skewness (g1)     : 0.232264 (Symmetric)
+Outlier Count     : 2 (Tukey bounds: [6.000000, 70.000000])
+
+Feature           : Annual_Income_USD
+Mean              : 67159.325480
+Median (Q2)       : 60289.000000
+Mode              : 18000
+Min / Max / Range : 18000.000000 / 192841.000000 / 174841.000000
+Q1 / Q3 / IQR     : 41751.250000 / 86687.000000 / 44935.750000
+Sample Variance   : 1209550299.837201
+Sample Std Dev (s): 34778.589676
+Mean Abs Dev (MAD): 27646.362394
+Skewness (g1)     : 0.829731 (Right-skewed)
+Outlier Count     : 17 (Tukey bounds: [-25652.375000, 154090.625000])
+
+Feature           : Purchase_Amount_USD
+Mean              : 153.500542
+Median (Q2)       : 82.555000
+Mode              : 8.5
+Min / Max / Range : 8.500000 / 2390.160000 / 2381.660000
+Q1 / Q3 / IQR     : 30.180000 / 187.520000 / 157.340000
+Sample Variance   : 45952.020737
+Sample Std Dev (s): 214.364224
+Mean Abs Dev (MAD): 134.245701
+Skewness (g1)     : 3.710442 (Right-skewed)
+Outlier Count     : 95 (Tukey bounds: [-205.830000, 423.530000])
+
+Feature           : Orders_Per_Month
+Mean              : 4.530000
+Median (Q2)       : 4.000000
+Mode              : 4
+Min / Max / Range : 1.000000 / 13.000000 / 12.000000
+Q1 / Q3 / IQR     : 3.000000 / 6.000000 / 3.000000
+Sample Variance   : 4.664654
+Sample Std Dev (s): 2.159781
+Mean Abs Dev (MAD): 1.735817
+Skewness (g1)     : 0.556797 (Right-skewed)
+Outlier Count     : 12 (Tukey bounds: [-1.500000, 10.500000])
+
+Feature           : Discount_Applied_Percent
+Mean              : 10.520833
+Median (Q2)       : 10.000000
+Mode              : 0
+Min / Max / Range : 0.000000 / 50.000000 / 50.000000
+Q1 / Q3 / IQR     : 0.000000 / 15.000000 / 15.000000
+Sample Variance   : 98.915329
+Sample Std Dev (s): 9.945619
+Mean Abs Dev (MAD): 7.572917
+Skewness (g1)     : 1.311711 (Right-skewed)
+Outlier Count     : 22 (Tukey bounds: [-22.500000, 37.500000])
+
+Feature           : Delivery_Time_Days
+Mean              : 5.816667
+Median (Q2)       : 6.000000
+Mode              : Multiple modes detected (rep: 3)
+Min / Max / Range : 1.000000 / 11.000000 / 10.000000
+Q1 / Q3 / IQR     : 3.000000 / 8.000000 / 5.000000
+Sample Variance   : 9.861273
+Sample Std Dev (s): 3.140266
+Mean Abs Dev (MAD): 2.707944
+Skewness (g1)     : 0.090710 (Symmetric)
+Outlier Count     : 0 (Tukey bounds: [-4.500000, 15.500000])
+
+Feature           : Review_Rating
+Mean              : 3.258489
+Median (Q2)       : 3.500000
+Mode              : 3.5
+Min / Max / Range : 1.000000 / 5.000000 / 4.000000
+Q1 / Q3 / IQR     : 2.500000 / 4.000000 / 1.500000
+Sample Variance   : 0.875990
+Sample Std Dev (s): 0.935943
+Mean Abs Dev (MAD): 0.772574
+Skewness (g1)     : -0.178810 (Symmetric)
+Outlier Count     : 0 (Tukey bounds: [0.250000, 6.250000])
+
+Feature           : Satisfaction_Score
+Mean              : 6.493333
+Median (Q2)       : 7.000000
+Mode              : 7
+Min / Max / Range : 1.000000 / 10.000000 / 9.000000
+Q1 / Q3 / IQR     : 5.000000 / 8.000000 / 3.000000
+Sample Variance   : 3.120890
+Sample Std Dev (s): 1.766604
+Mean Abs Dev (MAD): 1.456822
+Skewness (g1)     : -0.163067 (Symmetric)
+Outlier Count     : 0 (Tukey bounds: [0.500000, 12.500000])
+
+Feature           : App_Usage_Mins_Per_Week
+Mean              : 153.827500
+Median (Q2)       : 151.000000
+Mode              : Multiple modes detected (rep: 145)
+Min / Max / Range : 10.000000 / 456.000000 / 446.000000
+Q1 / Q3 / IQR     : 107.000000 / 197.000000 / 90.000000
+Sample Variance   : 4522.309668
+Sample Std Dev (s): 67.248120
+Mean Abs Dev (MAD): 53.576750
+Skewness (g1)     : 0.278661 (Symmetric)
+Outlier Count     : 7 (Tukey bounds: [-28.000000, 332.000000])
+
+Feature           : Preferred_Shopping_Hour
+Mean              : 13.609167
+Median (Q2)       : 14.000000
+Mode              : 10
+Min / Max / Range : 0.000000 / 23.000000 / 23.000000
+Q1 / Q3 / IQR     : 10.000000 / 18.000000 / 8.000000
+Sample Variance   : 27.827939
+Sample Std Dev (s): 5.275219
+Mean Abs Dev (MAD): 4.479953
+Skewness (g1)     : -0.263570 (Symmetric)
+Outlier Count     : 0 (Tukey bounds: [-2.000000, 30.000000])
+
+Feature           : Days_Since_Last_Purchase
+Mean              : 51.904167
+Median (Q2)       : 33.000000
+Mode              : Multiple modes detected (rep: 0)
+Min / Max / Range : 0.000000 / 450.000000 / 450.000000
+Q1 / Q3 / IQR     : 13.000000 / 67.250000 / 54.250000
+Sample Variance   : 3787.219332
+Sample Std Dev (s): 61.540388
+Mean Abs Dev (MAD): 41.469778
+Skewness (g1)     : 2.749863 (Right-skewed)
+Outlier Count     : 83 (Tukey bounds: [-68.375000, 148.625000])
+
+------------------------------------------------------------
+BIVARIATE CORRELATION ANALYSIS (PEARSON'S r)
+------------------------------------------------------------
+Age vs Annual_Income_USD : r = 0.019640 (n=1146)
+Age vs Purchase_Amount_USD : r = 0.001674 (n=1200)
+Age vs Orders_Per_Month : r = -0.026525 (n=1200)
+Age vs Discount_Applied_Percent : r = 0.014000 (n=1200)
+Age vs Delivery_Time_Days : r = -0.024203 (n=1200)
+Age vs Review_Rating : r = 0.013209 (n=1178)
+Age vs Satisfaction_Score : r = 0.020616 (n=1200)
+Age vs App_Usage_Mins_Per_Week : r = 0.000879 (n=1200)
+Age vs Preferred_Shopping_Hour : r = 0.004518 (n=1200)
+Age vs Days_Since_Last_Purchase : r = -0.004266 (n=1200)
+Annual_Income_USD vs Purchase_Amount_USD : r = 0.184951 (n=1146)
+Annual_Income_USD vs Orders_Per_Month : r = -0.016557 (n=1146)
+Annual_Income_USD vs Discount_Applied_Percent : r = 0.023031 (n=1146)
+Annual_Income_USD vs Delivery_Time_Days : r = 0.000348 (n=1146)
+Annual_Income_USD vs Review_Rating : r = 0.012029 (n=1124)
+Annual_Income_USD vs Satisfaction_Score : r = 0.017394 (n=1146)
+Annual_Income_USD vs App_Usage_Mins_Per_Week : r = 0.288800 (n=1146)
+Annual_Income_USD vs Preferred_Shopping_Hour : r = 0.017840 (n=1146)
+Annual_Income_USD vs Days_Since_Last_Purchase : r = 0.013172 (n=1146)
+Purchase_Amount_USD vs Orders_Per_Month : r = -0.002470 (n=1200)
+Purchase_Amount_USD vs Discount_Applied_Percent : r = -0.011078 (n=1200)
+Purchase_Amount_USD vs Delivery_Time_Days : r = -0.010990 (n=1200)
+Purchase_Amount_USD vs Review_Rating : r = 0.028193 (n=1178)
+Purchase_Amount_USD vs Satisfaction_Score : r = 0.035308 (n=1200)
+Purchase_Amount_USD vs App_Usage_Mins_Per_Week : r = 0.073116 (n=1200)
+Purchase_Amount_USD vs Preferred_Shopping_Hour : r = 0.026393 (n=1200)
+Purchase_Amount_USD vs Days_Since_Last_Purchase : r = 0.004336 (n=1200)
+Orders_Per_Month vs Discount_Applied_Percent : r = -0.001213 (n=1200)
+Orders_Per_Month vs Delivery_Time_Days : r = -0.010871 (n=1200)
+Orders_Per_Month vs Review_Rating : r = -0.040330 (n=1178)
+Orders_Per_Month vs Satisfaction_Score : r = -0.015030 (n=1200)
+Orders_Per_Month vs App_Usage_Mins_Per_Week : r = -0.016580 (n=1200)
+Orders_Per_Month vs Preferred_Shopping_Hour : r = -0.023091 (n=1200)
+Orders_Per_Month vs Days_Since_Last_Purchase : r = -0.049020 (n=1200)
+Discount_Applied_Percent vs Delivery_Time_Days : r = -0.011895 (n=1200)
+Discount_Applied_Percent vs Review_Rating : r = 0.175444 (n=1178)
+Discount_Applied_Percent vs Satisfaction_Score : r = 0.185445 (n=1200)
+Discount_Applied_Percent vs App_Usage_Mins_Per_Week : r = -0.008495 (n=1200)
+Discount_Applied_Percent vs Preferred_Shopping_Hour : r = 0.000386 (n=1200)
+Discount_Applied_Percent vs Days_Since_Last_Purchase : r = -0.050569 (n=1200)
+Delivery_Time_Days vs Review_Rating : r = -0.649809 (n=1178)
+Delivery_Time_Days vs Satisfaction_Score : r = -0.689380 (n=1200)
+Delivery_Time_Days vs App_Usage_Mins_Per_Week : r = -0.057808 (n=1200)
+Delivery_Time_Days vs Preferred_Shopping_Hour : r = -0.033782 (n=1200)
+Delivery_Time_Days vs Days_Since_Last_Purchase : r = 0.214944 (n=1200)
+Review_Rating vs Satisfaction_Score : r = 0.936186 (n=1178)
+Review_Rating vs App_Usage_Mins_Per_Week : r = 0.041285 (n=1178)
+Review_Rating vs Preferred_Shopping_Hour : r = 0.028151 (n=1178)
+Review_Rating vs Days_Since_Last_Purchase : r = -0.273575 (n=1178)
+Satisfaction_Score vs App_Usage_Mins_Per_Week : r = 0.051797 (n=1200)
+Satisfaction_Score vs Preferred_Shopping_Hour : r = 0.037532 (n=1200)
+Satisfaction_Score vs Days_Since_Last_Purchase : r = -0.302137 (n=1200)
+App_Usage_Mins_Per_Week vs Preferred_Shopping_Hour : r = -0.008882 (n=1200)
+App_Usage_Mins_Per_Week vs Days_Since_Last_Purchase : r = -0.003727 (n=1200)
+Preferred_Shopping_Hour vs Days_Since_Last_Purchase : r = 0.018459 (n=1200)
+
+Highest Absolute Correlation:
+--> Review_Rating and Satisfaction_Score : r = 0.936186
+
+============================================================
+MODULE 4: CATEGORICAL FEATURE ANALYSIS ENGINE
+============================================================
+[KEY DETECTED] Customer_ID (100% unique string/mixed values) - Excluded from categorical analysis.
+[KEY DETECTED] Signup_Date (100% unique string/mixed values) - Excluded from categorical analysis.
+
+------------------------------------------------------------
+Categorical Feature : Gender
+Unique Categories   : 4
+Cardinality Ratio   : 0.003333
+Mode Category       : Female
+Dominance Detection : Balanced (Mode freq: 573, 47.75%)
+
+Frequency Distribution & Rare Detection:
+Category                            Count      Percentage   Status         
+----------------------------------------------------------------------
+Female                              573        47.75      % Normal         
+Male                                553        46.08      % Normal         
+Non-Binary                          49         4.08       % Normal         
+Prefer not to say                   25         2.08       % Normal         
+
+Total Rare Categories: 0
+
+------------------------------------------------------------
+Categorical Feature : Country
+Unique Categories   : 8
+Cardinality Ratio   : 0.006667
+Mode Category       : United States
+Dominance Detection : Balanced (Mode freq: 422, 35.17%)
+
+Frequency Distribution & Rare Detection:
+Category                            Count      Percentage   Status         
+----------------------------------------------------------------------
+United States                       422        35.17      % Normal         
+United Kingdom                      177        14.75      % Normal         
+Germany                             127        10.58      % Normal         
+Canada                              117        9.75       % Normal         
+Japan                               114        9.50       % Normal         
+Australia                           104        8.67       % Normal         
+India                               70         5.83       % Normal         
+Brazil                              69         5.75       % Normal         
+
+Total Rare Categories: 0
+
+------------------------------------------------------------
+Categorical Feature : Membership_Tier
+Unique Categories   : 4
+Cardinality Ratio   : 0.003333
+Mode Category       : Bronze
+Dominance Detection : Balanced (Mode freq: 496, 41.33%)
+
+Frequency Distribution & Rare Detection:
+Category                            Count      Percentage   Status         
+----------------------------------------------------------------------
+Bronze                              496        41.33      % Normal         
+Silver                              368        30.67      % Normal         
+Gold                                224        18.67      % Normal         
+Platinum                            112        9.33       % Normal         
+
+Total Rare Categories: 0
+
+------------------------------------------------------------
+Categorical Feature : Product_Category
+Unique Categories   : 6
+Cardinality Ratio   : 0.005000
+Mode Category       : Electronics
+Dominance Detection : Balanced (Mode freq: 317, 26.42%)
+
+Frequency Distribution & Rare Detection:
+Category                            Count      Percentage   Status         
+----------------------------------------------------------------------
+Electronics                         317        26.42      % Normal         
+Apparel                             314        26.17      % Normal         
+Home & Kitchen                      243        20.25      % Normal         
+Beauty & Personal Care              120        10.00      % Normal         
+Sports & Outdoors                   115        9.58       % Normal         
+Books & Media                       91         7.58       % Normal         
+
+Total Rare Categories: 0
+
+------------------------------------------------------------
+Categorical Feature : Payment_Method
+Unique Categories   : 6
+Cardinality Ratio   : 0.005000
+Mode Category       : Credit Card
+Dominance Detection : Balanced (Mode freq: 482, 40.17%)
+
+Frequency Distribution & Rare Detection:
+Category                            Count      Percentage   Status         
+----------------------------------------------------------------------
+Credit Card                         482        40.17      % Normal         
+PayPal                              303        25.25      % Normal         
+Apple Pay                           191        15.92      % Normal         
+Debit Card                          134        11.17      % Normal         
+Buy Now Pay Later                   62         5.17       % Normal         
+Crypto                              28         2.33       % Normal         
+
+Total Rare Categories: 0
+
+------------------------------------------------------------
+Categorical Feature : Returned_Item
+Unique Categories   : 2
+Cardinality Ratio   : 0.001667
+Mode Category       : No
+Dominance Detection : Moderately Dominated (Mode freq: 915, 76.25%)
+
+Frequency Distribution & Rare Detection:
+Category                            Count      Percentage   Status         
+----------------------------------------------------------------------
+No                                  915        76.25      % Normal         
+Yes                                 285        23.75      % Normal         
+
+Total Rare Categories: 0
+
+------------------------------------------------------------
+Categorical Feature : Churned
+Unique Categories   : 2
+Cardinality Ratio   : 0.001667
+Mode Category       : No
+Dominance Detection : Highly Dominated (Mode freq: 1019, 84.92%)
+
+Frequency Distribution & Rare Detection:
+Category                            Count      Percentage   Status         
+----------------------------------------------------------------------
+No                                  1019       84.92      % Normal         
+Yes                                 181        15.08      % Normal         
+
+Total Rare Categories: 0
+
+============================================================
+MODULE 5: AUTOMATED PLAIN-TEXT LOGGING COMPLETED
+============================================================
+The pipeline executed successfully.
+Data immutability preserved: No modifications made to source file.
+Full output mirrored and saved to:
+/home/student/Downloads/global_eCommerce_customer_analytics_report.txt
+============================================================

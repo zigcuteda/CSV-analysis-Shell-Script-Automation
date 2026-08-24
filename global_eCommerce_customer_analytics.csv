@@ -1,0 +1,1201 @@
+Customer_ID,Age,Gender,Country,Membership_Tier,Annual_Income_USD,Product_Category,Purchase_Amount_USD,Payment_Method,Orders_Per_Month,Discount_Applied_Percent,Delivery_Time_Days,Review_Rating,Satisfaction_Score,Returned_Item,App_Usage_Mins_Per_Week,Preferred_Shopping_Hour,Signup_Date,Days_Since_Last_Purchase,Churned
+CUST-10001,43,Female,Australia,Bronze,24883.0,Sports & Outdoors,29.51,PayPal,3,10,4,2.5,5,No,208,17,2024-12-05,48,No
+CUST-10002,36,Male,Germany,Bronze,47733.0,Beauty & Personal Care,159.05,PayPal,5,5,3,3.5,7,No,159,9,2024-11-06,4,No
+CUST-10003,45,Non-Binary,United Kingdom,Bronze,24149.0,Apparel,12.72,Credit Card,7,30,8,4.0,8,No,130,10,2022-09-30,12,No
+CUST-10004,56,Male,Germany,Gold,83608.0,Beauty & Personal Care,24.7,PayPal,3,10,3,4.5,9,No,215,13,2022-04-13,5,No
+CUST-10005,35,Male,United States,Platinum,143407.0,Electronics,210.03,Credit Card,3,0,1,4.5,9,No,136,13,2024-05-30,92,Yes
+CUST-10006,35,Male,United States,Bronze,47350.0,Electronics,8.5,Credit Card,1,0,4,3.5,7,No,81,19,2022-10-19,66,No
+CUST-10007,56,Female,Brazil,Bronze,20593.0,Apparel,99.7,Debit Card,6,10,11,3.0,6,No,112,11,2022-05-22,28,No
+CUST-10008,47,Female,United States,Gold,113971.0,Beauty & Personal Care,8.5,Apple Pay,8,10,5,3.5,8,No,145,8,2022-07-21,91,No
+CUST-10009,32,Male,United Kingdom,Platinum,150296.0,Electronics,1367.23,PayPal,5,0,5,3.0,7,Yes,142,9,2025-03-31,146,No
+CUST-10010,44,Female,Brazil,Silver,49314.0,Electronics,619.08,PayPal,5,20,5,3.5,7,No,263,9,2024-07-13,12,No
+CUST-10011,32,Male,Japan,Bronze,18000.0,Electronics,128.83,Credit Card,3,15,8,3.0,5,Yes,270,18,2023-04-15,369,Yes
+CUST-10012,32,Male,United States,Bronze,39391.0,Sports & Outdoors,76.58,Apple Pay,3,15,8,2.0,5,No,116,13,2024-10-16,208,No
+CUST-10013,40,Female,United States,Silver,53973.0,Home & Kitchen,176.32,Apple Pay,5,0,4,4.0,8,Yes,152,18,2023-09-16,89,No
+CUST-10014,18,Female,United States,Bronze,44036.0,Apparel,39.05,Apple Pay,4,5,9,3.5,7,No,129,12,2022-12-21,77,No
+CUST-10015,18,Male,Germany,Bronze,35463.0,Home & Kitchen,140.4,Apple Pay,3,25,1,4.0,8,Yes,209,20,2025-03-29,4,No
+CUST-10016,31,Female,United Kingdom,Silver,25865.0,Home & Kitchen,8.5,Credit Card,9,20,5,3.5,7,No,217,23,2025-03-27,4,No
+CUST-10017,25,Male,United States,Bronze,35009.0,Home & Kitchen,8.5,Credit Card,4,0,5,3.5,6,No,21,17,2022-08-27,15,No
+CUST-10018,41,Female,India,Gold,89498.0,Electronics,228.91,PayPal,6,0,5,3.0,6,Yes,195,20,2023-07-31,15,No
+CUST-10019,27,Male,Canada,Bronze,53405.0,Sports & Outdoors,90.68,Credit Card,7,5,8,3.0,6,No,61,14,2022-05-10,60,No
+CUST-10020,21,Female,United States,Bronze,29432.0,Apparel,142.67,Apple Pay,7,5,9,4.0,6,No,249,21,2022-04-06,21,No
+CUST-10021,55,Male,Canada,Silver,92216.0,Home & Kitchen,24.02,Credit Card,5,15,3,3.5,7,No,194,19,2024-11-28,4,No
+CUST-10022,35,Female,Germany,Bronze,18000.0,Electronics,290.58,Credit Card,7,30,9,2.5,5,No,75,23,2022-08-28,114,No
+CUST-10023,38,Male,United States,Platinum,163601.0,Apparel,36.25,Credit Card,5,5,11,3.5,6,No,186,16,2023-05-14,44,No
+CUST-10024,20,Female,United States,Silver,57962.0,Apparel,45.85,Crypto,2,0,8,2.5,5,No,130,19,2023-07-06,6,No
+CUST-10025,31,Male,Australia,Bronze,57472.0,Home & Kitchen,65.3,Credit Card,5,20,3,3.5,6,No,182,15,2022-06-11,8,No
+CUST-10026,39,Male,United Kingdom,Gold,96436.0,Electronics,198.74,PayPal,7,0,2,3.0,7,No,235,10,2024-11-29,57,No
+CUST-10027,24,Female,Canada,Bronze,62511.0,Beauty & Personal Care,8.5,PayPal,5,30,4,4.0,7,No,76,11,2023-05-26,31,No
+CUST-10028,42,Female,United Kingdom,Platinum,133027.0,Electronics,319.84,Credit Card,6,15,2,5.0,10,No,306,20,2024-02-28,48,No
+CUST-10029,30,Female,United States,Bronze,22224.0,Home & Kitchen,172.56,PayPal,4,25,4,5.0,9,No,235,5,2022-11-03,61,No
+CUST-10030,34,Male,United States,Silver,87569.0,Beauty & Personal Care,34.69,Apple Pay,6,0,5,4.5,8,Yes,106,16,2023-03-21,25,No
+CUST-10031,30,Male,United Kingdom,Bronze,39957.0,Home & Kitchen,96.48,PayPal,11,0,2,4.0,9,No,144,11,2024-10-11,8,No
+CUST-10032,60,Male,United States,Silver,65988.0,Beauty & Personal Care,97.65,Debit Card,3,10,8,4.0,7,No,264,12,2024-01-01,6,No
+CUST-10033,37,Female,United States,Gold,117225.0,Home & Kitchen,299.96,Credit Card,6,10,1,3.5,8,No,258,20,2022-02-12,1,No
+CUST-10034,25,Female,Australia,Gold,76424.0,Apparel,70.85,Credit Card,7,5,3,3.0,7,Yes,136,20,2023-02-20,6,No
+CUST-10035,47,Male,India,Bronze,52718.0,Beauty & Personal Care,13.77,Buy Now Pay Later,3,30,7,2.5,5,Yes,199,16,2024-01-17,179,No
+CUST-10036,23,Male,Japan,Bronze,,Apparel,145.6,Credit Card,5,20,10,2.5,5,No,330,10,2024-12-28,61,No
+CUST-10037,40,Prefer not to say,Australia,Gold,92620.0,Home & Kitchen,187.37,PayPal,2,15,1,4.5,9,No,173,13,2022-09-13,201,No
+CUST-10038,18,Female,United States,Platinum,141301.0,Beauty & Personal Care,18.91,Apple Pay,4,0,11,2.0,4,No,149,12,2025-03-19,272,Yes
+CUST-10039,22,Male,India,Bronze,18000.0,Apparel,15.99,Credit Card,3,15,2,5.0,10,No,140,11,2024-09-17,75,No
+CUST-10040,40,Female,United States,Silver,47980.0,Apparel,135.33,Apple Pay,3,15,3,3.0,6,Yes,160,7,2024-01-31,70,No
+CUST-10041,46,Female,India,Bronze,66319.0,Apparel,8.5,Credit Card,1,5,2,4.0,8,No,119,15,2024-01-19,35,No
+CUST-10042,40,Male,India,Gold,110951.0,Beauty & Personal Care,324.44,Credit Card,7,25,2,4.0,7,No,204,10,2023-12-30,37,No
+CUST-10043,36,Male,Japan,Bronze,40872.0,Books & Media,8.5,Credit Card,3,0,11,2.5,4,Yes,58,17,2024-07-14,103,Yes
+CUST-10044,34,Prefer not to say,India,Bronze,,Home & Kitchen,245.0,Debit Card,9,0,6,3.5,7,No,99,10,2023-09-24,31,No
+CUST-10045,20,Female,Canada,Gold,89703.0,Home & Kitchen,107.62,Credit Card,5,0,7,2.5,5,Yes,214,12,2023-03-15,34,No
+CUST-10046,29,Female,United States,Bronze,66418.0,Sports & Outdoors,85.92,Apple Pay,5,15,6,3.5,7,No,39,5,2024-12-18,2,No
+CUST-10047,32,Male,United Kingdom,Silver,58393.0,Electronics,643.21,Buy Now Pay Later,3,10,11,1.0,3,No,207,23,2023-07-20,57,No
+CUST-10048,50,Male,Canada,Silver,66173.0,Electronics,171.55,PayPal,7,5,6,2.0,4,No,22,14,2024-11-17,77,No
+CUST-10049,42,Female,United States,Bronze,62628.0,Beauty & Personal Care,38.83,PayPal,3,0,9,3.5,6,No,38,2,2022-01-04,25,No
+CUST-10050,18,Female,Germany,Bronze,28007.0,Sports & Outdoors,8.5,PayPal,6,0,8,3.5,7,No,101,15,2023-09-28,13,No
+CUST-10051,41,Female,India,Silver,90058.0,Sports & Outdoors,8.5,Credit Card,3,0,8,1.5,4,Yes,183,20,2022-11-27,46,No
+CUST-10052,33,Male,United States,Bronze,18000.0,Apparel,14.32,PayPal,1,10,6,3.5,8,No,215,19,2024-06-16,6,No
+CUST-10053,29,Female,Japan,Silver,91333.0,Electronics,431.89,PayPal,8,0,5,3.5,7,No,169,18,2022-02-20,42,No
+CUST-10054,45,Female,Brazil,Gold,88291.0,Apparel,14.6,Crypto,9,0,9,2.0,3,Yes,148,8,2025-05-12,20,Yes
+CUST-10055,50,Female,India,Gold,90631.0,Electronics,45.53,Buy Now Pay Later,4,20,2,4.0,7,No,202,17,2023-12-04,14,No
+CUST-10056,49,Female,India,Bronze,18000.0,Apparel,26.99,Debit Card,4,10,7,3.0,6,No,72,18,2024-09-01,56,No
+CUST-10057,27,Female,Canada,Bronze,33813.0,Beauty & Personal Care,38.62,Debit Card,5,15,6,3.5,6,No,145,15,2023-05-02,11,No
+CUST-10058,34,Male,India,Bronze,23283.0,Electronics,237.89,PayPal,4,0,7,2.0,4,No,53,20,2024-06-28,109,Yes
+CUST-10059,41,Female,Japan,Bronze,31062.0,Sports & Outdoors,17.04,Apple Pay,7,5,4,,5,No,140,10,2025-06-05,348,Yes
+CUST-10060,49,Male,United States,Silver,59528.0,Apparel,8.5,Debit Card,5,10,9,1.0,4,No,141,9,2024-05-22,125,Yes
+CUST-10061,32,Female,United Kingdom,Silver,79240.0,Home & Kitchen,568.02,Credit Card,3,0,7,3.0,6,No,107,20,2024-04-26,9,No
+CUST-10062,35,Male,Japan,Bronze,45736.0,Electronics,80.88,Buy Now Pay Later,9,0,2,4.5,8,Yes,153,16,2022-06-20,20,No
+CUST-10063,24,Male,United States,Bronze,47538.0,Apparel,159.1,PayPal,6,20,4,4.0,7,No,154,0,2023-09-09,37,No
+CUST-10064,23,Male,Germany,Bronze,22280.0,Electronics,372.2,PayPal,5,25,5,3.5,7,No,207,11,2023-01-01,64,No
+CUST-10065,47,Male,Germany,Silver,46146.0,Books & Media,42.67,Apple Pay,12,0,2,4.5,9,No,38,20,2022-06-01,53,No
+CUST-10066,54,Female,United States,Bronze,74377.0,Beauty & Personal Care,10.15,Buy Now Pay Later,4,5,10,3.0,5,No,152,2,2023-10-30,19,No
+CUST-10067,37,Female,Canada,Silver,48766.0,Apparel,144.79,Credit Card,2,30,8,3.0,6,No,94,0,2023-05-22,81,No
+CUST-10068,50,Male,Japan,Bronze,71811.0,Electronics,492.07,Apple Pay,4,0,1,4.0,9,No,212,10,2024-03-05,23,No
+CUST-10069,42,Prefer not to say,United Kingdom,Gold,90624.0,Books & Media,36.68,PayPal,2,10,3,3.0,6,No,214,21,2022-02-23,45,No
+CUST-10070,30,Male,United States,Gold,,Apparel,48.2,Credit Card,5,30,1,4.5,9,Yes,200,20,2024-10-09,59,Yes
+CUST-10071,42,Male,United States,Bronze,61266.0,Electronics,94.38,Apple Pay,5,30,5,3.0,7,No,104,14,2023-10-10,0,No
+CUST-10072,56,Male,United Kingdom,Bronze,64894.0,Home & Kitchen,23.69,PayPal,3,10,8,2.0,4,No,210,15,2023-08-02,14,No
+CUST-10073,37,Female,Brazil,Silver,60005.0,Books & Media,23.43,Apple Pay,4,0,7,2.0,5,Yes,50,11,2022-11-08,68,No
+CUST-10074,56,Female,United States,Bronze,35011.0,Electronics,206.21,Credit Card,5,0,9,1.0,2,No,24,9,2025-01-20,17,No
+CUST-10075,18,Male,Germany,Silver,60993.0,Electronics,137.7,PayPal,3,20,2,5.0,10,No,67,19,2024-07-26,30,No
+CUST-10076,47,Non-Binary,United States,Gold,101083.0,Books & Media,27.51,PayPal,5,25,8,2.5,5,No,168,7,2022-02-13,65,No
+CUST-10077,39,Female,United States,Silver,78043.0,Electronics,158.04,PayPal,4,10,8,4.5,8,Yes,202,14,2023-11-12,77,No
+CUST-10078,34,Male,Australia,Gold,95076.0,Electronics,395.55,Credit Card,1,15,6,4.0,7,No,10,17,2024-08-01,60,No
+CUST-10079,39,Female,Japan,Bronze,53139.0,Home & Kitchen,381.89,Buy Now Pay Later,6,15,3,4.0,8,No,232,7,2022-12-09,46,No
+CUST-10080,18,Male,United States,Bronze,71490.0,Sports & Outdoors,23.55,PayPal,4,15,2,4.0,8,No,164,14,2022-12-23,8,No
+CUST-10081,35,Female,United Kingdom,Gold,101863.0,Apparel,58.27,Apple Pay,7,20,8,3.0,6,Yes,69,15,2022-04-01,42,No
+CUST-10082,42,Female,United States,Bronze,47609.0,Books & Media,8.5,PayPal,3,15,6,4.0,7,Yes,150,18,2023-12-19,17,No
+CUST-10083,55,Male,United Kingdom,Silver,34659.0,Home & Kitchen,130.64,Credit Card,6,10,4,4.0,8,No,208,9,2022-11-25,25,No
+CUST-10084,31,Female,Germany,Bronze,18000.0,Electronics,219.27,PayPal,5,0,5,4.0,7,No,167,10,2024-10-02,29,No
+CUST-10085,28,Male,United States,Bronze,48990.0,Books & Media,79.79,PayPal,4,15,5,3.5,7,No,215,15,2022-09-05,47,No
+CUST-10086,31,Male,United States,Platinum,138293.0,Apparel,46.22,PayPal,6,10,9,2.0,5,Yes,100,23,2025-02-22,1,No
+CUST-10087,48,Male,United Kingdom,Bronze,32733.0,Apparel,206.32,PayPal,5,0,9,1.5,3,No,109,9,2025-06-11,78,No
+CUST-10088,41,Female,Brazil,Platinum,144383.0,Home & Kitchen,17.77,PayPal,1,20,8,3.5,7,No,132,23,2025-01-24,32,No
+CUST-10089,31,Female,India,Platinum,138912.0,Apparel,130.89,Credit Card,8,15,8,3.0,7,No,301,18,2022-07-06,13,No
+CUST-10090,44,Female,United States,Gold,115300.0,Electronics,25.01,PayPal,2,25,2,4.5,10,No,219,19,2022-01-25,31,No
+CUST-10091,39,Prefer not to say,Japan,Silver,63549.0,Electronics,707.78,Credit Card,5,0,3,4.0,8,No,336,6,2024-09-26,26,No
+CUST-10092,49,Male,United Kingdom,Silver,48555.0,Apparel,63.21,Credit Card,3,10,8,2.5,5,No,113,10,2022-10-12,66,No
+CUST-10093,29,Male,United Kingdom,Gold,,Sports & Outdoors,182.86,Buy Now Pay Later,4,0,5,2.0,4,No,129,5,2023-06-01,69,Yes
+CUST-10094,34,Male,Japan,Bronze,38091.0,Home & Kitchen,248.76,PayPal,4,25,7,4.0,8,No,129,11,2024-06-04,14,No
+CUST-10095,33,Male,Brazil,Silver,71477.0,Books & Media,8.5,Apple Pay,7,0,8,2.0,3,No,245,22,2022-03-16,6,Yes
+CUST-10096,20,Male,India,Silver,53406.0,Apparel,8.5,PayPal,5,15,6,3.5,6,No,122,7,2022-05-06,5,No
+CUST-10097,41,Female,Canada,Silver,50303.0,Apparel,179.98,Debit Card,4,15,5,3.0,7,No,153,15,2023-06-24,3,No
+CUST-10098,41,Male,United Kingdom,Silver,63515.0,Electronics,119.37,PayPal,5,5,8,2.5,5,No,158,0,2022-03-31,89,No
+CUST-10099,38,Female,Japan,Bronze,,Electronics,35.53,Apple Pay,8,30,1,5.0,9,No,143,18,2025-05-05,50,No
+CUST-10100,35,Male,United States,Silver,70636.0,Apparel,63.85,Credit Card,7,20,1,4.5,9,Yes,112,9,2022-08-19,17,No
+CUST-10101,21,Male,Canada,Gold,90164.0,Beauty & Personal Care,55.12,Buy Now Pay Later,6,0,1,2.5,5,Yes,156,7,2024-06-14,81,No
+CUST-10102,32,Male,United Kingdom,Bronze,18000.0,Sports & Outdoors,8.5,Debit Card,5,0,3,3.0,7,No,117,11,2023-02-16,90,No
+CUST-10103,33,Female,Germany,Platinum,132210.0,Books & Media,15.68,Debit Card,3,0,10,1.0,2,Yes,185,19,2022-10-04,212,No
+CUST-10104,28,Female,United States,Silver,76288.0,Electronics,11.53,Credit Card,3,0,6,3.5,7,No,219,7,2024-02-05,55,No
+CUST-10105,36,Female,United States,Gold,89647.0,Sports & Outdoors,80.32,Credit Card,6,20,6,3.0,6,Yes,279,9,2024-01-21,23,No
+CUST-10106,42,Female,Brazil,Silver,57565.0,Apparel,205.64,Credit Card,3,30,5,3.0,5,No,94,0,2024-06-06,99,No
+CUST-10107,60,Female,United States,Gold,112754.0,Electronics,1704.73,Credit Card,4,0,7,2.5,5,No,150,22,2023-12-16,11,No
+CUST-10108,40,Male,Canada,Bronze,29184.0,Sports & Outdoors,85.17,Debit Card,4,10,5,2.5,6,Yes,80,16,2024-04-10,14,No
+CUST-10109,41,Male,United States,Gold,67229.0,Home & Kitchen,32.71,Credit Card,4,10,2,4.5,9,Yes,165,18,2025-06-21,82,No
+CUST-10110,37,Female,United States,Bronze,39108.0,Electronics,585.12,Credit Card,2,0,4,4.0,7,Yes,104,17,2023-10-18,28,No
+CUST-10111,18,Female,United States,Gold,,Apparel,81.09,Credit Card,7,5,1,4.0,9,Yes,178,8,2025-06-26,5,No
+CUST-10112,37,Female,United States,Platinum,122607.0,Apparel,22.22,Credit Card,2,5,7,4.0,7,No,253,16,2022-09-27,142,No
+CUST-10113,38,Male,Australia,Bronze,38843.0,Beauty & Personal Care,101.04,Credit Card,4,10,4,3.5,7,No,10,7,2023-10-29,39,No
+CUST-10114,67,Male,United States,Bronze,50847.0,Apparel,121.43,Apple Pay,3,15,4,4.0,8,Yes,177,12,2024-12-14,109,No
+CUST-10115,35,Male,India,Gold,94832.0,Books & Media,54.36,PayPal,3,15,4,3.5,8,No,137,15,2025-01-09,13,No
+CUST-10116,41,Male,Canada,Bronze,47525.0,Electronics,337.15,Credit Card,7,0,3,3.0,6,No,173,15,2025-01-16,1,No
+CUST-10117,37,Prefer not to say,United Kingdom,Gold,127641.0,Apparel,30.36,PayPal,5,20,8,4.0,8,No,125,7,2024-03-31,15,Yes
+CUST-10118,23,Male,Canada,Bronze,35828.0,Apparel,17.05,PayPal,1,15,4,3.0,6,No,215,3,2024-12-21,74,No
+CUST-10119,51,Female,Canada,Bronze,47010.0,Home & Kitchen,180.85,Credit Card,5,20,8,3.0,7,No,202,19,2023-03-17,10,No
+CUST-10120,47,Male,Japan,Platinum,130834.0,Apparel,34.11,Apple Pay,4,5,9,1.5,3,Yes,222,18,2025-04-20,143,Yes
+CUST-10121,47,Female,United States,Silver,46765.0,Beauty & Personal Care,25.13,Apple Pay,4,20,1,4.5,9,No,194,6,2022-08-24,41,No
+CUST-10122,27,Male,United Kingdom,Gold,84471.0,Sports & Outdoors,217.79,Apple Pay,6,20,4,5.0,10,No,113,7,2024-05-19,2,No
+CUST-10123,54,Female,Brazil,Bronze,33382.0,Books & Media,37.56,Apple Pay,3,5,6,3.0,6,No,96,20,2022-06-14,20,No
+CUST-10124,21,Male,India,Silver,68470.0,Beauty & Personal Care,31.8,Credit Card,5,5,8,2.0,5,No,203,18,2022-02-22,60,No
+CUST-10125,45,Male,Brazil,Silver,104283.0,Sports & Outdoors,249.59,Buy Now Pay Later,10,25,6,5.0,8,Yes,122,23,2024-06-15,46,No
+CUST-10126,64,Male,United Kingdom,Silver,49111.0,Home & Kitchen,289.23,Debit Card,2,15,6,2.5,6,No,238,9,2022-03-05,49,No
+CUST-10127,26,Male,Japan,Silver,54500.0,Sports & Outdoors,122.14,Debit Card,4,25,10,3.5,7,No,126,14,2024-10-18,0,No
+CUST-10128,31,Female,United Kingdom,Silver,60863.0,Apparel,24.32,Credit Card,8,15,4,3.5,8,No,183,9,2022-07-26,62,No
+CUST-10129,39,Female,United Kingdom,Silver,69124.0,Apparel,32.0,Buy Now Pay Later,3,10,9,2.0,5,Yes,291,16,2023-07-28,72,No
+CUST-10130,31,Female,United States,Bronze,46743.0,Apparel,31.07,Debit Card,8,0,7,2.5,5,No,97,7,2024-07-24,12,No
+CUST-10131,19,Female,Canada,Gold,118113.0,Apparel,16.23,Debit Card,7,0,11,1.5,3,Yes,183,7,2025-04-29,2,No
+CUST-10132,38,Male,United States,Bronze,18000.0,Apparel,16.27,Credit Card,5,30,6,3.5,6,No,197,6,2022-09-26,0,No
+CUST-10133,25,Female,United States,Silver,19035.0,Books & Media,8.5,Apple Pay,2,5,1,4.0,8,No,191,17,2024-02-04,2,No
+CUST-10134,43,Non-Binary,Australia,Bronze,33074.0,Apparel,42.0,Buy Now Pay Later,1,0,2,3.5,7,No,115,14,2024-09-03,90,No
+CUST-10135,26,Male,United States,Silver,81751.0,Electronics,855.95,Apple Pay,9,15,6,2.5,6,No,127,16,2024-10-01,5,No
+CUST-10136,56,Male,United States,Gold,66818.0,Home & Kitchen,20.41,PayPal,4,15,11,4.0,7,No,138,20,2024-08-14,51,No
+CUST-10137,28,Female,United States,Bronze,18000.0,Electronics,214.02,Buy Now Pay Later,3,0,1,4.0,7,No,223,18,2025-06-18,47,No
+CUST-10138,34,Male,India,Bronze,52281.0,Electronics,332.83,PayPal,7,0,11,1.5,4,Yes,127,13,2025-01-25,6,Yes
+CUST-10139,47,Male,Canada,Bronze,,Electronics,27.15,PayPal,5,10,5,4.0,8,No,148,23,2024-03-12,108,No
+CUST-10140,23,Male,United Kingdom,Silver,42376.0,Apparel,200.2,PayPal,1,0,1,4.5,9,No,113,13,2022-05-18,45,No
+CUST-10141,40,Male,Australia,Gold,77260.0,Apparel,88.8,Buy Now Pay Later,5,15,3,4.0,8,Yes,204,7,2025-06-16,67,No
+CUST-10142,53,Male,Australia,Bronze,24544.0,Beauty & Personal Care,14.25,Credit Card,2,5,7,3.0,6,No,142,23,2024-10-08,2,No
+CUST-10143,18,Female,United States,Gold,96989.0,Beauty & Personal Care,88.55,PayPal,5,20,5,4.0,8,No,103,2,2022-01-13,139,No
+CUST-10144,40,Male,Germany,Bronze,30726.0,Apparel,19.83,Apple Pay,7,20,10,2.5,5,No,72,15,2022-07-09,197,Yes
+CUST-10145,41,Female,Japan,Silver,70893.0,Apparel,119.69,Apple Pay,3,15,1,4.0,8,No,25,10,2023-10-11,4,No
+CUST-10146,47,Female,Germany,Platinum,88616.0,Apparel,8.5,PayPal,9,5,1,3.5,6,No,110,14,2023-10-04,58,No
+CUST-10147,23,Female,United States,Bronze,26576.0,Beauty & Personal Care,60.0,Debit Card,4,10,8,3.0,5,No,184,15,2024-09-20,91,Yes
+CUST-10148,22,Female,Australia,Silver,41731.0,Electronics,152.08,Buy Now Pay Later,3,5,11,1.5,3,Yes,226,9,2024-09-16,34,No
+CUST-10149,44,Female,Canada,Bronze,37385.0,Electronics,245.14,Credit Card,8,5,9,1.5,4,No,183,15,2024-12-20,12,No
+CUST-10150,41,Female,United States,Bronze,32315.0,Beauty & Personal Care,9.05,PayPal,2,20,7,3.0,6,No,172,18,2025-01-06,49,No
+CUST-10151,41,Non-Binary,United Kingdom,Bronze,,Apparel,102.01,Credit Card,7,10,3,4.0,8,No,139,10,2022-12-15,158,Yes
+CUST-10152,42,Male,United States,Bronze,18000.0,Electronics,248.55,Credit Card,7,20,6,3.5,9,No,179,12,2024-11-02,40,No
+CUST-10153,29,Non-Binary,United States,Silver,62818.0,Electronics,201.16,PayPal,3,0,3,3.5,7,No,170,10,2024-09-07,17,No
+CUST-10154,40,Female,Japan,Silver,72050.0,Books & Media,34.63,Debit Card,5,0,10,2.5,5,Yes,273,19,2024-05-01,21,No
+CUST-10155,41,Female,United States,Silver,95419.0,Sports & Outdoors,92.6,Debit Card,6,30,4,4.0,8,No,161,18,2023-01-11,44,No
+CUST-10156,29,Male,United Kingdom,Bronze,33328.0,Beauty & Personal Care,82.49,Credit Card,6,10,4,4.0,9,No,223,20,2024-05-20,5,No
+CUST-10157,60,Female,Canada,Bronze,47840.0,Apparel,57.28,Credit Card,2,10,3,4.0,8,No,200,8,2023-10-12,34,No
+CUST-10158,43,Female,United States,Silver,29530.0,Home & Kitchen,226.73,PayPal,7,10,10,2.5,4,Yes,182,6,2023-07-25,62,Yes
+CUST-10159,23,Male,India,Platinum,96944.0,Books & Media,67.51,PayPal,4,0,6,2.0,4,No,37,7,2024-01-05,25,Yes
+CUST-10160,45,Female,United States,Bronze,57205.0,Books & Media,16.96,Credit Card,7,15,5,4.0,7,Yes,208,8,2022-12-08,35,No
+CUST-10161,26,Male,United States,Gold,94899.0,Electronics,100.86,Debit Card,4,0,11,1.5,3,No,159,15,2024-07-05,23,Yes
+CUST-10162,47,Male,United States,Silver,83213.0,Beauty & Personal Care,30.25,Buy Now Pay Later,3,10,9,2.0,4,No,132,22,2023-12-24,80,No
+CUST-10163,51,Female,United States,Silver,37278.0,Electronics,423.08,PayPal,9,10,9,2.0,4,Yes,42,11,2024-07-29,165,Yes
+CUST-10164,28,Female,United States,Silver,71358.0,Electronics,86.4,Debit Card,1,25,3,4.0,8,Yes,155,22,2023-09-19,38,No
+CUST-10165,49,Male,Japan,Bronze,,Home & Kitchen,146.27,Credit Card,3,10,9,3.5,7,No,159,4,2022-07-24,1,No
+CUST-10166,42,Female,India,Bronze,49554.0,Apparel,138.81,Apple Pay,6,0,3,3.5,7,No,60,21,2023-06-17,2,No
+CUST-10167,47,Female,United States,Silver,66978.0,Books & Media,15.14,PayPal,7,10,4,3.0,8,Yes,57,8,2022-11-05,0,No
+CUST-10168,60,Prefer not to say,Germany,Bronze,42154.0,Electronics,264.24,Credit Card,5,0,1,3.5,8,No,172,21,2022-11-18,4,No
+CUST-10169,35,Female,Japan,Platinum,111724.0,Home & Kitchen,67.42,Buy Now Pay Later,5,0,5,2.5,5,No,232,5,2025-02-06,38,No
+CUST-10170,28,Male,Australia,Silver,86400.0,Sports & Outdoors,16.73,PayPal,4,0,9,2.5,6,No,175,21,2023-09-18,10,No
+CUST-10171,27,Prefer not to say,United Kingdom,Bronze,31004.0,Sports & Outdoors,137.01,Apple Pay,8,10,2,3.5,7,No,210,9,2023-03-30,47,No
+CUST-10172,28,Female,United States,Gold,104080.0,Electronics,42.1,Credit Card,2,0,4,3.5,7,Yes,166,10,2022-07-27,52,No
+CUST-10173,37,Female,United States,Bronze,18000.0,Apparel,16.15,Credit Card,5,10,10,2.0,4,No,125,14,2022-06-08,102,Yes
+CUST-10174,42,Female,Japan,Silver,40769.0,Home & Kitchen,279.1,Credit Card,6,25,2,5.0,10,No,80,12,2024-04-07,55,No
+CUST-10175,41,Female,Australia,Silver,87831.0,Electronics,157.86,PayPal,2,15,8,2.0,4,No,62,17,2022-06-21,3,No
+CUST-10176,47,Female,United States,Platinum,133748.0,Books & Media,177.3,Apple Pay,3,0,9,3.0,5,No,307,22,2025-06-27,16,No
+CUST-10177,38,Male,United Kingdom,Gold,121158.0,Sports & Outdoors,667.6,Credit Card,5,0,3,2.5,6,No,254,16,2025-06-19,10,No
+CUST-10178,55,Female,Brazil,Silver,60591.0,Electronics,96.28,Apple Pay,6,15,9,2.5,5,Yes,59,18,2024-08-04,19,No
+CUST-10179,34,Male,Australia,Silver,28845.0,Electronics,8.9,Apple Pay,3,20,6,1.0,2,No,144,6,2022-07-19,82,No
+CUST-10180,70,Prefer not to say,India,Platinum,156057.0,Electronics,603.99,Apple Pay,1,0,6,4.0,9,No,191,16,2023-08-05,16,No
+CUST-10181,45,Male,Japan,Bronze,31381.0,Sports & Outdoors,52.25,PayPal,3,20,7,3.5,7,No,117,13,2024-04-04,46,Yes
+CUST-10182,27,Male,United Kingdom,Bronze,54576.0,Electronics,31.07,Debit Card,3,10,5,3.5,6,No,120,20,2023-11-24,21,No
+CUST-10183,25,Female,Canada,Bronze,42453.0,Apparel,96.29,PayPal,2,10,6,3.0,5,No,166,12,2023-04-10,50,No
+CUST-10184,43,Male,Germany,Bronze,18000.0,Apparel,8.5,PayPal,2,30,11,1.5,4,No,182,17,2023-02-10,135,Yes
+CUST-10185,35,Male,United States,Silver,64957.0,Home & Kitchen,372.35,Credit Card,9,15,1,4.0,9,No,178,9,2025-02-19,5,No
+CUST-10186,46,Female,Canada,Silver,101532.0,Electronics,59.55,Credit Card,2,20,3,3.0,6,No,162,10,2022-11-01,0,No
+CUST-10187,43,Female,Japan,Silver,70873.0,Electronics,45.4,Credit Card,5,5,9,2.5,5,No,145,11,2025-01-05,124,No
+CUST-10188,37,Male,United States,Bronze,40964.0,Books & Media,8.5,PayPal,5,10,5,4.5,9,No,201,10,2023-03-10,31,No
+CUST-10189,27,Female,Japan,Gold,114356.0,Sports & Outdoors,536.59,Credit Card,4,10,5,2.5,5,No,207,9,2023-02-26,22,No
+CUST-10190,19,Female,Canada,Bronze,45792.0,Beauty & Personal Care,50.88,Credit Card,6,5,8,3.5,6,No,147,5,2024-05-14,18,No
+CUST-10191,32,Female,India,Silver,65771.0,Electronics,519.06,Apple Pay,3,10,11,3.5,7,No,150,19,2024-09-06,54,No
+CUST-10192,48,Female,United States,Silver,42350.0,Apparel,39.65,Credit Card,4,0,11,2.5,5,Yes,163,6,2023-12-29,34,No
+CUST-10193,40,Male,United States,Bronze,46209.0,Home & Kitchen,63.06,Credit Card,7,0,2,4.5,8,No,112,20,2022-03-02,42,No
+CUST-10194,23,Male,Germany,Bronze,60637.0,Apparel,25.01,Credit Card,8,5,7,3.0,6,No,203,7,2023-03-06,9,No
+CUST-10195,40,Male,United States,Bronze,26950.0,Sports & Outdoors,52.91,Apple Pay,5,15,9,2.0,5,No,63,6,2024-11-15,186,No
+CUST-10196,42,Female,Japan,Gold,120640.0,Home & Kitchen,199.47,Credit Card,6,25,7,4.0,8,No,153,15,2025-05-07,6,No
+CUST-10197,27,Female,Japan,Platinum,138349.0,Electronics,465.32,PayPal,3,10,5,2.5,6,No,228,14,2022-09-28,8,No
+CUST-10198,39,Male,United States,Silver,46020.0,Sports & Outdoors,31.37,PayPal,5,10,6,2.0,4,No,69,14,2025-06-12,75,No
+CUST-10199,38,Female,Canada,Bronze,59957.0,Books & Media,97.54,Apple Pay,4,0,4,2.5,6,Yes,47,15,2023-08-25,2,No
+CUST-10200,24,Female,Canada,Silver,56837.0,Electronics,55.54,PayPal,6,25,7,2.5,5,No,152,10,2023-03-23,58,No
+CUST-10201,42,Male,United Kingdom,Gold,108671.0,Home & Kitchen,795.21,Debit Card,3,10,1,4.0,8,No,64,17,2023-08-18,44,No
+CUST-10202,44,Female,Brazil,Gold,89748.0,Apparel,8.5,Credit Card,4,15,4,3.0,7,Yes,80,14,2023-04-28,21,No
+CUST-10203,50,Male,Australia,Bronze,40923.0,Apparel,50.45,Credit Card,8,15,3,4.5,9,Yes,189,11,2024-11-03,45,No
+CUST-10204,50,Female,Germany,Bronze,50884.0,Electronics,114.54,Credit Card,1,0,4,4.0,8,Yes,132,19,2024-05-07,67,No
+CUST-10205,21,Female,Japan,Gold,100236.0,Home & Kitchen,135.07,Credit Card,6,10,1,4.5,9,No,253,18,2024-04-15,25,No
+CUST-10206,26,Female,United Kingdom,Bronze,18000.0,Books & Media,15.22,Credit Card,7,30,2,4.5,9,No,50,12,2023-08-29,70,Yes
+CUST-10207,44,Non-Binary,Brazil,Bronze,21817.0,Home & Kitchen,60.45,Credit Card,4,0,11,1.5,3,Yes,124,20,2024-05-26,100,Yes
+CUST-10208,44,Male,Germany,Bronze,58729.0,Electronics,162.62,PayPal,3,15,9,1.5,3,No,175,21,2023-01-26,7,No
+CUST-10209,44,Non-Binary,Japan,Silver,59621.0,Home & Kitchen,230.53,Apple Pay,4,30,7,4.0,7,No,73,15,2025-01-11,20,No
+CUST-10210,75,Male,Australia,Gold,85572.0,Apparel,128.76,Credit Card,4,5,6,3.5,7,No,229,9,2023-07-09,75,No
+CUST-10211,44,Female,United States,Platinum,115545.0,Sports & Outdoors,299.55,Apple Pay,2,20,2,4.0,8,No,210,21,2022-06-04,67,No
+CUST-10212,51,Male,Australia,Silver,42564.0,Apparel,22.56,Credit Card,4,25,1,4.0,8,No,36,8,2024-03-30,64,No
+CUST-10213,49,Female,United States,Silver,25607.0,Electronics,188.44,Credit Card,5,15,2,4.0,9,No,130,5,2022-01-09,1,No
+CUST-10214,45,Male,United States,Bronze,40176.0,Electronics,220.86,PayPal,7,0,7,3.5,6,No,165,11,2023-04-20,16,No
+CUST-10215,34,Female,United States,Silver,51228.0,Beauty & Personal Care,21.03,Credit Card,6,5,2,5.0,10,No,107,18,2022-12-01,20,No
+CUST-10216,47,Male,India,Bronze,,Apparel,39.69,Credit Card,4,0,3,4.5,9,Yes,36,21,2022-04-24,37,No
+CUST-10217,28,Female,Australia,Silver,60773.0,Beauty & Personal Care,18.68,PayPal,6,20,8,3.5,7,No,168,17,2025-06-03,52,No
+CUST-10218,35,Female,Japan,Bronze,48551.0,Electronics,42.21,Buy Now Pay Later,5,20,7,3.5,7,No,288,21,2023-01-03,56,No
+CUST-10219,32,Male,Japan,Bronze,79677.0,Apparel,25.81,Apple Pay,3,10,11,2.0,3,Yes,134,7,2024-12-08,163,Yes
+CUST-10220,38,Female,Canada,Bronze,18000.0,Apparel,8.5,Credit Card,6,5,11,3.0,5,No,231,5,2022-02-07,67,No
+CUST-10221,65,Female,India,Bronze,,Books & Media,38.65,Debit Card,1,0,11,3.0,5,No,102,16,2022-07-22,58,No
+CUST-10222,18,Female,United Kingdom,Bronze,59515.0,Books & Media,35.38,Apple Pay,3,15,9,3.0,6,No,163,22,2023-11-05,6,No
+CUST-10223,46,Female,United Kingdom,Bronze,27976.0,Electronics,629.99,PayPal,6,15,4,3.5,8,No,184,14,2022-11-06,21,No
+CUST-10224,18,Male,United States,Platinum,143658.0,Apparel,188.48,Debit Card,7,25,7,3.5,7,Yes,191,5,2024-02-09,9,No
+CUST-10225,32,Male,Japan,Silver,53762.0,Electronics,15.52,PayPal,8,15,1,5.0,10,No,127,9,2023-02-12,4,No
+CUST-10226,51,Non-Binary,Japan,Silver,65342.0,Home & Kitchen,394.4,Credit Card,8,20,11,2.5,5,No,199,9,2023-09-10,100,No
+CUST-10227,38,Male,United Kingdom,Gold,122164.0,Apparel,263.79,PayPal,5,15,11,3.5,6,No,304,11,2025-02-27,36,No
+CUST-10228,25,Female,United States,Platinum,150900.0,Sports & Outdoors,111.94,PayPal,1,10,2,3.5,7,No,214,4,2023-01-20,28,No
+CUST-10229,29,Male,Australia,Silver,71154.0,Books & Media,31.55,PayPal,3,5,7,4.0,7,No,122,20,2025-01-30,26,No
+CUST-10230,46,Female,United States,Gold,87254.0,Apparel,419.16,PayPal,2,25,2,4.5,10,No,151,14,2024-03-11,37,No
+CUST-10231,29,Female,Japan,Bronze,,Apparel,38.76,Buy Now Pay Later,6,15,6,3.5,7,Yes,292,17,2023-01-21,53,No
+CUST-10232,40,Male,India,Bronze,38247.0,Sports & Outdoors,226.79,Debit Card,6,5,10,3.5,7,No,147,6,2022-02-10,107,No
+CUST-10233,38,Female,United Kingdom,Silver,83718.0,Beauty & Personal Care,8.5,Debit Card,8,0,9,1.5,4,No,123,5,2023-02-18,61,No
+CUST-10234,30,Male,United States,Silver,34510.0,Electronics,49.32,Debit Card,3,0,11,2.0,4,No,62,16,2024-01-12,0,Yes
+CUST-10235,63,Female,Japan,Silver,43008.0,Apparel,45.82,Buy Now Pay Later,7,10,5,3.0,7,No,22,20,2022-01-15,0,No
+CUST-10236,45,Male,Australia,Bronze,44272.0,Apparel,70.3,Credit Card,5,0,10,3.0,6,No,165,14,2024-03-15,2,Yes
+CUST-10237,18,Male,Canada,Bronze,24276.0,Electronics,330.51,Credit Card,2,0,7,3.0,6,Yes,174,20,2022-07-12,5,No
+CUST-10238,40,Male,India,Silver,,Electronics,1216.05,PayPal,4,10,1,5.0,10,No,118,19,2023-06-26,21,No
+CUST-10239,30,Male,United States,Bronze,34375.0,Electronics,114.32,Debit Card,1,0,8,2.0,5,No,136,6,2025-06-17,62,No
+CUST-10240,48,Male,Canada,Silver,37418.0,Home & Kitchen,8.5,PayPal,3,20,9,2.5,4,Yes,62,9,2025-04-13,28,No
+CUST-10241,28,Female,Japan,Silver,44465.0,Apparel,129.48,Apple Pay,8,10,5,3.5,7,No,150,17,2022-08-01,151,No
+CUST-10242,36,Male,Australia,Gold,107661.0,Electronics,381.0,Credit Card,7,10,6,3.5,6,No,205,13,2022-04-15,13,No
+CUST-10243,44,Female,United States,Gold,71467.0,Electronics,74.09,Credit Card,2,0,11,2.5,5,No,120,10,2025-02-14,62,No
+CUST-10244,48,Male,Australia,Gold,66238.0,Beauty & Personal Care,35.37,Apple Pay,4,5,8,2.0,5,No,262,12,2024-05-17,48,No
+CUST-10245,23,Male,Canada,Silver,50659.0,Sports & Outdoors,150.14,Credit Card,11,5,4,3.0,7,No,90,13,2022-10-20,37,No
+CUST-10246,33,Male,United Kingdom,Gold,108175.0,Apparel,183.97,Credit Card,3,20,2,3.5,8,Yes,192,21,2023-04-29,21,No
+CUST-10247,32,Female,United States,Silver,58455.0,Apparel,63.63,Credit Card,3,15,10,2.5,5,No,204,7,2022-03-25,160,Yes
+CUST-10248,30,Female,Australia,Bronze,33637.0,Books & Media,8.96,Credit Card,1,0,8,3.0,5,No,131,10,2024-07-27,96,Yes
+CUST-10249,59,Male,United States,Bronze,42798.0,Electronics,942.89,Apple Pay,4,10,2,4.0,8,No,129,15,2022-07-03,22,No
+CUST-10250,42,Female,United States,Bronze,18000.0,Electronics,182.91,Credit Card,5,0,5,3.0,6,No,36,18,2022-11-14,36,No
+CUST-10251,22,Female,United States,Silver,70904.0,Apparel,53.11,PayPal,7,50,6,,9,No,243,16,2025-01-08,23,No
+CUST-10252,49,Female,Australia,Silver,68901.0,Electronics,108.19,Credit Card,5,30,5,4.0,8,No,143,21,2022-03-07,115,No
+CUST-10253,63,Non-Binary,Germany,Gold,87632.0,Apparel,147.8,Debit Card,3,10,6,4.5,9,Yes,198,19,2023-05-05,49,No
+CUST-10254,50,Male,Japan,Bronze,60106.0,Sports & Outdoors,33.45,Credit Card,7,15,6,3.0,7,Yes,193,15,2022-10-25,4,No
+CUST-10255,19,Female,United States,Bronze,21705.0,Home & Kitchen,19.86,PayPal,3,20,3,3.5,7,No,90,9,2023-10-26,3,No
+CUST-10256,32,Female,Germany,Platinum,160302.0,Apparel,114.86,Apple Pay,3,15,11,4.0,8,No,187,13,2022-01-30,9,No
+CUST-10257,53,Female,Canada,Bronze,44780.0,Books & Media,9.72,Credit Card,5,15,11,1.5,5,Yes,229,17,2023-04-19,90,No
+CUST-10258,29,Male,Australia,Silver,55942.0,Electronics,293.59,Debit Card,2,30,3,5.0,9,No,75,19,2024-03-26,208,No
+CUST-10259,43,Male,Brazil,Silver,61642.0,Electronics,39.02,PayPal,4,10,9,3.0,6,Yes,289,22,2022-04-29,36,Yes
+CUST-10260,47,Female,United States,Silver,60069.0,Home & Kitchen,186.6,PayPal,6,10,3,4.0,8,No,101,16,2022-04-25,68,No
+CUST-10261,26,Female,Germany,Bronze,63965.0,Home & Kitchen,60.28,Credit Card,4,20,3,4.5,9,No,75,14,2022-12-06,112,Yes
+CUST-10262,37,Female,United States,Bronze,22619.0,Electronics,8.5,Buy Now Pay Later,1,15,11,1.0,3,No,139,1,2024-09-23,23,Yes
+CUST-10263,18,Male,Canada,Bronze,,Apparel,8.68,Apple Pay,4,15,2,4.5,9,No,277,6,2022-09-22,12,No
+CUST-10264,25,Male,United States,Silver,80653.0,Home & Kitchen,551.16,Credit Card,7,0,7,2.0,4,Yes,36,8,2023-03-03,83,No
+CUST-10265,34,Female,United States,Silver,51280.0,Home & Kitchen,327.32,Credit Card,4,5,10,2.0,4,No,136,5,2022-11-20,248,Yes
+CUST-10266,23,Female,United Kingdom,Bronze,58209.0,Home & Kitchen,45.93,Debit Card,1,0,10,2.5,4,Yes,180,12,2024-10-22,29,Yes
+CUST-10267,57,Female,Germany,Silver,92589.0,Apparel,174.28,Apple Pay,1,10,4,4.0,8,No,168,11,2023-01-27,15,No
+CUST-10268,20,Non-Binary,United States,Gold,87767.0,Electronics,347.95,Apple Pay,2,10,1,5.0,9,No,188,17,2024-05-10,17,No
+CUST-10269,32,Female,Japan,Bronze,54264.0,Apparel,313.22,PayPal,6,50,6,4.0,8,No,100,15,2024-02-17,20,No
+CUST-10270,39,Male,United Kingdom,Silver,41233.0,Electronics,118.94,Apple Pay,10,10,5,3.5,7,No,101,16,2024-10-20,48,No
+CUST-10271,55,Male,United States,Silver,75585.0,Books & Media,42.2,Credit Card,5,15,11,2.0,4,No,148,13,2023-05-23,78,No
+CUST-10272,20,Female,Japan,Bronze,45589.0,Apparel,8.5,Credit Card,2,5,2,4.0,8,No,69,10,2025-03-09,34,No
+CUST-10273,51,Female,United States,Bronze,50514.0,Apparel,43.11,PayPal,6,20,6,4.5,8,No,142,21,2025-06-07,12,No
+CUST-10274,38,Female,United Kingdom,Silver,50379.0,Beauty & Personal Care,149.93,Crypto,1,10,1,4.5,10,No,119,6,2022-03-19,59,No
+CUST-10275,26,Male,Germany,Gold,65100.0,Apparel,75.1,Credit Card,4,15,3,3.0,6,No,121,21,2025-06-06,36,No
+CUST-10276,43,Male,United States,Gold,104058.0,Apparel,41.63,PayPal,6,0,4,3.0,5,Yes,192,10,2022-05-19,35,No
+CUST-10277,40,Male,United States,Silver,24858.0,Beauty & Personal Care,8.5,Apple Pay,6,10,3,3.5,7,No,14,14,2024-02-24,78,No
+CUST-10278,30,Male,United Kingdom,Gold,89287.0,Sports & Outdoors,178.72,PayPal,4,10,6,4.5,8,No,149,7,2025-04-03,48,No
+CUST-10279,38,Female,India,Bronze,58941.0,Home & Kitchen,179.84,Debit Card,4,10,11,3.0,6,Yes,300,6,2025-05-13,79,No
+CUST-10280,33,Non-Binary,Germany,Silver,65454.0,Electronics,150.03,Apple Pay,1,25,4,4.0,7,No,82,12,2023-08-12,14,No
+CUST-10281,39,Male,Germany,Silver,97070.0,Home & Kitchen,672.09,Credit Card,7,20,1,4.5,9,No,252,18,2022-01-19,19,No
+CUST-10282,45,Female,Germany,Bronze,60451.0,Beauty & Personal Care,8.5,Crypto,7,30,5,5.0,10,No,153,10,2024-01-26,4,No
+CUST-10283,57,Non-Binary,United States,Gold,83229.0,Electronics,130.78,Apple Pay,4,15,5,3.5,7,No,122,15,2023-05-10,39,No
+CUST-10284,23,Male,United Kingdom,Silver,62491.0,Electronics,794.83,Debit Card,4,30,9,3.5,8,No,65,10,2023-01-15,36,No
+CUST-10285,63,Male,Japan,Bronze,41147.0,Sports & Outdoors,38.62,Apple Pay,2,20,8,,7,Yes,149,12,2023-07-16,0,No
+CUST-10286,18,Male,United States,Platinum,111520.0,Electronics,121.56,Debit Card,10,0,8,2.0,4,Yes,270,20,2023-05-12,6,No
+CUST-10287,36,Male,United States,Bronze,25072.0,Beauty & Personal Care,24.35,Credit Card,2,5,5,3.5,6,No,107,20,2024-05-02,3,No
+CUST-10288,45,Male,United States,Bronze,31906.0,Apparel,117.88,Credit Card,3,0,8,2.5,5,No,130,14,2024-09-25,18,No
+CUST-10289,41,Female,United Kingdom,Bronze,18000.0,Apparel,8.5,Debit Card,3,0,10,2.5,5,Yes,194,9,2025-05-22,196,No
+CUST-10290,30,Female,India,Gold,,Electronics,1110.74,Credit Card,3,0,7,4.0,7,No,190,9,2024-09-30,38,No
+CUST-10291,35,Male,United States,Gold,90516.0,Beauty & Personal Care,95.97,Credit Card,3,0,1,4.0,9,No,63,21,2024-02-11,48,No
+CUST-10292,32,Female,Canada,Bronze,18000.0,Apparel,10.2,Apple Pay,5,15,7,1.5,3,No,135,9,2024-06-29,48,No
+CUST-10293,30,Female,United States,Silver,69275.0,Home & Kitchen,234.44,Debit Card,3,5,11,2.0,3,Yes,252,19,2025-04-01,93,Yes
+CUST-10294,48,Female,India,Bronze,54885.0,Home & Kitchen,81.48,Credit Card,11,5,8,1.5,3,Yes,145,11,2024-12-09,3,Yes
+CUST-10295,42,Female,United States,Gold,99086.0,Beauty & Personal Care,32.6,Debit Card,4,15,3,4.5,8,No,10,23,2022-11-17,16,No
+CUST-10296,29,Male,United Kingdom,Silver,56166.0,Books & Media,48.62,Apple Pay,1,20,9,3.5,6,No,173,11,2023-03-14,47,No
+CUST-10297,48,Non-Binary,Japan,Silver,72645.0,Home & Kitchen,634.7,PayPal,3,30,8,3.0,7,No,143,11,2024-11-01,28,No
+CUST-10298,41,Female,Japan,Platinum,152243.0,Apparel,20.09,Debit Card,3,10,2,3.5,7,Yes,77,17,2023-07-10,11,No
+CUST-10299,47,Female,United Kingdom,Bronze,47533.0,Books & Media,15.97,PayPal,3,10,6,3.5,7,Yes,34,22,2022-03-20,42,No
+CUST-10300,45,Female,United States,Bronze,27156.0,Home & Kitchen,77.32,Credit Card,5,5,4,4.0,8,No,196,22,2022-10-14,26,No
+CUST-10301,28,Male,United Kingdom,Silver,66978.0,Apparel,46.44,Credit Card,5,0,3,3.0,6,No,105,18,2022-08-03,7,No
+CUST-10302,31,Male,United States,Platinum,161518.0,Electronics,227.11,PayPal,10,0,11,1.0,2,Yes,141,18,2022-02-09,164,Yes
+CUST-10303,46,Female,United States,Bronze,31260.0,Sports & Outdoors,8.5,PayPal,4,5,6,3.0,6,No,133,15,2024-10-28,4,No
+CUST-10304,45,Male,United Kingdom,Bronze,79762.0,Apparel,124.2,Debit Card,3,50,10,,8,No,118,18,2022-04-09,22,No
+CUST-10305,37,Male,United States,Bronze,32538.0,Home & Kitchen,73.97,Apple Pay,6,0,9,4.0,7,No,142,20,2022-03-30,13,No
+CUST-10306,39,Male,United States,Silver,62583.0,Apparel,20.6,PayPal,1,0,2,4.5,8,Yes,138,13,2022-01-12,16,Yes
+CUST-10307,53,Male,Germany,Bronze,29895.0,Electronics,366.55,Apple Pay,4,0,10,2.5,4,No,56,16,2024-01-11,142,Yes
+CUST-10308,30,Female,India,Silver,66018.0,Home & Kitchen,298.27,Credit Card,4,15,10,3.5,6,No,119,15,2024-09-11,56,No
+CUST-10309,44,Male,Germany,Platinum,108640.0,Electronics,275.0,Credit Card,3,5,10,1.5,4,Yes,203,15,2025-02-16,1,Yes
+CUST-10310,35,Female,United States,Silver,52171.0,Apparel,30.78,Debit Card,5,10,5,3.0,6,Yes,148,20,2025-05-14,4,No
+CUST-10311,35,Male,United States,Bronze,22341.0,Home & Kitchen,108.7,Credit Card,9,0,6,2.0,4,No,125,11,2024-10-12,32,No
+CUST-10312,51,Male,India,Silver,64436.0,Apparel,32.8,Credit Card,4,5,4,3.5,7,Yes,278,9,2024-05-08,49,No
+CUST-10313,47,Male,United States,Bronze,59900.0,Beauty & Personal Care,13.26,Apple Pay,2,0,7,2.5,5,Yes,197,13,2025-02-12,370,Yes
+CUST-10314,47,Male,United States,Gold,106628.0,Sports & Outdoors,210.63,PayPal,5,10,2,4.0,8,No,228,9,2024-07-22,6,No
+CUST-10315,53,Female,Canada,Silver,19310.0,Beauty & Personal Care,8.5,Debit Card,5,0,7,1.5,3,No,118,14,2022-08-30,29,No
+CUST-10316,38,Male,Germany,Bronze,78757.0,Electronics,34.99,Credit Card,7,15,2,4.5,8,No,173,20,2024-05-23,155,No
+CUST-10317,46,Prefer not to say,Germany,Silver,67315.0,Electronics,8.5,Credit Card,5,10,1,2.0,5,Yes,125,16,2024-08-06,260,No
+CUST-10318,34,Male,United States,Silver,48023.0,Home & Kitchen,26.03,Credit Card,5,15,11,3.5,6,No,194,20,2022-04-07,41,No
+CUST-10319,41,Female,United States,Silver,64828.0,Books & Media,8.5,PayPal,6,5,5,3.5,7,No,145,8,2022-06-02,50,No
+CUST-10320,36,Female,India,Bronze,45171.0,Sports & Outdoors,572.24,Credit Card,10,5,2,3.5,8,Yes,157,20,2024-09-24,64,No
+CUST-10321,39,Female,United States,Gold,82996.0,Sports & Outdoors,48.3,PayPal,5,0,8,3.0,6,No,171,16,2023-07-02,8,No
+CUST-10322,45,Male,Germany,Platinum,143562.0,Apparel,23.28,Debit Card,2,10,8,2.5,4,No,190,3,2025-01-12,59,No
+CUST-10323,28,Male,Japan,Silver,51065.0,Apparel,23.69,Debit Card,4,10,1,4.0,8,No,336,17,2022-11-02,51,No
+CUST-10324,63,Female,Germany,Platinum,132721.0,Apparel,380.95,Credit Card,3,10,4,4.0,8,Yes,143,21,2022-12-20,60,No
+CUST-10325,25,Male,United States,Bronze,29646.0,Electronics,158.32,PayPal,4,15,9,,2,No,90,6,2024-09-27,94,Yes
+CUST-10326,23,Male,United States,Silver,36211.0,Electronics,108.14,PayPal,6,20,5,3.5,7,No,183,16,2022-10-23,5,No
+CUST-10327,51,Male,Canada,Silver,64625.0,Books & Media,70.49,Buy Now Pay Later,7,15,11,2.0,5,No,113,21,2025-03-24,172,No
+CUST-10328,47,Male,Australia,Silver,72535.0,Electronics,169.47,Crypto,2,0,10,1.5,4,No,137,1,2022-02-18,98,No
+CUST-10329,45,Male,India,Silver,71267.0,Electronics,136.38,Credit Card,5,10,6,4.0,8,Yes,85,16,2023-03-29,4,No
+CUST-10330,45,Male,United States,Bronze,56758.0,Electronics,69.3,Apple Pay,9,0,3,3.0,6,No,180,13,2022-02-24,1,No
+CUST-10331,37,Female,United States,Bronze,47838.0,Books & Media,13.92,Credit Card,6,15,5,3.0,6,No,176,11,2025-05-06,12,No
+CUST-10332,27,Male,India,Bronze,32410.0,Home & Kitchen,49.05,Credit Card,4,5,1,3.0,6,Yes,115,16,2023-01-13,8,Yes
+CUST-10333,38,Male,Japan,Bronze,57113.0,Home & Kitchen,193.41,Credit Card,7,0,8,3.5,7,Yes,195,5,2023-09-07,18,No
+CUST-10334,29,Male,Brazil,Gold,,Sports & Outdoors,44.68,PayPal,1,20,11,2.0,4,Yes,34,18,2022-07-25,30,No
+CUST-10335,49,Male,United States,Bronze,25787.0,Apparel,52.55,PayPal,3,10,6,3.0,6,No,86,0,2025-01-04,12,No
+CUST-10336,36,Male,Canada,Bronze,24644.0,Home & Kitchen,8.5,Credit Card,3,5,2,4.5,8,No,121,10,2023-03-28,5,No
+CUST-10337,28,Female,Japan,Silver,81441.0,Electronics,75.87,Apple Pay,2,0,4,4.0,8,No,84,14,2025-04-07,26,No
+CUST-10338,34,Female,Germany,Silver,78970.0,Electronics,184.12,Credit Card,4,10,4,4.5,8,No,45,12,2024-03-14,21,No
+CUST-10339,42,Female,United Kingdom,Gold,103771.0,Sports & Outdoors,437.98,PayPal,7,25,9,,9,No,151,10,2022-05-11,36,No
+CUST-10340,31,Female,United States,Silver,81294.0,Beauty & Personal Care,27.18,Credit Card,4,10,9,3.0,6,No,205,19,2022-05-09,16,No
+CUST-10341,28,Male,Canada,Bronze,26172.0,Apparel,67.08,Credit Card,4,30,5,3.0,7,Yes,216,21,2024-04-19,7,No
+CUST-10342,40,Prefer not to say,United States,Gold,101274.0,Apparel,35.62,PayPal,4,0,3,3.0,7,No,135,20,2022-07-11,14,Yes
+CUST-10343,40,Female,United Kingdom,Silver,59746.0,Home & Kitchen,23.76,Credit Card,6,10,1,3.5,8,Yes,197,14,2022-10-05,20,No
+CUST-10344,31,Female,India,Bronze,57243.0,Electronics,18.07,PayPal,5,15,6,2.0,5,No,189,20,2022-11-13,255,No
+CUST-10345,32,Male,United Kingdom,Silver,59925.0,Electronics,111.71,Credit Card,3,10,8,3.0,6,No,229,21,2022-12-11,34,No
+CUST-10346,40,Female,Australia,Platinum,133071.0,Electronics,78.37,PayPal,2,0,1,4.5,9,No,163,12,2024-08-29,5,No
+CUST-10347,20,Male,United States,Bronze,51736.0,Apparel,16.53,Credit Card,7,10,11,2.0,4,Yes,28,10,2024-07-19,82,No
+CUST-10348,21,Male,Germany,Bronze,57771.0,Beauty & Personal Care,69.18,Apple Pay,4,10,1,4.0,7,No,153,7,2022-06-26,61,No
+CUST-10349,29,Male,India,Bronze,29969.0,Apparel,8.5,Apple Pay,2,15,11,3.0,6,No,69,13,2023-03-04,9,No
+CUST-10350,35,Female,United States,Bronze,40900.0,Electronics,206.65,Credit Card,3,15,7,2.5,4,No,93,21,2023-08-10,75,Yes
+CUST-10351,41,Female,United States,Silver,,Home & Kitchen,70.76,PayPal,4,15,7,1.5,4,Yes,121,15,2022-06-10,79,Yes
+CUST-10352,55,Male,United Kingdom,Silver,18000.0,Sports & Outdoors,46.62,Credit Card,7,15,2,,7,No,106,17,2024-01-22,35,No
+CUST-10353,48,Male,United States,Bronze,45608.0,Electronics,221.27,PayPal,3,0,3,2.5,5,No,152,7,2023-06-04,80,No
+CUST-10354,36,Female,Japan,Platinum,150960.0,Electronics,182.91,Credit Card,1,5,2,4.5,8,No,241,8,2023-08-23,137,No
+CUST-10355,37,Male,Brazil,Gold,99717.0,Apparel,41.98,PayPal,4,15,6,2.5,6,Yes,145,13,2024-06-01,24,No
+CUST-10356,25,Female,United Kingdom,Silver,26907.0,Beauty & Personal Care,43.64,PayPal,9,30,8,2.5,6,No,159,21,2023-07-21,20,Yes
+CUST-10357,37,Male,United States,Gold,88684.0,Home & Kitchen,436.85,Buy Now Pay Later,4,0,8,,7,No,165,11,2022-02-28,6,No
+CUST-10358,34,Female,United Kingdom,Bronze,18000.0,Beauty & Personal Care,8.5,PayPal,4,10,1,4.5,8,No,189,20,2022-01-16,41,No
+CUST-10359,41,Non-Binary,Japan,Silver,86654.0,Books & Media,8.5,PayPal,7,5,11,2.5,5,Yes,151,7,2025-04-21,5,No
+CUST-10360,28,Female,United States,Silver,42451.0,Beauty & Personal Care,94.57,PayPal,5,0,9,3.0,7,No,136,16,2023-09-11,36,No
+CUST-10361,44,Female,Canada,Gold,117597.0,Home & Kitchen,105.66,Buy Now Pay Later,3,10,11,1.5,4,No,154,16,2024-10-13,82,Yes
+CUST-10362,56,Female,Germany,Gold,112025.0,Apparel,101.97,Apple Pay,6,10,8,3.5,6,No,165,20,2024-07-25,2,No
+CUST-10363,36,Female,Germany,Bronze,25789.0,Electronics,89.6,Credit Card,5,0,9,2.5,5,No,81,0,2025-05-26,21,No
+CUST-10364,42,Male,United States,Platinum,119609.0,Books & Media,8.5,Debit Card,6,15,9,2.5,6,No,122,8,2025-01-14,23,No
+CUST-10365,46,Prefer not to say,Japan,Bronze,48306.0,Apparel,74.35,PayPal,5,20,11,2.0,3,Yes,194,9,2024-11-11,72,No
+CUST-10366,33,Female,United States,Gold,79802.0,Electronics,263.44,Debit Card,2,30,6,3.0,5,No,89,21,2022-10-11,34,No
+CUST-10367,40,Female,United States,Platinum,141844.0,Home & Kitchen,61.14,Debit Card,5,0,3,4.0,7,No,170,8,2024-02-26,33,Yes
+CUST-10368,38,Male,Australia,Bronze,33309.0,Apparel,41.71,Credit Card,5,10,1,3.0,7,No,202,4,2023-11-15,28,No
+CUST-10369,39,Male,Japan,Gold,62939.0,Home & Kitchen,286.2,Apple Pay,5,5,11,1.5,4,No,128,15,2022-06-07,2,No
+CUST-10370,28,Male,United States,Bronze,18000.0,Home & Kitchen,85.69,Credit Card,5,5,8,2.5,5,No,182,14,2024-06-12,133,No
+CUST-10371,38,Female,United States,Silver,66080.0,Apparel,9.96,Credit Card,5,10,10,3.0,6,No,114,20,2024-03-19,35,No
+CUST-10372,43,Female,United States,Silver,51891.0,Sports & Outdoors,88.99,Credit Card,4,15,3,3.5,7,No,77,21,2023-09-30,38,No
+CUST-10373,55,Male,United States,Silver,52044.0,Apparel,105.2,Apple Pay,4,0,7,3.0,5,No,42,15,2025-03-15,41,Yes
+CUST-10374,49,Female,United States,Platinum,152525.0,Apparel,233.61,Credit Card,4,30,10,2.0,5,Yes,281,21,2022-10-16,15,No
+CUST-10375,63,Male,United States,Silver,83121.0,Home & Kitchen,204.62,Credit Card,4,20,6,3.5,6,No,87,18,2023-01-05,64,No
+CUST-10376,28,Female,United Kingdom,Silver,57094.0,Home & Kitchen,28.32,Apple Pay,3,15,3,3.0,7,No,197,10,2025-01-01,17,No
+CUST-10377,48,Male,Japan,Gold,,Beauty & Personal Care,74.3,Credit Card,4,15,6,3.0,5,No,99,21,2023-10-23,25,No
+CUST-10378,40,Female,Germany,Platinum,149002.0,Apparel,165.98,Credit Card,6,5,3,4.0,8,No,280,17,2023-12-06,0,No
+CUST-10379,64,Male,Germany,Bronze,18000.0,Home & Kitchen,8.5,Credit Card,7,15,9,2.5,5,No,272,12,2023-02-21,239,No
+CUST-10380,28,Male,United States,Platinum,144016.0,Electronics,252.14,Credit Card,6,5,1,4.5,9,No,82,17,2023-04-16,24,No
+CUST-10381,27,Male,India,Bronze,51933.0,Books & Media,12.38,PayPal,5,20,8,1.5,4,No,75,12,2022-04-05,75,Yes
+CUST-10382,30,Female,Australia,Gold,107244.0,Apparel,137.79,Credit Card,1,0,5,3.0,6,No,223,7,2024-03-03,6,No
+CUST-10383,18,Male,Australia,Bronze,18000.0,Beauty & Personal Care,8.5,Crypto,7,0,4,4.5,9,No,162,18,2023-08-11,10,No
+CUST-10384,31,Male,Australia,Bronze,28295.0,Electronics,188.25,Apple Pay,5,10,1,3.5,7,No,184,19,2024-09-10,24,No
+CUST-10385,28,Male,Brazil,Silver,46191.0,Electronics,657.8,Credit Card,5,5,9,2.5,5,Yes,105,18,2023-07-19,105,No
+CUST-10386,39,Male,Canada,Silver,63797.0,Apparel,153.48,Credit Card,3,5,9,2.5,4,Yes,281,9,2025-03-25,66,No
+CUST-10387,42,Male,United States,Bronze,50653.0,Sports & Outdoors,281.67,PayPal,6,10,5,2.5,5,No,152,22,2025-01-17,98,No
+CUST-10388,60,Male,Germany,Bronze,68940.0,Home & Kitchen,721.44,PayPal,5,20,11,3.5,7,No,75,2,2025-02-04,27,No
+CUST-10389,49,Female,Japan,Silver,53090.0,Books & Media,8.5,Credit Card,1,10,9,3.0,5,No,130,11,2024-01-03,148,No
+CUST-10390,31,Male,Japan,Platinum,131043.0,Apparel,134.14,Credit Card,6,5,10,2.5,5,Yes,107,10,2024-02-21,16,No
+CUST-10391,27,Male,Canada,Bronze,62694.0,Apparel,50.68,Debit Card,3,0,9,1.0,3,No,254,5,2022-12-03,286,Yes
+CUST-10392,43,Female,United States,Bronze,47338.0,Electronics,535.37,Credit Card,3,5,7,3.0,6,Yes,100,12,2024-10-06,25,No
+CUST-10393,22,Female,United Kingdom,Silver,84817.0,Beauty & Personal Care,17.0,Credit Card,5,10,8,3.0,7,No,194,16,2025-05-29,22,No
+CUST-10394,59,Female,Brazil,Bronze,47197.0,Electronics,1078.6,Debit Card,5,15,1,5.0,10,No,113,20,2025-05-21,23,No
+CUST-10395,52,Male,Canada,Gold,74171.0,Sports & Outdoors,127.43,Apple Pay,4,0,4,4.5,8,No,117,23,2025-04-02,3,No
+CUST-10396,32,Male,Canada,Gold,71003.0,Sports & Outdoors,206.8,Credit Card,4,0,10,2.0,3,No,31,19,2023-08-30,184,Yes
+CUST-10397,18,Male,United States,Silver,34072.0,Books & Media,8.5,Apple Pay,2,5,10,2.5,5,No,175,13,2023-06-05,106,No
+CUST-10398,54,Male,United Kingdom,Bronze,53916.0,Home & Kitchen,33.67,Credit Card,2,5,4,4.0,8,No,231,18,2025-01-27,79,No
+CUST-10399,36,Female,Brazil,Gold,116394.0,Home & Kitchen,346.77,Apple Pay,4,5,9,1.5,3,No,118,19,2024-03-18,152,Yes
+CUST-10400,52,Female,Germany,Silver,95288.0,Beauty & Personal Care,8.5,PayPal,7,15,3,3.5,6,No,67,13,2022-06-16,19,No
+CUST-10401,18,Female,Japan,Gold,110175.0,Electronics,705.59,Debit Card,6,5,10,2.5,6,No,227,19,2023-02-09,16,No
+CUST-10402,30,Female,United Kingdom,Silver,82931.0,Home & Kitchen,8.5,Buy Now Pay Later,6,10,10,2.0,6,No,54,13,2023-09-14,36,No
+CUST-10403,38,Female,Germany,Gold,84559.0,Electronics,389.75,Buy Now Pay Later,4,10,1,3.5,7,No,241,12,2023-08-21,55,No
+CUST-10404,38,Female,United States,Silver,41184.0,Apparel,35.04,Debit Card,3,0,11,2.0,5,No,81,14,2022-04-12,113,Yes
+CUST-10405,32,Male,Japan,Silver,77301.0,Electronics,329.16,PayPal,1,15,5,4.0,7,No,86,17,2023-09-20,97,Yes
+CUST-10406,45,Male,United Kingdom,Platinum,147518.0,Electronics,572.72,Credit Card,1,10,7,4.0,7,No,209,18,2022-03-09,55,No
+CUST-10407,25,Prefer not to say,United Kingdom,Silver,63933.0,Apparel,40.3,PayPal,4,5,4,2.5,6,No,84,11,2024-10-25,3,No
+CUST-10408,36,Male,Germany,Silver,68972.0,Apparel,11.41,Apple Pay,5,20,9,3.5,6,No,108,15,2024-04-21,85,No
+CUST-10409,39,Male,Brazil,Bronze,47817.0,Home & Kitchen,11.3,Debit Card,1,0,6,4.0,7,No,166,21,2023-10-02,13,No
+CUST-10410,44,Female,United States,Silver,85108.0,Electronics,324.76,Credit Card,4,20,6,2.5,6,Yes,10,22,2024-04-18,11,No
+CUST-10411,46,Male,Australia,Silver,85309.0,Home & Kitchen,153.68,Debit Card,6,10,3,4.0,8,No,269,9,2022-07-13,16,No
+CUST-10412,24,Male,United States,Bronze,51795.0,Electronics,386.31,Debit Card,8,10,10,2.0,4,No,148,9,2023-06-18,22,Yes
+CUST-10413,19,Female,United Kingdom,Bronze,57224.0,Home & Kitchen,122.01,Crypto,5,20,10,3.5,7,No,64,17,2023-11-29,6,No
+CUST-10414,53,Female,United States,Silver,71253.0,Home & Kitchen,104.85,Debit Card,4,20,5,3.0,7,No,89,12,2025-06-15,26,Yes
+CUST-10415,41,Male,United States,Gold,86698.0,Home & Kitchen,106.95,Credit Card,3,10,10,2.0,4,No,227,2,2023-03-09,161,Yes
+CUST-10416,29,Female,Canada,Silver,75618.0,Beauty & Personal Care,8.5,Credit Card,6,15,6,3.0,6,No,196,11,2024-05-13,5,No
+CUST-10417,56,Male,United States,Bronze,18000.0,Apparel,20.85,Credit Card,3,5,4,3.5,7,Yes,219,19,2023-01-14,2,No
+CUST-10418,39,Male,United Kingdom,Silver,80970.0,Beauty & Personal Care,213.63,Credit Card,6,10,3,4.5,9,No,116,19,2022-09-15,24,No
+CUST-10419,52,Female,Brazil,Bronze,20498.0,Apparel,112.55,PayPal,2,0,5,2.5,5,Yes,149,14,2022-07-07,209,No
+CUST-10420,38,Female,United States,Silver,67144.0,Apparel,39.36,Debit Card,5,0,7,4.0,8,No,181,13,2024-06-17,13,No
+CUST-10421,62,Female,Japan,Bronze,26787.0,Home & Kitchen,103.79,Debit Card,7,20,11,3.0,5,No,178,16,2024-11-21,394,No
+CUST-10422,59,Female,United Kingdom,Bronze,51961.0,Electronics,536.41,PayPal,4,0,6,3.5,7,No,219,9,2023-06-29,12,No
+CUST-10423,35,Female,Germany,Bronze,41389.0,Home & Kitchen,84.74,Credit Card,3,0,2,3.5,8,No,94,14,2024-07-06,19,No
+CUST-10424,49,Male,United States,Bronze,18000.0,Home & Kitchen,8.5,Credit Card,5,15,1,4.5,9,No,121,1,2024-03-27,79,No
+CUST-10425,45,Female,United States,Bronze,49572.0,Apparel,8.5,Credit Card,4,0,5,3.0,6,No,105,13,2022-10-02,3,No
+CUST-10426,54,Male,United States,Bronze,31597.0,Electronics,158.96,Credit Card,3,0,5,3.5,8,No,132,11,2024-06-02,9,No
+CUST-10427,26,Female,United States,Silver,77860.0,Electronics,1218.74,PayPal,9,10,6,3.5,6,No,204,17,2023-11-16,42,No
+CUST-10428,46,Non-Binary,United States,Silver,62023.0,Books & Media,39.48,Credit Card,4,10,3,4.5,9,No,43,17,2024-11-07,40,No
+CUST-10429,50,Female,Germany,Bronze,49117.0,Home & Kitchen,11.66,Credit Card,3,15,1,4.0,8,No,216,12,2024-06-05,35,No
+CUST-10430,18,Female,Brazil,Gold,77763.0,Electronics,73.31,Credit Card,2,10,4,3.5,7,Yes,84,0,2024-10-31,11,No
+CUST-10431,23,Male,Australia,Bronze,31392.0,Apparel,99.37,PayPal,7,10,4,3.5,6,No,115,9,2022-10-22,16,No
+CUST-10432,18,Male,Germany,Silver,53744.0,Home & Kitchen,305.49,PayPal,4,15,10,2.5,6,No,227,17,2022-12-12,11,No
+CUST-10433,34,Female,United States,Bronze,57420.0,Sports & Outdoors,113.35,PayPal,2,10,2,3.5,7,No,170,6,2024-01-10,54,No
+CUST-10434,46,Male,United States,Bronze,,Electronics,347.89,PayPal,5,10,8,3.0,5,Yes,178,7,2023-12-03,103,No
+CUST-10435,56,Female,United States,Silver,47506.0,Electronics,8.5,Buy Now Pay Later,7,20,6,3.0,6,No,67,17,2023-04-17,15,Yes
+CUST-10436,38,Male,United States,Silver,81383.0,Sports & Outdoors,247.46,Credit Card,8,5,3,3.0,7,No,92,18,2022-01-02,0,No
+CUST-10437,57,Female,Canada,Gold,,Electronics,459.81,PayPal,5,5,1,4.5,9,No,209,11,2023-06-03,4,No
+CUST-10438,21,Female,Canada,Silver,40504.0,Electronics,75.55,Apple Pay,5,0,11,2.0,4,No,101,14,2022-10-01,31,No
+CUST-10439,18,Male,United Kingdom,Platinum,122741.0,Books & Media,57.97,PayPal,2,10,3,5.0,9,No,149,21,2024-07-15,1,No
+CUST-10440,37,Male,United Kingdom,Bronze,18000.0,Home & Kitchen,23.22,Buy Now Pay Later,3,0,8,2.0,4,No,191,21,2022-03-03,24,Yes
+CUST-10441,42,Female,Australia,Bronze,18000.0,Apparel,8.5,Credit Card,3,10,4,3.5,7,No,60,10,2023-12-12,7,No
+CUST-10442,37,Male,Japan,Bronze,49433.0,Electronics,62.52,PayPal,8,20,3,3.0,7,No,162,19,2023-08-28,38,No
+CUST-10443,18,Male,United States,Bronze,38146.0,Electronics,48.13,Credit Card,4,10,11,2.0,5,No,141,16,2022-04-03,121,Yes
+CUST-10444,36,Female,Brazil,Silver,68829.0,Electronics,135.39,PayPal,6,0,4,3.5,7,No,154,22,2023-05-15,11,No
+CUST-10445,22,Male,India,Silver,74428.0,Sports & Outdoors,72.75,Credit Card,5,15,11,2.5,4,Yes,123,13,2025-04-14,208,No
+CUST-10446,46,Female,United States,Bronze,46781.0,Apparel,58.41,Credit Card,3,0,4,4.0,8,No,105,19,2025-01-29,5,No
+CUST-10447,42,Male,United Kingdom,Platinum,151839.0,Beauty & Personal Care,50.79,PayPal,2,15,2,3.5,7,No,125,18,2022-03-11,39,No
+CUST-10448,26,Male,Canada,Gold,93748.0,Sports & Outdoors,47.54,PayPal,6,10,4,4.0,8,Yes,198,14,2023-05-18,108,No
+CUST-10449,31,Non-Binary,India,Bronze,20634.0,Apparel,8.5,Credit Card,8,0,11,2.0,3,No,86,19,2024-12-12,105,No
+CUST-10450,25,Female,Australia,Bronze,61040.0,Electronics,287.45,Apple Pay,5,25,9,3.0,6,No,213,10,2023-03-05,17,No
+CUST-10451,37,Female,United States,Bronze,31395.0,Home & Kitchen,63.87,PayPal,6,0,4,,5,No,121,7,2024-05-09,19,No
+CUST-10452,49,Female,United Kingdom,Bronze,25159.0,Sports & Outdoors,27.68,Credit Card,3,50,1,4.5,9,No,63,12,2025-03-12,31,No
+CUST-10453,26,Female,Canada,Bronze,38797.0,Beauty & Personal Care,79.95,PayPal,4,0,1,4.5,8,No,123,21,2024-05-29,18,No
+CUST-10454,44,Female,Canada,Silver,45569.0,Electronics,367.1,Apple Pay,9,0,1,5.0,10,No,116,14,2022-06-28,17,No
+CUST-10455,31,Male,United States,Bronze,34486.0,Home & Kitchen,259.15,PayPal,4,0,5,3.0,7,No,202,17,2024-07-28,52,No
+CUST-10456,28,Female,Australia,Bronze,48192.0,Home & Kitchen,107.31,Credit Card,5,0,6,4.0,8,No,120,16,2022-06-23,15,No
+CUST-10457,36,Female,Germany,Platinum,146270.0,Sports & Outdoors,26.4,Credit Card,1,15,6,3.5,7,No,175,7,2024-05-15,14,No
+CUST-10458,25,Male,Australia,Silver,45839.0,Electronics,319.42,PayPal,5,15,6,,6,No,234,12,2022-02-16,11,No
+CUST-10459,31,Female,Australia,Platinum,131221.0,Home & Kitchen,59.81,Buy Now Pay Later,4,15,9,3.5,7,No,218,18,2023-11-02,66,No
+CUST-10460,23,Male,Japan,Bronze,61337.0,Sports & Outdoors,70.91,Apple Pay,2,0,1,4.0,9,No,258,22,2025-03-14,42,Yes
+CUST-10461,61,Female,United Kingdom,Bronze,50935.0,Apparel,8.5,Credit Card,2,5,10,2.5,4,No,227,8,2023-11-30,138,Yes
+CUST-10462,38,Male,Germany,Silver,99351.0,Apparel,209.05,PayPal,6,15,6,4.0,7,No,112,12,2024-08-05,49,No
+CUST-10463,29,Female,United States,Bronze,63242.0,Electronics,42.39,Debit Card,4,5,8,3.0,5,No,215,7,2025-02-26,3,No
+CUST-10464,40,Female,Germany,Bronze,62597.0,Apparel,221.98,Credit Card,4,15,8,1.5,3,No,250,9,2024-12-10,52,No
+CUST-10465,36,Male,United States,Silver,,Apparel,146.04,Crypto,5,10,3,4.5,9,Yes,238,12,2022-10-07,46,No
+CUST-10466,35,Female,Germany,Silver,75749.0,Books & Media,23.07,Buy Now Pay Later,4,0,5,4.0,8,No,222,15,2023-02-03,45,No
+CUST-10467,45,Male,United States,Silver,61044.0,Apparel,128.11,Credit Card,6,15,10,4.0,7,No,213,9,2022-11-16,7,No
+CUST-10468,47,Female,United States,Silver,52082.0,Apparel,83.81,Buy Now Pay Later,6,15,4,4.5,8,No,126,9,2023-04-23,8,Yes
+CUST-10469,31,Female,United States,Silver,65024.0,Home & Kitchen,296.49,Credit Card,8,15,1,4.0,8,No,98,19,2022-04-19,9,No
+CUST-10470,31,Male,United States,Bronze,59013.0,Electronics,171.96,Debit Card,2,0,9,2.5,6,No,126,22,2024-07-08,0,No
+CUST-10471,34,Female,Japan,Bronze,51014.0,Apparel,132.3,PayPal,6,0,5,4.5,8,No,37,11,2023-11-20,2,No
+CUST-10472,18,Male,Japan,Bronze,26187.0,Beauty & Personal Care,20.22,PayPal,6,5,2,5.0,10,No,220,17,2023-08-24,18,No
+CUST-10473,19,Non-Binary,Canada,Bronze,55364.0,Sports & Outdoors,327.53,PayPal,2,0,2,4.0,8,No,129,10,2024-03-20,119,No
+CUST-10474,54,Male,United States,Platinum,128523.0,Home & Kitchen,170.91,Apple Pay,10,0,11,2.0,4,No,268,21,2023-05-08,151,Yes
+CUST-10475,57,Male,United States,Silver,65900.0,Home & Kitchen,114.08,Credit Card,4,20,7,2.0,5,Yes,72,17,2024-03-09,115,No
+CUST-10476,35,Female,United States,Gold,89539.0,Electronics,576.08,PayPal,6,10,4,4.5,8,Yes,235,19,2023-07-23,14,No
+CUST-10477,44,Female,United States,Bronze,38060.0,Books & Media,45.11,Credit Card,7,10,1,3.0,7,Yes,106,5,2024-05-25,25,No
+CUST-10478,41,Female,Brazil,Bronze,55792.0,Electronics,239.14,Credit Card,4,0,5,3.5,7,No,64,16,2023-08-16,9,No
+CUST-10479,74,Male,United States,Bronze,23276.0,Beauty & Personal Care,8.5,Credit Card,3,25,2,4.5,9,No,237,14,2022-11-24,5,No
+CUST-10480,51,Prefer not to say,United Kingdom,Bronze,77013.0,Apparel,66.53,PayPal,4,0,7,3.5,6,No,230,10,2023-07-13,31,No
+CUST-10481,36,Female,United States,Bronze,18000.0,Books & Media,62.0,Credit Card,5,15,9,3.0,6,No,142,10,2022-04-27,78,No
+CUST-10482,26,Male,United States,Gold,84241.0,Beauty & Personal Care,81.68,Credit Card,6,30,1,5.0,10,No,164,16,2022-03-06,40,No
+CUST-10483,18,Female,Canada,Silver,68663.0,Beauty & Personal Care,87.9,Credit Card,2,15,2,4.5,9,No,182,18,2023-12-22,21,No
+CUST-10484,40,Male,Germany,Silver,72517.0,Electronics,11.25,Credit Card,2,50,11,2.5,5,Yes,168,3,2024-12-02,18,No
+CUST-10485,28,Female,United States,Silver,60191.0,Apparel,58.83,PayPal,8,15,6,3.0,6,No,98,15,2023-04-08,163,Yes
+CUST-10486,20,Non-Binary,United States,Platinum,138966.0,Home & Kitchen,277.47,Buy Now Pay Later,1,0,8,2.0,4,No,162,8,2025-02-08,129,Yes
+CUST-10487,30,Male,United Kingdom,Bronze,49389.0,Beauty & Personal Care,79.26,Credit Card,4,0,7,2.5,6,No,272,8,2023-06-09,22,No
+CUST-10488,25,Female,United States,Bronze,37840.0,Electronics,12.31,Buy Now Pay Later,4,5,9,2.0,4,No,312,16,2023-05-01,58,Yes
+CUST-10489,58,Female,United States,Bronze,67077.0,Books & Media,66.49,Apple Pay,2,0,2,4.5,9,No,255,10,2024-12-04,33,No
+CUST-10490,48,Female,India,Gold,110108.0,Sports & Outdoors,129.77,PayPal,2,15,9,3.5,7,No,206,13,2023-06-22,55,No
+CUST-10491,37,Female,Germany,Platinum,155710.0,Apparel,32.97,PayPal,5,0,4,3.0,6,Yes,175,11,2025-02-13,91,No
+CUST-10492,55,Female,Canada,Bronze,24609.0,Sports & Outdoors,29.45,Debit Card,3,20,11,2.0,4,No,80,17,2024-06-25,12,Yes
+CUST-10493,38,Male,United Kingdom,Gold,93571.0,Home & Kitchen,72.49,Credit Card,1,5,3,3.0,7,No,119,13,2023-05-31,0,No
+CUST-10494,27,Male,United Kingdom,Gold,89591.0,Apparel,86.11,PayPal,5,10,7,3.5,7,No,128,22,2025-04-23,24,No
+CUST-10495,56,Male,Canada,Bronze,23899.0,Apparel,8.5,Apple Pay,7,30,5,4.5,9,No,271,11,2024-02-29,25,No
+CUST-10496,44,Female,Germany,Bronze,48482.0,Home & Kitchen,27.2,PayPal,6,0,5,2.0,4,No,261,18,2024-08-09,28,Yes
+CUST-10497,25,Male,Japan,Silver,52322.0,Beauty & Personal Care,77.11,Debit Card,1,15,2,4.0,8,No,194,10,2023-05-09,58,No
+CUST-10498,35,Male,United States,Platinum,151797.0,Apparel,21.07,Credit Card,3,15,6,3.0,6,No,133,14,2023-01-28,71,No
+CUST-10499,27,Female,Canada,Bronze,22736.0,Home & Kitchen,28.68,Apple Pay,2,0,6,1.5,4,No,189,15,2023-01-02,171,Yes
+CUST-10500,21,Male,United Kingdom,Gold,125942.0,Home & Kitchen,153.37,PayPal,9,10,4,3.0,7,No,167,11,2023-06-27,33,No
+CUST-10501,49,Male,Australia,Bronze,25866.0,Beauty & Personal Care,23.56,Credit Card,8,5,5,4.5,7,No,10,13,2024-12-26,14,No
+CUST-10502,60,Female,Germany,Gold,98947.0,Electronics,568.1,Credit Card,2,15,7,2.5,6,Yes,188,10,2022-01-10,5,No
+CUST-10503,21,Female,Canada,Silver,76253.0,Sports & Outdoors,80.55,PayPal,2,10,8,2.0,4,No,103,0,2022-10-21,53,No
+CUST-10504,44,Male,United States,Silver,51728.0,Apparel,134.87,Debit Card,5,10,6,5.0,10,Yes,93,9,2022-11-21,3,No
+CUST-10505,30,Female,Germany,Gold,110344.0,Apparel,121.63,PayPal,7,15,5,3.5,7,No,158,18,2024-08-08,90,No
+CUST-10506,32,Non-Binary,United States,Gold,,Electronics,40.57,Debit Card,8,0,3,3.5,7,No,124,19,2025-05-01,80,No
+CUST-10507,30,Male,United States,Gold,121138.0,Apparel,22.49,PayPal,2,15,7,2.5,5,No,178,10,2022-12-10,67,No
+CUST-10508,27,Male,United States,Bronze,42254.0,Sports & Outdoors,58.1,Credit Card,5,20,8,3.0,6,No,135,12,2024-08-21,34,No
+CUST-10509,38,Female,Germany,Silver,51264.0,Apparel,43.52,Credit Card,4,20,3,4.0,8,No,23,4,2023-03-20,7,No
+CUST-10510,28,Female,United States,Bronze,36614.0,Beauty & Personal Care,52.4,Credit Card,2,15,5,2.5,5,No,237,9,2023-01-12,11,No
+CUST-10511,41,Male,United Kingdom,Silver,76560.0,Electronics,301.18,Credit Card,3,5,11,1.5,3,Yes,94,19,2025-06-20,63,Yes
+CUST-10512,37,Male,Brazil,Silver,51479.0,Apparel,42.37,Credit Card,6,50,2,5.0,10,No,83,16,2024-01-23,6,No
+CUST-10513,35,Female,United States,Silver,48511.0,Books & Media,8.5,Apple Pay,4,5,10,3.5,7,No,122,9,2024-12-11,12,No
+CUST-10514,27,Male,Canada,Silver,58012.0,Beauty & Personal Care,12.47,Apple Pay,5,10,10,2.5,5,No,141,10,2022-02-27,307,Yes
+CUST-10515,31,Male,United Kingdom,Platinum,118814.0,Electronics,369.84,Credit Card,2,0,4,4.5,8,No,274,19,2022-09-11,41,No
+CUST-10516,47,Female,United States,Bronze,74769.0,Home & Kitchen,107.74,Credit Card,1,50,4,4.5,8,No,174,9,2025-03-23,85,No
+CUST-10517,44,Female,Japan,Silver,51804.0,Electronics,206.19,Credit Card,4,15,8,3.5,6,No,182,11,2023-06-30,37,No
+CUST-10518,26,Male,United States,Bronze,56969.0,Apparel,16.98,PayPal,5,15,3,4.0,9,Yes,166,17,2022-09-04,32,No
+CUST-10519,39,Female,United Kingdom,Bronze,45770.0,Beauty & Personal Care,46.82,Credit Card,4,0,5,4.5,8,No,157,15,2024-08-07,19,No
+CUST-10520,47,Female,Canada,Bronze,24278.0,Beauty & Personal Care,60.02,Credit Card,1,15,11,3.0,6,No,152,13,2025-01-26,23,No
+CUST-10521,18,Female,Germany,Platinum,139892.0,Electronics,139.72,Buy Now Pay Later,6,15,5,2.5,6,No,64,20,2023-05-07,61,No
+CUST-10522,44,Female,Germany,Gold,109112.0,Books & Media,29.97,Debit Card,1,15,2,4.0,8,Yes,158,9,2024-12-16,7,No
+CUST-10523,30,Male,United States,Platinum,136611.0,Home & Kitchen,981.24,Credit Card,2,0,9,3.0,5,No,263,18,2024-02-01,268,No
+CUST-10524,44,Male,United States,Platinum,161476.0,Apparel,61.91,PayPal,3,10,4,3.5,7,Yes,456,8,2022-05-31,29,No
+CUST-10525,28,Female,Japan,Bronze,60387.0,Home & Kitchen,158.95,Credit Card,4,0,9,2.5,5,No,71,16,2025-03-03,190,Yes
+CUST-10526,18,Male,Canada,Bronze,58540.0,Home & Kitchen,16.36,Apple Pay,2,10,9,3.5,6,No,176,20,2023-03-08,5,No
+CUST-10527,18,Male,Australia,Silver,53726.0,Home & Kitchen,154.48,PayPal,6,0,2,4.0,9,No,109,13,2023-12-28,37,No
+CUST-10528,38,Male,Australia,Silver,42562.0,Apparel,8.5,Credit Card,5,5,9,3.5,7,Yes,274,18,2023-04-27,52,No
+CUST-10529,41,Female,Australia,Silver,50955.0,Home & Kitchen,516.86,Apple Pay,1,0,9,2.5,5,Yes,57,19,2023-10-13,10,No
+CUST-10530,27,Female,United Kingdom,Bronze,45532.0,Electronics,336.03,Credit Card,8,0,2,3.0,6,No,183,7,2024-07-07,16,No
+CUST-10531,45,Prefer not to say,United States,Silver,71824.0,Beauty & Personal Care,83.7,Credit Card,5,0,11,2.0,5,Yes,64,18,2022-07-14,306,Yes
+CUST-10532,18,Male,Japan,Silver,22911.0,Home & Kitchen,131.89,Credit Card,2,25,6,4.5,9,Yes,110,21,2023-07-03,102,No
+CUST-10533,37,Female,United Kingdom,Bronze,41853.0,Electronics,228.24,PayPal,7,10,9,2.5,5,Yes,138,15,2024-01-06,47,No
+CUST-10534,23,Female,United States,Silver,64845.0,Beauty & Personal Care,30.63,Credit Card,5,5,4,4.0,8,No,221,8,2022-09-01,80,No
+CUST-10535,30,Female,Australia,Silver,,Books & Media,62.61,Credit Card,7,10,2,4.0,9,No,78,7,2023-07-26,7,No
+CUST-10536,38,Male,Brazil,Silver,85242.0,Books & Media,123.1,Credit Card,5,10,7,3.0,6,No,205,10,2023-04-14,6,No
+CUST-10537,27,Male,United Kingdom,Bronze,49592.0,Apparel,58.51,Credit Card,2,25,9,2.5,6,No,146,7,2024-12-19,36,No
+CUST-10538,33,Male,United States,Gold,118583.0,Electronics,1156.25,Apple Pay,4,0,6,2.0,5,Yes,197,14,2023-07-04,32,No
+CUST-10539,50,Female,United Kingdom,Bronze,38112.0,Home & Kitchen,122.29,Credit Card,5,0,11,1.0,1,No,201,6,2022-08-26,136,Yes
+CUST-10540,31,Male,Australia,Bronze,58874.0,Electronics,234.87,Credit Card,6,30,11,2.5,4,No,66,9,2024-12-07,153,No
+CUST-10541,48,Male,Brazil,Gold,124431.0,Books & Media,28.68,Apple Pay,4,5,4,3.5,7,No,234,13,2022-04-18,136,No
+CUST-10542,24,Female,United States,Silver,85610.0,Electronics,86.03,Apple Pay,2,0,1,4.5,9,No,125,13,2022-07-30,16,No
+CUST-10543,44,Male,United States,Bronze,,Apparel,8.5,Debit Card,1,0,4,3.5,7,No,202,15,2024-05-12,46,No
+CUST-10544,55,Non-Binary,Australia,Silver,,Apparel,25.18,PayPal,6,0,3,3.5,7,No,170,18,2025-02-23,2,Yes
+CUST-10545,18,Female,United Kingdom,Silver,55787.0,Apparel,64.0,Credit Card,5,50,7,3.0,6,No,134,5,2023-04-11,62,No
+CUST-10546,28,Male,Canada,Gold,103806.0,Beauty & Personal Care,30.99,Apple Pay,8,0,11,2.0,5,Yes,133,6,2023-04-22,7,No
+CUST-10547,44,Female,India,Gold,107354.0,Apparel,74.12,Apple Pay,6,25,11,3.0,6,No,227,5,2022-01-28,2,No
+CUST-10548,35,Male,United States,Silver,46899.0,Electronics,1069.79,Credit Card,3,50,10,3.5,7,Yes,225,12,2023-08-09,29,No
+CUST-10549,42,Male,Germany,Silver,63221.0,Apparel,41.21,Debit Card,1,10,5,3.5,8,No,116,4,2024-12-25,17,No
+CUST-10550,30,Male,United States,Bronze,18000.0,Home & Kitchen,57.77,Credit Card,5,0,3,2.5,6,No,55,18,2024-01-20,35,No
+CUST-10551,39,Male,United Kingdom,Bronze,67955.0,Electronics,46.78,Crypto,6,0,2,3.5,7,No,199,9,2024-08-20,0,No
+CUST-10552,36,Female,Australia,Silver,52777.0,Home & Kitchen,8.5,Debit Card,6,10,2,5.0,10,Yes,52,21,2024-06-21,30,No
+CUST-10553,52,Male,United Kingdom,Silver,63005.0,Home & Kitchen,268.24,Apple Pay,2,5,5,4.0,8,No,66,14,2023-12-21,50,No
+CUST-10554,41,Male,India,Silver,56426.0,Beauty & Personal Care,40.42,Buy Now Pay Later,7,10,8,1.5,4,Yes,79,13,2023-01-09,132,Yes
+CUST-10555,42,Female,Canada,Bronze,62628.0,Books & Media,48.01,Apple Pay,2,5,8,3.0,5,No,124,19,2024-03-24,202,No
+CUST-10556,33,Male,United States,Bronze,18000.0,Sports & Outdoors,10.72,Credit Card,4,25,5,3.5,8,No,42,18,2023-08-14,26,No
+CUST-10557,32,Male,United States,Silver,61701.0,Books & Media,28.27,PayPal,6,10,2,3.5,7,No,24,16,2024-08-16,31,No
+CUST-10558,32,Female,United Kingdom,Bronze,40095.0,Electronics,73.35,Credit Card,3,15,4,2.5,5,Yes,66,21,2025-05-16,22,No
+CUST-10559,42,Male,United Kingdom,Gold,86834.0,Electronics,95.51,Credit Card,5,20,7,3.0,6,Yes,205,12,2024-04-03,55,No
+CUST-10560,32,Male,United States,Bronze,73072.0,Apparel,8.5,Apple Pay,4,0,6,2.5,5,Yes,73,19,2022-01-22,5,No
+CUST-10561,41,Female,United Kingdom,Silver,46028.0,Sports & Outdoors,14.74,Credit Card,4,0,10,1.5,4,No,120,12,2024-03-25,99,No
+CUST-10562,62,Prefer not to say,United Kingdom,Platinum,153892.0,Books & Media,19.47,Credit Card,4,0,7,2.5,5,No,323,19,2023-01-10,66,No
+CUST-10563,48,Female,Japan,Bronze,48412.0,Sports & Outdoors,13.45,PayPal,6,0,5,3.5,6,No,141,10,2023-05-20,0,No
+CUST-10564,34,Female,Germany,Silver,84707.0,Electronics,1552.04,Debit Card,1,10,2,4.5,8,Yes,184,10,2024-06-24,114,No
+CUST-10565,52,Female,Japan,Bronze,29990.0,Books & Media,8.58,Credit Card,6,5,8,2.0,4,Yes,73,17,2022-01-23,229,Yes
+CUST-10566,33,Male,United States,Silver,48806.0,Apparel,11.73,Credit Card,4,5,2,4.0,8,No,285,9,2023-02-27,64,No
+CUST-10567,18,Male,United States,Silver,81729.0,Electronics,79.47,Credit Card,4,50,8,3.0,5,Yes,125,9,2024-12-06,11,No
+CUST-10568,25,Female,Germany,Silver,69655.0,Apparel,88.89,Apple Pay,3,0,7,3.5,6,No,140,10,2024-12-24,23,No
+CUST-10569,18,Female,United Kingdom,Silver,34191.0,Electronics,15.32,Credit Card,3,10,3,2.0,4,No,222,17,2024-01-25,114,No
+CUST-10570,33,Male,United States,Gold,85292.0,Home & Kitchen,414.53,Apple Pay,1,0,4,3.5,7,No,150,20,2022-05-29,33,No
+CUST-10571,38,Female,Australia,Bronze,48954.0,Apparel,273.94,Credit Card,5,5,7,4.0,7,No,147,17,2022-09-18,93,No
+CUST-10572,58,Male,Japan,Bronze,57079.0,Apparel,25.73,Credit Card,4,10,4,2.5,6,No,130,19,2022-06-30,44,No
+CUST-10573,41,Male,Canada,Gold,82773.0,Home & Kitchen,123.11,Buy Now Pay Later,1,25,9,4.0,7,No,143,15,2022-11-09,160,No
+CUST-10574,35,Male,United States,Silver,18000.0,Sports & Outdoors,8.5,Credit Card,3,5,7,3.5,7,No,153,6,2023-12-11,57,No
+CUST-10575,47,Non-Binary,Japan,Gold,104418.0,Home & Kitchen,236.68,PayPal,11,0,1,2.0,4,No,208,7,2022-11-10,59,No
+CUST-10576,18,Female,Canada,Silver,40034.0,Apparel,40.64,Credit Card,3,5,1,4.0,8,No,98,15,2022-03-17,23,No
+CUST-10577,40,Prefer not to say,Japan,Gold,58687.0,Beauty & Personal Care,15.35,PayPal,7,0,4,1.5,3,Yes,99,11,2023-10-01,115,Yes
+CUST-10578,47,Male,Japan,Silver,18000.0,Sports & Outdoors,15.29,PayPal,8,0,9,3.0,5,No,89,9,2024-09-22,86,No
+CUST-10579,20,Male,Australia,Gold,109651.0,Electronics,440.1,Credit Card,6,10,4,3.5,7,No,83,13,2023-12-18,77,No
+CUST-10580,51,Female,Canada,Platinum,142315.0,Home & Kitchen,145.29,Credit Card,4,0,5,2.0,4,No,87,17,2024-10-17,177,No
+CUST-10581,42,Male,United States,Silver,57938.0,Apparel,18.12,Credit Card,6,10,1,5.0,10,No,168,12,2024-08-23,36,No
+CUST-10582,33,Female,Germany,Bronze,67002.0,Electronics,378.68,Apple Pay,3,10,2,4.0,8,No,214,19,2023-06-11,18,No
+CUST-10583,45,Female,Germany,Bronze,53471.0,Home & Kitchen,137.76,Apple Pay,2,5,11,1.0,3,No,203,18,2024-04-01,100,Yes
+CUST-10584,65,Female,Japan,Bronze,71093.0,Sports & Outdoors,256.65,PayPal,5,0,4,4.5,9,No,10,18,2022-10-15,18,No
+CUST-10585,40,Male,United States,Bronze,18000.0,Electronics,20.99,PayPal,6,50,4,3.0,6,No,113,23,2022-10-08,9,No
+CUST-10586,40,Male,United States,Bronze,41378.0,Beauty & Personal Care,63.05,Credit Card,4,5,11,,3,Yes,69,10,2023-02-14,22,No
+CUST-10587,32,Male,Brazil,Silver,32899.0,Sports & Outdoors,99.88,Credit Card,4,15,10,1.0,2,No,145,17,2022-08-25,107,No
+CUST-10588,27,Male,Japan,Silver,57871.0,Sports & Outdoors,14.46,Credit Card,4,5,6,3.5,8,No,121,20,2022-04-28,46,No
+CUST-10589,47,Female,Brazil,Silver,57524.0,Apparel,108.21,Credit Card,5,10,6,3.0,7,No,187,16,2023-01-23,85,No
+CUST-10590,27,Male,Japan,Silver,73279.0,Sports & Outdoors,77.58,Credit Card,5,5,8,2.5,6,Yes,155,19,2022-02-15,65,No
+CUST-10591,38,Female,Canada,Bronze,,Apparel,228.13,PayPal,5,5,9,3.0,5,No,18,12,2024-03-10,151,Yes
+CUST-10592,32,Male,Germany,Bronze,53221.0,Home & Kitchen,25.21,PayPal,6,0,1,4.5,9,No,83,16,2024-01-27,95,Yes
+CUST-10593,43,Male,Brazil,Bronze,54661.0,Electronics,301.41,Buy Now Pay Later,4,5,1,4.0,8,No,147,5,2023-01-16,6,No
+CUST-10594,42,Male,Canada,Silver,100788.0,Electronics,191.31,Credit Card,5,20,6,3.5,7,No,176,23,2024-09-08,7,No
+CUST-10595,50,Male,Germany,Bronze,36324.0,Beauty & Personal Care,120.52,PayPal,4,15,4,3.5,7,No,46,19,2023-04-18,25,No
+CUST-10596,31,Female,United States,Bronze,25061.0,Apparel,24.1,Debit Card,5,0,11,1.5,3,Yes,32,20,2023-12-02,43,Yes
+CUST-10597,34,Female,United Kingdom,Silver,66429.0,Apparel,320.87,PayPal,5,10,4,4.0,7,Yes,156,17,2023-07-15,47,No
+CUST-10598,26,Male,Japan,Gold,80558.0,Electronics,823.68,Credit Card,3,20,1,4.5,9,No,69,8,2023-11-17,77,No
+CUST-10599,32,Female,United States,Bronze,68675.0,Home & Kitchen,59.11,Credit Card,5,15,9,3.0,5,No,45,3,2022-01-20,85,No
+CUST-10600,42,Female,United States,Silver,56902.0,Electronics,486.08,Credit Card,4,0,11,1.0,2,No,119,20,2024-03-29,14,No
+CUST-10601,47,Male,United States,Silver,51819.0,Beauty & Personal Care,248.62,Credit Card,8,20,3,3.0,6,No,114,12,2023-01-07,19,No
+CUST-10602,26,Male,United States,Gold,86516.0,Electronics,107.27,Apple Pay,3,5,5,4.0,8,No,106,10,2023-09-29,26,No
+CUST-10603,48,Female,United States,Platinum,152931.0,Electronics,281.12,Credit Card,2,10,10,2.0,4,No,150,15,2023-02-07,351,Yes
+CUST-10604,54,Female,United Kingdom,Bronze,39160.0,Apparel,55.24,Credit Card,1,10,1,5.0,9,No,140,12,2024-09-28,56,Yes
+CUST-10605,42,Male,Brazil,Bronze,30449.0,Apparel,23.18,Apple Pay,5,20,8,2.5,5,Yes,88,17,2022-08-07,102,No
+CUST-10606,60,Male,Canada,Gold,124976.0,Apparel,8.5,Apple Pay,3,25,3,3.0,6,No,187,13,2024-12-30,22,No
+CUST-10607,28,Female,United States,Silver,46588.0,Apparel,20.4,PayPal,4,25,1,4.0,8,No,118,17,2024-04-11,33,No
+CUST-10608,23,Female,United States,Silver,62640.0,Books & Media,11.12,Apple Pay,1,0,10,2.0,4,No,162,20,2024-09-02,241,Yes
+CUST-10609,18,Female,Germany,Silver,73741.0,Home & Kitchen,113.92,Credit Card,6,25,6,3.0,6,Yes,213,9,2022-06-18,10,No
+CUST-10610,55,Female,United Kingdom,Silver,32635.0,Electronics,42.45,Credit Card,3,0,1,5.0,10,No,190,11,2024-06-19,76,No
+CUST-10611,45,Female,Australia,Platinum,148644.0,Apparel,302.72,Credit Card,1,0,3,4.5,8,No,278,13,2024-07-10,7,No
+CUST-10612,37,Male,Germany,Platinum,121008.0,Sports & Outdoors,208.86,PayPal,2,10,5,4.5,9,No,234,22,2024-10-23,75,No
+CUST-10613,41,Male,Japan,Gold,109810.0,Apparel,11.22,Buy Now Pay Later,5,10,4,3.5,8,No,190,11,2022-03-10,119,No
+CUST-10614,24,Male,United States,Bronze,24672.0,Electronics,206.54,Credit Card,4,10,7,1.5,3,Yes,104,12,2022-11-12,450,Yes
+CUST-10615,67,Female,Germany,Gold,107469.0,Beauty & Personal Care,69.95,PayPal,9,10,6,4.0,8,No,148,17,2024-07-30,26,No
+CUST-10616,39,Male,United States,Bronze,61904.0,Home & Kitchen,556.99,Credit Card,8,25,3,2.5,6,Yes,93,12,2023-02-15,80,No
+CUST-10617,39,Female,Brazil,Bronze,57505.0,Home & Kitchen,8.5,PayPal,1,0,11,2.5,4,Yes,149,21,2022-03-15,151,Yes
+CUST-10618,46,Non-Binary,Germany,Gold,99523.0,Electronics,112.56,Credit Card,5,0,8,2.0,4,Yes,215,20,2025-04-18,139,Yes
+CUST-10619,43,Male,United States,Bronze,37836.0,Electronics,640.15,Credit Card,3,25,8,4.5,9,No,91,14,2024-07-21,0,No
+CUST-10620,40,Female,United States,Bronze,31624.0,Home & Kitchen,342.32,Debit Card,7,0,2,4.5,9,No,133,17,2025-03-07,7,No
+CUST-10621,28,Male,United States,Bronze,68478.0,Electronics,417.81,PayPal,1,10,7,2.5,5,No,110,5,2025-02-28,58,No
+CUST-10622,43,Female,Germany,Gold,82409.0,Home & Kitchen,298.14,PayPal,6,15,1,3.5,8,No,174,17,2024-10-03,10,No
+CUST-10623,60,Male,United States,Silver,43332.0,Home & Kitchen,14.29,Credit Card,8,10,2,4.5,8,Yes,105,18,2023-08-31,0,No
+CUST-10624,54,Female,Canada,Silver,73976.0,Apparel,74.57,Credit Card,4,15,8,4.0,7,Yes,108,11,2025-04-17,39,No
+CUST-10625,57,Female,United States,Bronze,27669.0,Books & Media,8.5,Credit Card,4,0,1,4.5,8,No,89,9,2023-09-25,31,No
+CUST-10626,31,Male,Germany,Gold,77898.0,Sports & Outdoors,27.45,Debit Card,6,20,2,3.0,7,No,191,21,2025-01-03,7,No
+CUST-10627,26,Female,Australia,Gold,69015.0,Beauty & Personal Care,87.89,Buy Now Pay Later,5,0,1,3.5,7,Yes,148,12,2023-01-06,82,No
+CUST-10628,36,Male,Japan,Bronze,33307.0,Electronics,33.15,PayPal,3,5,5,4.0,7,No,108,17,2023-09-17,12,No
+CUST-10629,38,Female,Japan,Silver,60511.0,Electronics,194.78,Credit Card,4,0,7,3.5,7,No,167,3,2022-01-05,73,No
+CUST-10630,51,Male,United States,Bronze,46375.0,Apparel,228.39,Debit Card,7,10,6,3.0,7,No,116,12,2025-02-11,68,No
+CUST-10631,18,Male,United States,Platinum,157123.0,Electronics,102.05,PayPal,6,15,6,3.0,6,No,271,19,2023-10-31,43,No
+CUST-10632,56,Male,Germany,Silver,71484.0,Books & Media,136.9,PayPal,5,25,6,4.0,8,No,92,12,2022-03-18,29,No
+CUST-10633,36,Female,United Kingdom,Platinum,136564.0,Electronics,2390.16,Credit Card,5,15,8,2.5,5,No,176,16,2023-09-03,72,No
+CUST-10634,32,Female,United Kingdom,Bronze,38432.0,Apparel,60.44,Apple Pay,3,10,5,4.5,8,No,47,9,2024-01-14,86,No
+CUST-10635,25,Female,United States,Gold,104182.0,Apparel,22.88,PayPal,3,25,10,3.5,8,No,149,12,2023-06-08,29,No
+CUST-10636,18,Female,United States,Gold,117906.0,Home & Kitchen,93.35,Debit Card,4,10,7,3.0,6,Yes,69,21,2023-01-22,5,No
+CUST-10637,47,Male,United States,Silver,64273.0,Electronics,175.4,Apple Pay,4,10,3,4.0,9,No,200,15,2023-11-23,3,No
+CUST-10638,38,Male,Australia,Platinum,131555.0,Apparel,51.03,Credit Card,3,10,9,1.5,4,Yes,235,20,2024-02-07,211,Yes
+CUST-10639,22,Male,United States,Bronze,24128.0,Apparel,19.45,Apple Pay,11,5,10,2.0,5,Yes,183,20,2022-04-16,105,Yes
+CUST-10640,22,Male,Canada,Bronze,18000.0,Sports & Outdoors,236.53,Debit Card,3,20,3,4.0,8,No,130,21,2023-03-31,0,No
+CUST-10641,33,Male,United States,Silver,73992.0,Electronics,56.71,Credit Card,4,0,6,3.5,6,No,99,20,2023-05-24,29,Yes
+CUST-10642,58,Male,Germany,Gold,105403.0,Sports & Outdoors,211.1,Credit Card,10,10,3,5.0,10,No,120,0,2022-12-13,170,No
+CUST-10643,34,Female,United States,Silver,72392.0,Sports & Outdoors,8.5,Credit Card,5,15,1,3.5,8,No,255,21,2022-09-07,22,No
+CUST-10644,19,Male,Brazil,Bronze,39684.0,Apparel,68.67,PayPal,3,25,1,5.0,10,Yes,233,7,2023-04-04,0,No
+CUST-10645,35,Male,Brazil,Silver,,Beauty & Personal Care,147.26,Credit Card,3,20,3,3.5,6,No,171,4,2025-04-25,34,No
+CUST-10646,34,Male,United States,Bronze,33285.0,Electronics,77.58,PayPal,3,10,4,4.0,8,Yes,103,5,2024-08-10,45,No
+CUST-10647,18,Female,Brazil,Silver,79194.0,Books & Media,8.5,Credit Card,4,10,2,5.0,9,Yes,248,11,2024-07-18,44,No
+CUST-10648,37,Female,India,Silver,61302.0,Home & Kitchen,186.84,Debit Card,2,5,9,2.0,4,No,105,16,2023-03-25,220,No
+CUST-10649,35,Female,Australia,Gold,84049.0,Apparel,137.41,Credit Card,2,10,11,1.0,1,No,176,12,2022-06-19,14,No
+CUST-10650,46,Male,Australia,Bronze,52665.0,Apparel,101.62,Credit Card,7,25,8,3.0,6,Yes,234,2,2023-10-14,28,No
+CUST-10651,60,Male,United States,Silver,69373.0,Electronics,126.87,PayPal,4,25,3,4.0,8,No,100,13,2024-08-28,64,No
+CUST-10652,51,Female,Canada,Bronze,48425.0,Books & Media,8.58,PayPal,4,20,7,3.5,7,No,198,13,2024-01-29,6,No
+CUST-10653,34,Non-Binary,United States,Bronze,43463.0,Electronics,814.94,Credit Card,4,0,4,4.5,9,No,175,18,2023-01-04,22,No
+CUST-10654,24,Female,United States,Gold,94317.0,Home & Kitchen,564.29,Credit Card,4,20,5,3.5,7,No,164,10,2024-04-14,24,No
+CUST-10655,68,Female,India,Platinum,182990.0,Apparel,99.39,Credit Card,4,25,4,3.5,7,No,146,9,2022-09-19,40,No
+CUST-10656,38,Female,United States,Bronze,63316.0,Books & Media,63.2,Apple Pay,7,5,9,2.0,4,Yes,104,9,2023-06-20,40,Yes
+CUST-10657,38,Male,Japan,Gold,108010.0,Electronics,247.77,Apple Pay,4,10,11,2.0,5,Yes,192,10,2023-06-07,117,No
+CUST-10658,37,Male,Australia,Gold,97012.0,Home & Kitchen,123.1,PayPal,6,15,7,4.0,7,No,75,16,2022-07-28,2,No
+CUST-10659,40,Female,Australia,Gold,113128.0,Apparel,21.8,Apple Pay,3,10,4,3.0,7,No,185,13,2023-08-15,79,No
+CUST-10660,36,Male,India,Bronze,51323.0,Beauty & Personal Care,25.34,Apple Pay,7,50,8,4.0,8,No,180,11,2022-05-17,30,No
+CUST-10661,31,Female,United States,Platinum,140471.0,Electronics,361.81,Credit Card,3,10,2,4.5,9,No,254,11,2024-08-31,13,No
+CUST-10662,31,Male,United States,Bronze,36535.0,Electronics,8.5,Buy Now Pay Later,7,15,7,3.0,6,No,47,11,2024-04-16,33,No
+CUST-10663,37,Male,United Kingdom,Bronze,40543.0,Electronics,148.05,Debit Card,6,15,11,1.5,3,No,225,22,2022-01-21,95,Yes
+CUST-10664,31,Male,United States,Bronze,18000.0,Beauty & Personal Care,41.05,Credit Card,6,10,1,4.0,8,No,239,9,2024-04-12,3,No
+CUST-10665,29,Female,United States,Silver,65790.0,Electronics,366.01,Credit Card,3,20,8,1.5,3,No,179,19,2022-05-16,450,Yes
+CUST-10666,39,Non-Binary,United Kingdom,Bronze,33207.0,Home & Kitchen,131.47,Credit Card,1,10,6,3.5,7,No,69,18,2025-06-25,10,No
+CUST-10667,34,Male,Japan,Bronze,70668.0,Electronics,799.91,Credit Card,4,5,5,4.0,7,Yes,134,0,2023-10-06,8,No
+CUST-10668,56,Female,Canada,Bronze,42348.0,Sports & Outdoors,8.5,Apple Pay,7,0,9,2.5,5,No,138,23,2024-06-07,11,No
+CUST-10669,18,Male,United States,Gold,73598.0,Books & Media,29.64,PayPal,2,5,9,3.0,6,No,174,18,2025-01-22,49,No
+CUST-10670,51,Female,Germany,Gold,94102.0,Home & Kitchen,339.81,Apple Pay,3,15,3,3.5,8,No,168,17,2023-11-21,46,No
+CUST-10671,52,Male,United States,Bronze,23169.0,Apparel,45.1,Apple Pay,9,25,9,3.0,6,No,149,12,2023-11-09,25,No
+CUST-10672,18,Female,United States,Gold,103521.0,Electronics,157.69,PayPal,5,0,9,2.5,5,No,165,15,2023-09-23,41,Yes
+CUST-10673,33,Male,Japan,Gold,100237.0,Electronics,58.07,Apple Pay,11,5,2,3.0,6,No,187,9,2022-09-17,49,No
+CUST-10674,33,Male,Germany,Gold,112241.0,Apparel,278.31,Credit Card,2,0,5,3.0,6,No,146,3,2023-11-28,6,Yes
+CUST-10675,21,Female,Japan,Bronze,27764.0,Home & Kitchen,75.87,Credit Card,3,15,11,2.5,5,Yes,111,19,2025-02-05,16,No
+CUST-10676,28,Female,United States,Silver,62612.0,Home & Kitchen,376.83,PayPal,3,30,2,4.0,8,Yes,113,20,2022-09-03,12,No
+CUST-10677,24,Female,Australia,Platinum,115429.0,Books & Media,40.18,Credit Card,2,10,1,5.0,9,No,302,8,2024-11-24,0,No
+CUST-10678,59,Female,Germany,Silver,74626.0,Apparel,116.45,Credit Card,2,10,7,3.0,5,No,252,19,2023-03-02,113,No
+CUST-10679,49,Female,Canada,Bronze,51339.0,Home & Kitchen,264.43,Debit Card,7,10,4,3.5,7,No,181,18,2022-03-04,13,No
+CUST-10680,53,Male,Germany,Silver,70924.0,Apparel,108.96,Apple Pay,5,0,5,3.0,7,No,241,8,2023-07-24,76,No
+CUST-10681,46,Female,Australia,Silver,62029.0,Home & Kitchen,90.46,Credit Card,8,15,4,4.0,8,No,202,12,2023-09-02,13,No
+CUST-10682,24,Female,Canada,Silver,69465.0,Apparel,72.21,Apple Pay,3,10,6,3.5,7,No,166,12,2025-03-02,168,No
+CUST-10683,31,Male,Canada,Bronze,70878.0,Apparel,164.43,Apple Pay,4,15,11,3.0,5,No,57,18,2022-10-18,235,Yes
+CUST-10684,43,Female,India,Bronze,36868.0,Apparel,34.15,Credit Card,2,20,2,3.0,6,No,121,19,2024-08-18,36,No
+CUST-10685,23,Male,Japan,Gold,97495.0,Beauty & Personal Care,30.87,Credit Card,1,15,8,3.5,7,No,146,7,2023-05-19,72,No
+CUST-10686,46,Male,United Kingdom,Gold,75449.0,Books & Media,8.5,Buy Now Pay Later,6,15,4,4.5,9,No,84,15,2022-06-17,4,No
+CUST-10687,35,Male,Japan,Bronze,26371.0,Apparel,151.87,Credit Card,3,25,8,2.0,5,No,36,18,2023-11-25,36,No
+CUST-10688,33,Male,United Kingdom,Platinum,141760.0,Electronics,45.0,Credit Card,2,50,3,4.5,9,No,222,19,2022-09-09,49,No
+CUST-10689,46,Male,United States,Bronze,61870.0,Apparel,98.78,PayPal,2,10,11,1.0,3,Yes,172,8,2022-04-21,37,Yes
+CUST-10690,43,Female,Canada,Silver,57386.0,Home & Kitchen,91.37,Apple Pay,2,0,5,2.5,4,Yes,72,14,2022-05-12,1,Yes
+CUST-10691,33,Female,Brazil,Gold,90753.0,Electronics,196.25,Credit Card,6,10,3,3.0,7,No,116,20,2022-07-15,16,No
+CUST-10692,51,Female,Brazil,Gold,87676.0,Beauty & Personal Care,67.81,Credit Card,11,15,7,3.0,6,No,239,10,2022-05-01,23,No
+CUST-10693,25,Male,United States,Platinum,130374.0,Books & Media,8.5,Credit Card,3,0,3,3.0,7,No,128,12,2024-10-30,74,No
+CUST-10694,45,Female,Canada,Bronze,47309.0,Books & Media,26.28,Crypto,4,0,8,1.5,4,Yes,154,19,2024-01-07,67,Yes
+CUST-10695,45,Male,United States,Gold,68049.0,Electronics,482.97,Credit Card,5,0,9,2.5,4,No,141,6,2023-10-22,28,No
+CUST-10696,34,Prefer not to say,India,Bronze,65056.0,Sports & Outdoors,221.02,PayPal,4,15,2,4.0,8,No,185,20,2022-10-13,48,No
+CUST-10697,41,Male,India,Gold,83022.0,Beauty & Personal Care,10.84,Buy Now Pay Later,11,10,3,3.0,7,No,105,10,2024-11-08,36,No
+CUST-10698,22,Male,Germany,Gold,107994.0,Apparel,284.46,Credit Card,5,5,7,3.5,7,No,179,0,2024-08-27,56,No
+CUST-10699,49,Female,Australia,Silver,39140.0,Home & Kitchen,151.12,Crypto,5,0,5,3.5,7,No,150,9,2022-11-22,76,No
+CUST-10700,35,Male,Japan,Bronze,54039.0,Sports & Outdoors,244.25,Buy Now Pay Later,4,15,10,4.0,8,No,161,6,2022-02-14,2,No
+CUST-10701,31,Male,Canada,Gold,107095.0,Apparel,82.62,Debit Card,3,5,7,3.5,7,No,178,7,2023-05-30,33,No
+CUST-10702,50,Female,United States,Bronze,48915.0,Apparel,65.66,Credit Card,5,0,2,4.5,8,No,166,17,2025-01-28,10,No
+CUST-10703,29,Female,United Kingdom,Bronze,24100.0,Apparel,148.34,PayPal,2,15,4,3.0,7,No,274,9,2024-03-08,13,No
+CUST-10704,21,Male,Germany,Gold,99491.0,Home & Kitchen,519.48,Apple Pay,5,10,1,4.5,9,No,336,21,2023-09-15,22,Yes
+CUST-10705,19,Male,Germany,Silver,40704.0,Electronics,150.19,Crypto,3,5,5,3.5,7,No,98,14,2023-12-25,6,No
+CUST-10706,45,Male,United Kingdom,Gold,90450.0,Sports & Outdoors,47.46,Credit Card,6,10,8,3.0,5,Yes,14,13,2022-08-17,4,No
+CUST-10707,22,Male,India,Bronze,60529.0,Home & Kitchen,87.93,Apple Pay,4,0,1,4.5,9,No,188,13,2024-07-12,7,No
+CUST-10708,59,Male,United States,Bronze,,Home & Kitchen,83.33,Credit Card,6,15,7,2.0,4,Yes,160,17,2025-04-19,27,Yes
+CUST-10709,18,Male,Canada,Gold,95273.0,Electronics,130.67,Credit Card,1,0,7,2.5,5,Yes,236,13,2024-08-25,154,No
+CUST-10710,58,Female,Germany,Silver,44453.0,Home & Kitchen,47.19,PayPal,4,0,7,2.5,6,No,160,7,2022-09-12,32,No
+CUST-10711,40,Female,Germany,Bronze,53620.0,Electronics,572.3,Apple Pay,4,15,1,4.5,8,No,150,20,2022-10-31,1,No
+CUST-10712,36,Female,Germany,Gold,95348.0,Electronics,28.0,PayPal,6,15,11,2.0,4,No,241,12,2024-02-03,65,Yes
+CUST-10713,31,Male,United States,Silver,,Home & Kitchen,115.22,PayPal,2,0,3,4.0,7,No,212,6,2022-05-14,29,No
+CUST-10714,42,Male,United States,Silver,76087.0,Apparel,19.89,Crypto,6,0,11,,3,No,67,14,2023-12-01,22,No
+CUST-10715,37,Male,Germany,Silver,61563.0,Home & Kitchen,74.99,Credit Card,3,20,2,5.0,10,No,97,17,2022-02-08,3,No
+CUST-10716,51,Female,Canada,Gold,116644.0,Electronics,27.16,PayPal,2,15,5,3.5,6,No,171,10,2025-01-10,64,No
+CUST-10717,39,Male,United States,Gold,75285.0,Apparel,32.82,Credit Card,8,5,2,4.0,8,No,164,19,2023-12-08,110,Yes
+CUST-10718,39,Male,Japan,Gold,37819.0,Electronics,356.22,Credit Card,4,15,5,3.5,7,No,124,17,2023-10-21,5,No
+CUST-10719,33,Male,United Kingdom,Bronze,47023.0,Books & Media,62.93,Apple Pay,4,0,5,2.5,5,No,171,17,2024-04-02,450,No
+CUST-10720,37,Male,Germany,Gold,,Home & Kitchen,56.73,Buy Now Pay Later,1,10,4,3.5,7,No,234,12,2022-03-21,11,No
+CUST-10721,41,Female,Australia,Silver,31567.0,Home & Kitchen,79.17,PayPal,5,0,11,1.5,3,Yes,247,22,2025-06-28,11,No
+CUST-10722,18,Male,United States,Silver,44387.0,Apparel,50.89,Apple Pay,4,5,7,4.5,8,No,179,10,2024-06-10,25,No
+CUST-10723,21,Female,United States,Bronze,91593.0,Electronics,783.75,Credit Card,1,0,10,1.5,3,No,110,15,2022-12-17,59,No
+CUST-10724,46,Female,Japan,Gold,89499.0,Books & Media,57.75,Credit Card,1,10,6,3.0,6,No,155,10,2024-12-31,24,No
+CUST-10725,40,Male,Germany,Gold,108157.0,Apparel,89.97,PayPal,8,5,2,3.0,6,No,169,18,2025-06-22,13,No
+CUST-10726,35,Male,Germany,Bronze,30288.0,Apparel,73.49,Credit Card,6,5,4,3.5,5,Yes,168,5,2024-01-13,8,No
+CUST-10727,38,Non-Binary,Australia,Silver,24374.0,Home & Kitchen,209.98,Credit Card,6,0,11,2.5,6,No,157,5,2022-03-13,54,No
+CUST-10728,42,Male,Australia,Gold,,Electronics,8.5,PayPal,5,5,7,3.0,7,No,299,19,2022-12-18,7,No
+CUST-10729,31,Male,India,Bronze,37219.0,Beauty & Personal Care,20.02,Credit Card,7,15,9,2.5,6,Yes,108,13,2024-04-30,34,No
+CUST-10730,28,Male,Canada,Platinum,132802.0,Home & Kitchen,620.02,Credit Card,4,5,9,2.0,4,No,211,11,2022-05-08,96,Yes
+CUST-10731,40,Male,United Kingdom,Silver,59936.0,Apparel,125.48,PayPal,3,15,3,4.5,9,No,303,16,2022-07-10,15,No
+CUST-10732,26,Female,United Kingdom,Silver,66756.0,Electronics,253.24,PayPal,9,5,1,3.5,7,No,115,18,2023-04-02,1,No
+CUST-10733,42,Female,United States,Bronze,39297.0,Electronics,187.23,Buy Now Pay Later,4,5,9,3.0,6,Yes,149,9,2023-06-19,23,No
+CUST-10734,18,Female,Canada,Bronze,19247.0,Sports & Outdoors,29.17,PayPal,2,10,8,2.5,5,No,68,8,2022-06-25,41,No
+CUST-10735,50,Female,United States,Platinum,148751.0,Home & Kitchen,202.85,PayPal,2,30,7,3.0,6,No,199,22,2024-09-29,20,No
+CUST-10736,43,Female,Brazil,Bronze,18000.0,Electronics,178.97,Buy Now Pay Later,4,0,6,3.5,7,No,78,16,2025-01-21,63,No
+CUST-10737,41,Female,Canada,Gold,58093.0,Electronics,163.55,Apple Pay,3,0,10,3.5,6,No,217,12,2024-04-27,76,No
+CUST-10738,49,Female,Canada,Bronze,55305.0,Home & Kitchen,210.73,Credit Card,2,10,7,3.5,7,No,157,19,2023-10-20,34,No
+CUST-10739,57,Non-Binary,United Kingdom,Bronze,51126.0,Home & Kitchen,319.53,Credit Card,6,25,11,2.5,4,No,84,14,2025-02-15,69,No
+CUST-10740,50,Female,United States,Bronze,40966.0,Apparel,12.93,Apple Pay,2,50,9,3.5,6,No,195,9,2022-05-25,34,No
+CUST-10741,18,Male,United States,Silver,36881.0,Apparel,43.85,PayPal,1,10,6,3.5,7,No,150,9,2023-02-13,35,No
+CUST-10742,22,Female,United Kingdom,Platinum,127257.0,Electronics,234.2,Apple Pay,7,10,10,2.0,4,No,245,12,2022-03-26,116,No
+CUST-10743,30,Male,United States,Bronze,37270.0,Home & Kitchen,160.66,Apple Pay,2,10,3,4.5,9,Yes,64,20,2025-01-19,18,No
+CUST-10744,38,Female,Germany,Bronze,18000.0,Books & Media,8.5,PayPal,6,10,3,2.5,5,No,152,5,2023-03-12,9,No
+CUST-10745,44,Female,Brazil,Bronze,28697.0,Electronics,216.87,Crypto,2,10,4,3.0,6,Yes,184,9,2024-12-22,11,No
+CUST-10746,29,Male,Brazil,Silver,73741.0,Home & Kitchen,407.96,PayPal,3,20,10,2.0,4,Yes,129,20,2023-09-13,146,Yes
+CUST-10747,40,Female,Germany,Silver,87691.0,Apparel,60.96,Credit Card,3,15,10,1.0,2,No,82,7,2022-08-21,33,Yes
+CUST-10748,28,Female,United States,Gold,87450.0,Apparel,271.96,Debit Card,3,10,8,,4,Yes,161,16,2024-08-11,284,Yes
+CUST-10749,30,Female,Australia,Silver,75616.0,Apparel,521.14,Credit Card,9,10,10,2.5,6,No,237,9,2024-09-12,0,No
+CUST-10750,21,Female,Brazil,Silver,27546.0,Sports & Outdoors,9.16,Apple Pay,13,10,9,3.0,5,No,206,16,2024-03-02,85,No
+CUST-10751,26,Female,United States,Bronze,53870.0,Apparel,23.41,Buy Now Pay Later,3,10,8,3.5,7,No,119,12,2022-09-21,46,No
+CUST-10752,21,Female,Japan,Platinum,125528.0,Home & Kitchen,761.4,Apple Pay,6,10,11,2.5,6,No,99,7,2023-06-28,89,No
+CUST-10753,26,Male,United States,Bronze,47532.0,Apparel,263.37,PayPal,1,0,10,2.5,5,No,115,16,2023-09-27,23,No
+CUST-10754,50,Male,Australia,Bronze,37540.0,Electronics,24.94,PayPal,6,0,2,4.5,8,No,108,17,2025-01-13,35,No
+CUST-10755,26,Male,India,Silver,85767.0,Electronics,8.5,Credit Card,2,10,4,3.5,7,No,191,17,2024-03-28,6,No
+CUST-10756,69,Female,United States,Silver,46260.0,Beauty & Personal Care,8.5,Credit Card,4,20,4,2.0,4,Yes,136,17,2022-10-10,195,Yes
+CUST-10757,43,Male,Brazil,Silver,73296.0,Electronics,1872.92,PayPal,3,0,2,3.0,6,No,107,14,2024-11-12,38,No
+CUST-10758,40,Female,Germany,Silver,56968.0,Home & Kitchen,33.89,Apple Pay,7,10,8,3.0,6,No,220,14,2022-12-16,16,No
+CUST-10759,27,Female,India,Gold,92150.0,Apparel,80.57,Apple Pay,5,5,3,4.0,8,No,175,17,2025-02-07,8,No
+CUST-10760,46,Male,United Kingdom,Bronze,38690.0,Apparel,141.07,Credit Card,3,0,2,4.0,8,Yes,167,17,2023-11-18,56,No
+CUST-10761,31,Female,Australia,Gold,79777.0,Apparel,8.5,PayPal,4,30,7,3.5,6,No,47,17,2025-04-11,15,No
+CUST-10762,39,Female,United States,Silver,61746.0,Apparel,87.62,Apple Pay,7,20,1,5.0,10,No,10,16,2025-06-08,56,No
+CUST-10763,68,Male,United States,Silver,60872.0,Electronics,100.22,PayPal,4,0,6,3.5,8,No,56,8,2024-08-24,1,No
+CUST-10764,36,Male,United States,Silver,66342.0,Apparel,194.15,PayPal,8,15,3,4.5,9,No,121,9,2024-04-05,47,No
+CUST-10765,51,Male,India,Bronze,43521.0,Home & Kitchen,49.76,Apple Pay,2,5,3,4.5,9,No,179,10,2025-04-10,141,Yes
+CUST-10766,29,Male,Australia,Gold,109363.0,Home & Kitchen,274.67,Apple Pay,5,50,5,3.5,7,No,22,21,2024-07-31,12,No
+CUST-10767,37,Prefer not to say,Australia,Silver,78623.0,Apparel,119.54,PayPal,6,5,3,5.0,9,Yes,262,18,2024-05-04,58,No
+CUST-10768,59,Female,Brazil,Bronze,23088.0,Apparel,14.46,Debit Card,7,0,4,3.5,7,No,142,15,2024-11-18,18,No
+CUST-10769,30,Female,United States,Silver,77637.0,Electronics,12.36,Credit Card,2,10,3,4.0,8,No,247,9,2025-02-18,51,No
+CUST-10770,59,Female,United Kingdom,Platinum,118645.0,Electronics,227.03,Crypto,1,20,7,4.0,7,Yes,121,7,2025-05-25,121,No
+CUST-10771,46,Female,United States,Silver,72581.0,Electronics,115.16,Credit Card,2,0,3,4.0,7,No,189,20,2025-04-12,11,No
+CUST-10772,31,Female,United States,Platinum,151155.0,Sports & Outdoors,316.6,Credit Card,5,15,10,2.0,4,Yes,201,20,2022-07-23,1,No
+CUST-10773,45,Male,United States,Bronze,18000.0,Electronics,270.69,Debit Card,4,0,4,4.0,7,Yes,182,7,2024-04-06,52,Yes
+CUST-10774,49,Male,United Kingdom,Bronze,43673.0,Electronics,159.81,Credit Card,4,25,2,5.0,10,No,126,19,2022-06-09,30,No
+CUST-10775,45,Male,United States,Bronze,33567.0,Apparel,64.96,Apple Pay,2,0,2,3.0,7,No,167,13,2023-06-23,16,No
+CUST-10776,19,Female,United States,Silver,48342.0,Electronics,255.22,Debit Card,7,25,9,3.5,7,No,215,11,2022-10-06,15,No
+CUST-10777,29,Male,United States,Bronze,66315.0,Home & Kitchen,323.45,Debit Card,5,10,11,2.0,5,No,110,18,2024-04-17,60,No
+CUST-10778,35,Non-Binary,United States,Bronze,30233.0,Electronics,120.49,Crypto,6,5,1,4.0,8,Yes,150,16,2024-05-24,20,No
+CUST-10779,37,Male,India,Platinum,125485.0,Electronics,142.92,Credit Card,5,30,1,4.5,10,No,60,19,2025-03-30,0,No
+CUST-10780,45,Female,Japan,Gold,96362.0,Home & Kitchen,68.4,Apple Pay,4,50,10,3.0,6,No,213,6,2022-05-04,52,No
+CUST-10781,40,Male,India,Gold,107340.0,Apparel,95.68,Credit Card,4,15,1,5.0,10,No,300,10,2023-08-17,11,No
+CUST-10782,21,Female,United Kingdom,Bronze,39450.0,Beauty & Personal Care,23.83,PayPal,5,0,3,4.0,8,No,58,10,2025-05-17,100,Yes
+CUST-10783,42,Female,United States,Bronze,62994.0,Home & Kitchen,104.17,Debit Card,5,10,2,4.0,8,No,145,11,2024-06-08,89,No
+CUST-10784,45,Female,Japan,Bronze,51557.0,Apparel,8.5,Credit Card,4,10,3,4.0,7,No,203,14,2025-02-10,38,No
+CUST-10785,44,Male,United States,Gold,55792.0,Home & Kitchen,214.31,PayPal,4,10,5,3.5,7,Yes,149,10,2022-10-03,1,No
+CUST-10786,50,Male,United States,Platinum,130469.0,Electronics,108.76,PayPal,5,10,9,2.5,5,No,195,13,2024-07-02,36,No
+CUST-10787,48,Female,United States,Silver,51886.0,Home & Kitchen,35.75,PayPal,7,0,2,2.5,6,No,120,11,2023-08-26,153,No
+CUST-10788,43,Female,United States,Bronze,50628.0,Apparel,45.53,Crypto,2,15,11,2.0,4,No,117,18,2025-04-30,60,No
+CUST-10789,37,Female,United States,Silver,18000.0,Apparel,13.18,Credit Card,5,15,1,4.0,8,No,123,16,2022-08-02,131,No
+CUST-10790,18,Female,United Kingdom,Bronze,87882.0,Home & Kitchen,185.97,PayPal,6,0,11,2.0,5,No,166,17,2022-11-04,141,Yes
+CUST-10791,43,Female,Germany,Bronze,51558.0,Sports & Outdoors,51.87,Debit Card,7,10,6,3.5,8,No,68,9,2022-09-25,2,No
+CUST-10792,40,Female,United States,Silver,64679.0,Books & Media,20.33,PayPal,8,10,3,,6,No,148,11,2025-05-10,0,Yes
+CUST-10793,41,Male,United States,Gold,116268.0,Home & Kitchen,187.97,Credit Card,7,15,7,4.5,8,No,280,2,2022-02-11,96,No
+CUST-10794,22,Female,Australia,Bronze,84185.0,Apparel,25.1,PayPal,6,0,6,3.0,6,No,134,7,2024-08-13,38,No
+CUST-10795,25,Female,United States,Bronze,57673.0,Electronics,50.91,Credit Card,5,10,11,1.5,3,No,68,10,2022-04-20,64,Yes
+CUST-10796,50,Female,United States,Platinum,157078.0,Apparel,319.96,Credit Card,4,0,7,3.5,7,Yes,188,6,2025-03-13,86,No
+CUST-10797,37,Non-Binary,Australia,Bronze,44352.0,Apparel,45.53,Debit Card,10,10,5,3.0,6,No,95,16,2024-11-04,47,No
+CUST-10798,46,Male,United States,Bronze,39452.0,Apparel,40.11,PayPal,5,15,1,4.0,8,No,52,23,2022-12-19,71,No
+CUST-10799,38,Male,United States,Bronze,33435.0,Sports & Outdoors,8.5,Buy Now Pay Later,8,15,3,2.5,7,No,145,7,2023-11-08,36,No
+CUST-10800,38,Female,United Kingdom,Bronze,27129.0,Apparel,43.15,Debit Card,2,0,3,2.5,6,Yes,87,19,2022-07-04,19,No
+CUST-10801,49,Male,United States,Bronze,29633.0,Apparel,52.86,Apple Pay,5,10,7,3.0,7,No,94,7,2023-07-12,12,No
+CUST-10802,31,Female,Canada,Gold,70689.0,Apparel,82.71,Credit Card,2,30,3,4.0,8,No,165,17,2023-08-13,63,No
+CUST-10803,39,Male,Australia,Bronze,40634.0,Sports & Outdoors,121.74,PayPal,5,0,11,1.0,2,No,40,17,2022-12-26,37,No
+CUST-10804,32,Male,United States,Silver,31675.0,Home & Kitchen,24.88,Credit Card,3,20,5,4.0,8,No,22,20,2022-07-01,7,No
+CUST-10805,32,Male,Canada,Silver,65436.0,Home & Kitchen,53.2,Debit Card,7,15,4,3.0,6,No,196,7,2022-04-30,1,Yes
+CUST-10806,34,Male,Canada,Silver,61346.0,Apparel,156.72,Credit Card,2,15,4,2.5,6,Yes,25,10,2024-04-22,23,No
+CUST-10807,40,Male,United States,Gold,97644.0,Beauty & Personal Care,184.93,Credit Card,4,0,7,4.0,7,Yes,105,6,2024-06-23,41,No
+CUST-10808,32,Female,Germany,Gold,85601.0,Electronics,53.53,PayPal,6,0,1,4.0,7,No,45,12,2025-06-10,27,No
+CUST-10809,53,Male,United States,Bronze,97383.0,Sports & Outdoors,105.69,Credit Card,2,25,7,1.5,4,Yes,137,21,2022-12-22,171,Yes
+CUST-10810,27,Female,United Kingdom,Gold,119482.0,Home & Kitchen,59.61,Credit Card,5,5,8,3.0,6,No,207,19,2022-04-04,11,No
+CUST-10811,35,Male,United States,Silver,39598.0,Apparel,8.5,PayPal,3,0,3,3.5,7,No,147,18,2024-10-19,5,No
+CUST-10812,32,Female,United Kingdom,Platinum,144191.0,Apparel,56.84,Credit Card,9,10,3,3.5,7,No,347,15,2022-02-06,204,Yes
+CUST-10813,55,Female,United States,Silver,51055.0,Home & Kitchen,25.08,Credit Card,3,0,4,4.0,7,No,216,20,2023-09-21,41,No
+CUST-10814,40,Female,Australia,Platinum,121739.0,Electronics,540.73,Credit Card,5,15,6,4.0,7,No,120,13,2022-02-17,97,Yes
+CUST-10815,50,Female,United States,Gold,70878.0,Sports & Outdoors,99.93,Apple Pay,4,10,7,2.5,5,Yes,77,8,2024-02-12,38,No
+CUST-10816,20,Male,United Kingdom,Bronze,,Apparel,13.17,PayPal,4,20,1,5.0,10,No,320,19,2023-04-03,31,No
+CUST-10817,41,Male,United Kingdom,Silver,49735.0,Apparel,8.5,PayPal,7,15,4,3.0,6,No,213,10,2023-06-14,29,No
+CUST-10818,48,Female,Japan,Platinum,157420.0,Electronics,820.3,PayPal,2,0,7,3.0,6,Yes,237,5,2023-07-07,19,No
+CUST-10819,38,Female,Canada,Gold,112888.0,Apparel,24.75,Credit Card,6,5,11,3.0,5,No,181,7,2024-03-21,100,Yes
+CUST-10820,50,Male,Germany,Bronze,66730.0,Apparel,91.51,Buy Now Pay Later,7,15,2,3.5,7,No,171,16,2023-08-01,42,No
+CUST-10821,31,Female,Japan,Gold,79657.0,Apparel,44.08,Credit Card,10,5,1,3.0,7,No,63,16,2024-10-14,49,No
+CUST-10822,54,Male,Australia,Bronze,50556.0,Home & Kitchen,141.68,Apple Pay,7,30,1,4.5,10,No,155,10,2022-02-26,22,No
+CUST-10823,65,Male,United States,Bronze,53384.0,Apparel,33.31,Debit Card,6,15,10,2.0,4,No,151,18,2022-08-13,36,No
+CUST-10824,33,Male,Canada,Silver,53464.0,Books & Media,8.5,Debit Card,3,0,6,2.5,5,No,87,19,2024-04-28,52,Yes
+CUST-10825,32,Male,Australia,Bronze,28108.0,Home & Kitchen,30.26,Credit Card,5,20,5,4.0,8,No,99,21,2022-10-24,9,No
+CUST-10826,55,Female,India,Gold,123971.0,Beauty & Personal Care,14.76,Credit Card,4,0,1,4.5,8,No,280,16,2022-07-08,15,No
+CUST-10827,56,Male,Brazil,Bronze,46094.0,Electronics,150.19,Apple Pay,2,0,10,1.0,2,Yes,134,19,2024-10-27,6,Yes
+CUST-10828,31,Female,United Kingdom,Gold,106447.0,Apparel,133.17,Credit Card,3,15,3,5.0,10,No,307,18,2022-06-22,67,No
+CUST-10829,32,Female,United States,Bronze,27202.0,Apparel,19.2,Debit Card,8,20,11,2.0,4,No,20,10,2025-04-06,52,No
+CUST-10830,34,Male,United Kingdom,Bronze,20052.0,Home & Kitchen,8.5,Apple Pay,4,10,7,3.0,6,No,96,10,2024-05-16,9,No
+CUST-10831,21,Female,Japan,Bronze,31749.0,Sports & Outdoors,64.14,Apple Pay,3,0,9,2.5,5,Yes,35,13,2022-05-03,13,No
+CUST-10832,26,Male,United Kingdom,Bronze,39767.0,Electronics,232.43,Credit Card,9,5,9,3.5,6,No,61,2,2024-01-24,4,Yes
+CUST-10833,25,Male,United Kingdom,Bronze,22844.0,Electronics,623.3,Apple Pay,8,5,6,4.0,9,No,77,10,2023-11-01,11,No
+CUST-10834,28,Male,Australia,Bronze,41822.0,Sports & Outdoors,89.57,Apple Pay,4,5,3,2.5,5,No,161,13,2022-07-17,12,No
+CUST-10835,37,Male,United Kingdom,Silver,31606.0,Electronics,141.83,Debit Card,2,0,1,4.5,9,Yes,153,7,2022-01-27,13,No
+CUST-10836,40,Female,Australia,Bronze,21839.0,Home & Kitchen,90.08,Credit Card,5,10,3,4.0,8,No,86,7,2025-02-02,19,No
+CUST-10837,56,Female,United Kingdom,Silver,74076.0,Home & Kitchen,512.13,Credit Card,4,25,10,3.0,5,No,12,13,2022-08-18,46,No
+CUST-10838,26,Male,United States,Bronze,,Sports & Outdoors,199.35,Credit Card,5,5,2,4.5,9,No,242,18,2023-05-17,2,No
+CUST-10839,49,Female,United Kingdom,Gold,87946.0,Electronics,144.85,Credit Card,6,0,11,2.5,5,No,145,19,2025-02-24,173,No
+CUST-10840,35,Male,Japan,Platinum,121680.0,Electronics,118.3,PayPal,2,20,5,2.5,5,Yes,108,15,2025-01-07,360,No
+CUST-10841,37,Male,United States,Silver,43506.0,Home & Kitchen,45.47,Debit Card,1,15,8,4.0,8,No,159,13,2022-03-01,21,No
+CUST-10842,46,Male,United States,Bronze,35281.0,Books & Media,17.69,Credit Card,2,25,5,2.5,5,No,150,12,2025-02-25,134,Yes
+CUST-10843,24,Female,India,Bronze,,Apparel,119.93,Debit Card,3,0,1,3.5,7,No,125,9,2022-03-27,2,No
+CUST-10844,42,Female,United States,Platinum,156708.0,Apparel,105.28,Credit Card,2,0,3,3.5,7,No,208,8,2024-08-03,5,No
+CUST-10845,39,Female,Canada,Bronze,33062.0,Home & Kitchen,9.13,Credit Card,2,10,5,4.5,9,No,61,19,2022-08-29,102,No
+CUST-10846,43,Female,Canada,Bronze,21237.0,Books & Media,25.14,Credit Card,5,10,7,3.0,6,No,180,13,2024-02-23,31,No
+CUST-10847,41,Male,United Kingdom,Bronze,46821.0,Sports & Outdoors,174.54,Credit Card,9,10,5,3.5,7,Yes,78,19,2022-01-08,10,No
+CUST-10848,67,Female,Germany,Bronze,27176.0,Books & Media,8.5,Debit Card,2,10,10,3.5,7,No,94,18,2023-03-13,26,No
+CUST-10849,30,Female,United States,Bronze,32671.0,Electronics,246.94,Credit Card,3,0,5,3.0,6,No,178,9,2024-06-09,92,Yes
+CUST-10850,31,Female,Canada,Gold,118854.0,Electronics,240.09,PayPal,7,10,7,2.0,5,No,257,14,2022-08-10,20,No
+CUST-10851,30,Male,United Kingdom,Bronze,56888.0,Home & Kitchen,375.34,PayPal,3,15,8,2.5,5,Yes,251,13,2023-08-04,51,Yes
+CUST-10852,31,Male,Germany,Silver,64843.0,Sports & Outdoors,233.72,Buy Now Pay Later,4,5,8,3.5,7,No,221,12,2022-03-23,69,No
+CUST-10853,30,Female,United States,Bronze,19105.0,Apparel,39.16,Credit Card,8,15,7,3.0,6,No,108,15,2022-06-27,89,No
+CUST-10854,52,Female,Canada,Bronze,45805.0,Electronics,315.18,Credit Card,5,10,3,5.0,10,No,42,23,2023-07-11,171,No
+CUST-10855,55,Female,United States,Platinum,159127.0,Beauty & Personal Care,172.48,Credit Card,5,5,11,2.0,5,No,290,19,2023-12-26,104,Yes
+CUST-10856,31,Female,United States,Bronze,35238.0,Electronics,160.93,PayPal,1,5,2,3.5,7,No,226,20,2024-08-26,5,Yes
+CUST-10857,28,Male,United States,Gold,119320.0,Apparel,49.34,Credit Card,5,5,1,4.0,8,No,135,3,2022-02-02,18,No
+CUST-10858,43,Male,United States,Silver,85269.0,Home & Kitchen,292.75,Debit Card,10,0,6,2.5,5,No,222,8,2024-09-14,60,No
+CUST-10859,31,Female,Australia,Bronze,71947.0,Home & Kitchen,47.7,PayPal,4,15,9,2.5,5,No,134,6,2022-04-22,10,No
+CUST-10860,45,Female,United States,Platinum,145494.0,Beauty & Personal Care,37.76,PayPal,2,20,3,5.0,10,No,290,10,2025-05-20,17,No
+CUST-10861,40,Prefer not to say,Brazil,Bronze,52573.0,Apparel,175.01,PayPal,4,5,5,4.0,8,No,112,13,2022-05-26,3,No
+CUST-10862,19,Female,India,Gold,120455.0,Home & Kitchen,320.08,Credit Card,4,0,9,2.5,6,Yes,308,17,2023-11-03,24,No
+CUST-10863,56,Male,Canada,Bronze,,Home & Kitchen,82.8,PayPal,3,50,9,3.0,6,No,196,14,2023-08-22,40,No
+CUST-10864,59,Female,United States,Gold,85977.0,Home & Kitchen,50.72,Crypto,6,0,7,4.0,8,No,279,20,2022-02-05,3,No
+CUST-10865,30,Male,United Kingdom,Bronze,33926.0,Home & Kitchen,57.99,Debit Card,3,0,4,4.0,8,No,106,21,2023-04-06,15,No
+CUST-10866,33,Female,Japan,Silver,66293.0,Apparel,32.71,Debit Card,7,5,11,3.5,7,No,179,8,2024-06-26,103,No
+CUST-10867,41,Male,United Kingdom,Gold,71769.0,Electronics,64.98,Debit Card,8,15,2,5.0,10,Yes,92,20,2025-06-01,22,No
+CUST-10868,42,Non-Binary,United States,Platinum,,Electronics,631.29,Credit Card,4,0,2,2.5,6,Yes,243,13,2023-02-08,96,Yes
+CUST-10869,45,Female,Canada,Platinum,159737.0,Electronics,145.36,Credit Card,5,10,4,3.5,6,No,258,13,2025-03-20,58,No
+CUST-10870,62,Female,Australia,Gold,55557.0,Home & Kitchen,102.11,Credit Card,5,5,1,3.5,7,No,303,19,2024-01-18,1,No
+CUST-10871,35,Female,Japan,Gold,122620.0,Sports & Outdoors,83.98,Credit Card,1,0,4,3.0,6,No,212,7,2024-02-08,2,No
+CUST-10872,28,Female,United States,Bronze,62202.0,Beauty & Personal Care,201.85,Credit Card,2,5,11,3.0,5,No,198,20,2022-06-29,99,Yes
+CUST-10873,21,Female,Germany,Bronze,33724.0,Beauty & Personal Care,18.33,PayPal,2,15,6,3.0,6,Yes,106,17,2023-06-10,74,No
+CUST-10874,29,Female,United States,Bronze,51781.0,Apparel,8.5,Apple Pay,5,10,6,4.5,9,Yes,181,20,2023-10-07,91,Yes
+CUST-10875,37,Male,United States,Bronze,42056.0,Apparel,8.5,Debit Card,3,0,7,4.0,8,No,116,23,2024-12-01,0,No
+CUST-10876,59,Female,Australia,Bronze,64139.0,Apparel,86.01,Apple Pay,2,0,5,3.0,6,No,159,14,2023-05-28,8,No
+CUST-10877,31,Female,United States,Silver,79688.0,Electronics,323.33,Buy Now Pay Later,4,10,9,,8,Yes,171,7,2024-10-04,59,No
+CUST-10878,40,Male,United States,Bronze,18000.0,Electronics,91.16,Credit Card,2,20,2,5.0,10,No,106,8,2022-02-04,13,No
+CUST-10879,37,Female,United States,Silver,72570.0,Home & Kitchen,108.98,Credit Card,5,5,2,3.5,7,No,160,11,2025-04-09,11,No
+CUST-10880,52,Non-Binary,Australia,Bronze,38298.0,Books & Media,8.5,Apple Pay,5,10,4,2.0,5,No,114,7,2023-11-19,0,No
+CUST-10881,68,Female,Japan,Bronze,43490.0,Electronics,189.79,Credit Card,2,0,4,3.0,7,Yes,117,19,2022-10-27,62,No
+CUST-10882,31,Male,Germany,Silver,48892.0,Electronics,194.56,Credit Card,5,5,4,3.5,6,No,214,10,2023-10-08,35,No
+CUST-10883,32,Male,Japan,Gold,126466.0,Beauty & Personal Care,11.59,Credit Card,4,0,1,4.0,8,No,194,22,2022-08-05,36,No
+CUST-10884,50,Male,United States,Gold,113721.0,Apparel,14.05,Credit Card,4,15,4,3.5,7,No,199,18,2024-07-20,31,No
+CUST-10885,46,Prefer not to say,United Kingdom,Silver,48684.0,Sports & Outdoors,14.32,PayPal,3,5,5,3.5,7,No,49,8,2025-03-17,4,No
+CUST-10886,60,Female,United Kingdom,Bronze,18000.0,Beauty & Personal Care,8.5,PayPal,4,20,9,2.5,6,Yes,156,13,2024-07-09,68,No
+CUST-10887,45,Non-Binary,United States,Silver,55057.0,Books & Media,29.62,PayPal,5,15,3,3.5,6,No,182,13,2023-01-29,25,No
+CUST-10888,33,Female,United Kingdom,Bronze,49821.0,Apparel,18.56,Apple Pay,2,20,3,4.0,8,No,119,14,2024-04-20,5,No
+CUST-10889,45,Female,Brazil,Bronze,46323.0,Home & Kitchen,44.6,Credit Card,7,0,5,3.5,6,No,278,15,2022-07-05,10,No
+CUST-10890,51,Female,United States,Silver,84556.0,Apparel,21.07,Credit Card,8,0,10,2.5,5,No,13,3,2022-11-15,8,No
+CUST-10891,47,Male,United States,Bronze,56218.0,Home & Kitchen,537.16,Credit Card,5,30,6,4.0,8,No,199,17,2023-07-05,54,No
+CUST-10892,44,Female,United States,Bronze,59452.0,Apparel,178.74,Credit Card,5,15,3,3.0,6,Yes,196,14,2022-08-23,35,No
+CUST-10893,50,Male,United States,Platinum,145883.0,Electronics,125.31,Apple Pay,1,20,1,4.0,8,Yes,228,19,2025-03-06,8,No
+CUST-10894,52,Male,Brazil,Platinum,114992.0,Home & Kitchen,96.29,Apple Pay,3,0,10,2.0,4,No,188,19,2023-02-25,39,Yes
+CUST-10895,54,Male,United Kingdom,Bronze,38477.0,Home & Kitchen,33.07,Apple Pay,6,5,8,2.5,5,Yes,175,9,2025-03-01,75,No
+CUST-10896,45,Male,United Kingdom,Bronze,61081.0,Beauty & Personal Care,33.67,Credit Card,1,15,1,5.0,10,Yes,206,5,2024-06-18,21,No
+CUST-10897,35,Female,Japan,Bronze,41072.0,Beauty & Personal Care,8.5,PayPal,3,0,2,4.0,7,No,93,18,2024-09-09,140,No
+CUST-10898,39,Female,United States,Bronze,51055.0,Home & Kitchen,179.92,PayPal,6,10,3,3.5,7,No,164,22,2024-06-27,34,No
+CUST-10899,52,Female,United Kingdom,Platinum,134262.0,Electronics,339.79,PayPal,3,5,6,2.5,5,Yes,175,13,2025-05-28,2,No
+CUST-10900,28,Female,United Kingdom,Bronze,23463.0,Beauty & Personal Care,70.56,PayPal,7,0,4,4.5,8,No,60,10,2023-08-06,45,No
+CUST-10901,42,Female,Canada,Gold,92779.0,Home & Kitchen,39.14,PayPal,5,0,4,3.0,6,Yes,213,8,2023-12-27,14,No
+CUST-10902,33,Female,India,Bronze,47562.0,Sports & Outdoors,174.9,PayPal,5,0,9,2.5,5,Yes,107,10,2023-01-19,59,No
+CUST-10903,38,Female,Japan,Platinum,128197.0,Sports & Outdoors,276.54,Apple Pay,3,0,6,4.0,8,No,86,11,2023-02-06,76,No
+CUST-10904,53,Non-Binary,United Kingdom,Bronze,37757.0,Electronics,33.1,Credit Card,4,10,2,3.5,8,Yes,103,12,2025-04-27,101,Yes
+CUST-10905,40,Male,Australia,Gold,78089.0,Sports & Outdoors,69.89,Apple Pay,1,0,7,4.0,7,No,107,17,2024-11-22,115,No
+CUST-10906,38,Female,United States,Bronze,62146.0,Electronics,58.22,Credit Card,7,0,3,3.5,9,No,217,10,2023-04-21,50,No
+CUST-10907,21,Male,United States,Silver,56699.0,Apparel,26.61,Credit Card,4,20,9,3.0,7,No,158,5,2022-01-11,25,No
+CUST-10908,46,Female,United States,Bronze,68149.0,Home & Kitchen,57.07,Crypto,5,10,6,3.0,6,No,243,11,2022-11-30,104,No
+CUST-10909,45,Female,United States,Bronze,69517.0,Electronics,268.24,Buy Now Pay Later,4,5,8,3.0,6,No,111,20,2022-05-28,37,No
+CUST-10910,63,Male,Canada,Platinum,138541.0,Beauty & Personal Care,39.7,Credit Card,6,15,1,3.5,7,No,246,14,2024-05-31,9,No
+CUST-10911,34,Male,Germany,Platinum,121847.0,Electronics,1290.05,PayPal,8,25,2,4.0,8,No,365,22,2023-11-07,35,No
+CUST-10912,40,Female,Brazil,Gold,57453.0,Electronics,40.55,Credit Card,3,0,6,1.5,5,No,171,14,2022-04-08,96,Yes
+CUST-10913,40,Prefer not to say,Canada,Silver,35503.0,Home & Kitchen,490.47,PayPal,6,5,3,5.0,10,No,193,10,2022-04-23,7,No
+CUST-10914,56,Male,Canada,Gold,70270.0,Beauty & Personal Care,13.99,Debit Card,12,10,1,3.5,7,Yes,200,9,2022-02-21,30,No
+CUST-10915,36,Male,United States,Bronze,66812.0,Sports & Outdoors,188.48,Buy Now Pay Later,8,5,6,2.5,5,Yes,60,17,2025-02-01,89,No
+CUST-10916,41,Male,United States,Bronze,44084.0,Beauty & Personal Care,17.49,PayPal,5,15,5,3.0,6,No,180,15,2023-12-23,16,No
+CUST-10917,45,Male,Canada,Bronze,49012.0,Home & Kitchen,24.46,Credit Card,6,30,9,3.0,6,No,164,16,2025-03-18,16,No
+CUST-10918,40,Female,United Kingdom,Silver,22032.0,Apparel,110.09,PayPal,1,25,6,3.5,7,No,114,18,2024-08-22,45,No
+CUST-10919,32,Female,Australia,Bronze,20436.0,Electronics,66.13,Credit Card,2,0,5,3.5,8,No,72,18,2022-06-03,0,No
+CUST-10920,40,Female,United States,Bronze,57967.0,Electronics,324.23,Debit Card,6,0,1,5.0,9,No,194,4,2023-12-05,7,No
+CUST-10921,50,Female,United States,Silver,67161.0,Home & Kitchen,154.97,Debit Card,5,30,1,4.0,7,No,90,19,2023-06-16,116,No
+CUST-10922,25,Male,United Kingdom,Gold,92350.0,Home & Kitchen,138.77,PayPal,5,10,11,1.0,3,No,304,15,2023-04-24,67,Yes
+CUST-10923,39,Female,United States,Bronze,52167.0,Apparel,59.46,Credit Card,2,0,1,5.0,10,Yes,153,12,2022-09-02,19,No
+CUST-10924,29,Non-Binary,United States,Bronze,71444.0,Beauty & Personal Care,70.88,Credit Card,3,15,7,3.0,6,No,76,15,2023-09-01,5,No
+CUST-10925,52,Male,Japan,Bronze,38021.0,Home & Kitchen,12.82,Credit Card,6,0,6,4.5,8,No,105,16,2022-05-05,59,No
+CUST-10926,19,Male,United States,Bronze,43248.0,Electronics,287.27,Debit Card,8,0,5,2.5,6,Yes,123,8,2024-01-30,45,No
+CUST-10927,31,Male,Germany,Bronze,45466.0,Electronics,603.84,PayPal,2,20,4,3.0,6,No,299,12,2024-12-23,2,Yes
+CUST-10928,42,Male,United States,Silver,105057.0,Sports & Outdoors,9.49,Credit Card,2,0,11,1.5,4,No,115,11,2022-05-15,39,No
+CUST-10929,56,Female,United States,Silver,24211.0,Beauty & Personal Care,8.5,PayPal,2,0,11,1.5,3,No,124,11,2024-04-23,36,No
+CUST-10930,37,Male,United Kingdom,Silver,74298.0,Sports & Outdoors,169.09,Debit Card,5,0,8,2.5,5,Yes,122,6,2024-02-20,98,No
+CUST-10931,31,Female,Australia,Bronze,39933.0,Electronics,143.88,Credit Card,7,10,11,2.5,5,Yes,172,8,2022-06-05,9,No
+CUST-10932,60,Male,United Kingdom,Gold,105201.0,Books & Media,22.49,Debit Card,7,0,8,3.0,6,No,138,8,2024-01-08,2,No
+CUST-10933,20,Female,Japan,Bronze,30167.0,Electronics,32.04,Debit Card,8,10,5,2.5,5,Yes,61,11,2023-01-24,35,No
+CUST-10934,18,Male,United States,Silver,61118.0,Electronics,218.8,Buy Now Pay Later,5,10,4,3.5,7,No,137,20,2025-05-09,127,Yes
+CUST-10935,43,Non-Binary,Japan,Gold,107805.0,Books & Media,8.5,Credit Card,5,20,2,4.0,8,No,154,9,2023-03-26,25,No
+CUST-10936,31,Female,United States,Bronze,98032.0,Apparel,77.06,Credit Card,5,0,7,2.5,5,No,130,12,2024-09-05,101,Yes
+CUST-10937,25,Female,Germany,Bronze,56544.0,Home & Kitchen,245.4,Credit Card,4,20,5,3.5,7,Yes,113,10,2022-06-12,22,No
+CUST-10938,46,Prefer not to say,Canada,Gold,79734.0,Electronics,105.64,Credit Card,6,0,3,3.5,7,Yes,236,19,2025-03-10,40,No
+CUST-10939,40,Male,Brazil,Bronze,34372.0,Home & Kitchen,86.95,Credit Card,5,15,9,3.5,7,No,116,5,2022-05-20,28,No
+CUST-10940,31,Male,United Kingdom,Silver,53838.0,Sports & Outdoors,551.35,PayPal,3,5,9,3.0,6,No,73,9,2022-08-12,5,No
+CUST-10941,22,Male,United States,Bronze,18000.0,Apparel,59.18,PayPal,5,0,11,2.5,6,Yes,98,9,2023-02-05,75,No
+CUST-10942,48,Female,United States,Silver,56058.0,Home & Kitchen,311.91,Debit Card,5,15,11,2.0,4,No,151,23,2022-05-02,3,No
+CUST-10943,45,Female,Australia,Bronze,55190.0,Electronics,157.64,Credit Card,5,0,10,1.5,3,Yes,60,15,2025-05-15,72,No
+CUST-10944,36,Female,Canada,Bronze,19063.0,Home & Kitchen,144.28,PayPal,5,0,11,2.0,4,No,235,8,2023-06-02,214,Yes
+CUST-10945,60,Male,Japan,Silver,80872.0,Apparel,8.5,Apple Pay,6,5,8,2.5,5,No,216,10,2024-02-10,13,No
+CUST-10946,25,Female,United States,Bronze,50779.0,Electronics,37.01,Apple Pay,4,15,1,3.0,8,No,238,8,2023-08-07,45,No
+CUST-10947,19,Male,United States,Bronze,28783.0,Apparel,14.64,Debit Card,5,0,3,3.0,6,Yes,159,7,2024-04-29,15,No
+CUST-10948,29,Male,United States,Bronze,39452.0,Electronics,127.86,Apple Pay,6,0,2,4.5,8,No,10,19,2022-03-28,40,No
+CUST-10949,37,Male,India,Bronze,70769.0,Sports & Outdoors,244.61,Buy Now Pay Later,5,0,4,3.0,6,No,255,14,2023-03-27,28,No
+CUST-10950,40,Male,Germany,Bronze,55203.0,Apparel,37.96,Credit Card,2,10,2,4.5,9,Yes,91,16,2024-12-17,40,No
+CUST-10951,35,Prefer not to say,Brazil,Bronze,42158.0,Electronics,273.33,PayPal,6,5,11,2.5,5,No,90,11,2024-11-23,325,No
+CUST-10952,42,Female,United States,Platinum,135721.0,Apparel,173.02,Credit Card,5,0,8,3.5,7,No,198,15,2022-08-06,0,No
+CUST-10953,22,Male,Germany,Bronze,43378.0,Apparel,69.86,Credit Card,5,0,1,3.5,7,No,231,10,2024-11-14,51,No
+CUST-10954,55,Male,Germany,Silver,52788.0,Beauty & Personal Care,20.44,Credit Card,3,5,4,4.0,8,No,214,10,2024-07-03,56,No
+CUST-10955,37,Male,United States,Bronze,18000.0,Books & Media,15.49,Credit Card,7,15,5,3.0,6,No,187,17,2022-09-20,66,No
+CUST-10956,51,Non-Binary,Australia,Bronze,78759.0,Apparel,44.69,Credit Card,4,15,10,2.0,3,Yes,139,8,2025-03-26,27,Yes
+CUST-10957,42,Female,India,Platinum,142795.0,Sports & Outdoors,16.28,Credit Card,6,20,4,4.0,7,No,170,16,2022-03-12,71,No
+CUST-10958,43,Female,Brazil,Bronze,49166.0,Home & Kitchen,782.86,Credit Card,2,0,8,4.0,7,No,167,20,2024-05-03,129,No
+CUST-10959,44,Male,Japan,Platinum,138957.0,Electronics,63.5,Debit Card,4,30,2,4.0,8,No,181,7,2023-03-22,2,No
+CUST-10960,43,Female,United States,Bronze,28767.0,Home & Kitchen,9.11,Credit Card,4,5,9,4.0,7,No,192,20,2023-10-17,0,No
+CUST-10961,45,Male,United States,Gold,91653.0,Home & Kitchen,456.67,Apple Pay,9,50,2,5.0,10,No,219,6,2023-10-16,15,No
+CUST-10962,53,Male,India,Silver,33210.0,Home & Kitchen,46.85,Credit Card,3,0,2,3.5,7,No,175,11,2022-07-20,27,No
+CUST-10963,40,Female,United States,Gold,135987.0,Sports & Outdoors,190.6,Debit Card,5,10,2,4.5,9,No,23,16,2025-05-31,6,No
+CUST-10964,46,Male,Japan,Silver,39778.0,Apparel,30.25,Debit Card,7,5,10,2.5,5,Yes,148,15,2024-04-09,389,Yes
+CUST-10965,36,Female,Japan,Silver,43424.0,Sports & Outdoors,50.92,Apple Pay,3,5,8,2.0,4,No,134,7,2022-01-06,124,Yes
+CUST-10966,55,Male,Germany,Bronze,34075.0,Beauty & Personal Care,11.29,Apple Pay,2,20,3,5.0,10,No,147,19,2023-11-04,16,No
+CUST-10967,29,Male,India,Bronze,65185.0,Apparel,40.78,Credit Card,3,15,10,2.5,5,Yes,103,22,2022-04-11,125,No
+CUST-10968,59,Male,United States,Platinum,140261.0,Home & Kitchen,141.71,Crypto,3,50,11,3.5,6,No,104,8,2022-09-16,25,No
+CUST-10969,37,Female,United States,Bronze,19749.0,Apparel,68.08,Debit Card,7,10,10,1.5,4,Yes,159,20,2023-03-16,33,Yes
+CUST-10970,20,Female,United States,Bronze,64578.0,Books & Media,24.43,Debit Card,7,10,8,4.0,7,No,129,15,2023-02-28,14,No
+CUST-10971,39,Male,United Kingdom,Gold,108158.0,Home & Kitchen,676.48,Apple Pay,7,0,7,3.5,6,No,211,21,2023-02-24,118,No
+CUST-10972,29,Male,United States,Bronze,51691.0,Electronics,12.18,Credit Card,8,50,10,3.5,7,No,102,8,2022-08-16,20,No
+CUST-10973,48,Male,United States,Platinum,152883.0,Apparel,103.94,Debit Card,5,10,4,3.5,7,Yes,288,19,2022-01-18,80,No
+CUST-10974,30,Female,Australia,Gold,138098.0,Home & Kitchen,233.36,Credit Card,5,15,7,3.5,7,No,254,5,2025-02-21,72,No
+CUST-10975,32,Female,Brazil,Silver,101331.0,Electronics,1007.75,PayPal,6,5,11,2.5,5,No,189,20,2024-06-22,195,Yes
+CUST-10976,18,Female,United States,Gold,82639.0,Electronics,18.15,Credit Card,1,10,8,,5,Yes,147,17,2022-10-29,74,No
+CUST-10977,32,Male,United Kingdom,Bronze,71229.0,Apparel,86.45,Buy Now Pay Later,4,25,6,3.0,5,No,211,11,2024-10-10,376,Yes
+CUST-10978,18,Female,Brazil,Bronze,48897.0,Apparel,161.53,Credit Card,4,0,6,4.0,7,Yes,169,8,2025-03-08,20,No
+CUST-10979,18,Female,United States,Silver,70983.0,Apparel,28.05,Credit Card,5,0,3,2.5,5,No,170,19,2025-05-08,86,No
+CUST-10980,47,Non-Binary,United States,Bronze,18000.0,Apparel,106.58,PayPal,2,0,5,3.0,7,No,196,16,2022-12-29,45,No
+CUST-10981,47,Female,United States,Gold,91933.0,Electronics,8.5,Apple Pay,7,15,10,2.0,4,Yes,258,11,2024-12-03,24,Yes
+CUST-10982,43,Prefer not to say,Canada,Platinum,125369.0,Home & Kitchen,334.04,PayPal,3,0,2,4.5,9,No,101,13,2024-09-18,16,No
+CUST-10983,26,Male,United States,Silver,76905.0,Home & Kitchen,536.71,Credit Card,1,0,5,2.5,6,No,90,19,2022-08-31,18,No
+CUST-10984,37,Male,India,Bronze,61279.0,Electronics,331.86,Credit Card,6,0,5,3.5,8,No,99,11,2024-08-17,35,No
+CUST-10985,37,Female,United Kingdom,Platinum,102659.0,Apparel,70.41,Apple Pay,3,10,7,3.0,5,No,73,6,2024-10-15,25,No
+CUST-10986,24,Female,Canada,Silver,,Home & Kitchen,8.5,Crypto,6,5,4,4.0,8,No,146,21,2024-12-27,7,No
+CUST-10987,56,Male,United States,Silver,82193.0,Electronics,907.24,Debit Card,2,0,11,3.5,7,No,200,12,2024-11-30,19,No
+CUST-10988,48,Male,United Kingdom,Bronze,38639.0,Electronics,156.41,PayPal,3,30,6,3.0,6,No,137,11,2025-03-28,102,Yes
+CUST-10989,35,Male,Germany,Platinum,153123.0,Electronics,14.42,Debit Card,4,30,9,2.5,6,No,161,9,2023-10-28,14,No
+CUST-10990,38,Female,Japan,Silver,68320.0,Beauty & Personal Care,61.58,PayPal,1,0,4,4.5,10,No,227,20,2024-08-30,4,No
+CUST-10991,40,Male,Japan,Gold,101149.0,Beauty & Personal Care,42.08,PayPal,3,15,11,2.5,5,No,179,9,2025-02-03,29,No
+CUST-10992,18,Male,Canada,Gold,90116.0,Beauty & Personal Care,8.5,PayPal,4,10,6,3.5,6,No,187,17,2022-02-01,16,No
+CUST-10993,35,Male,Brazil,Bronze,20101.0,Beauty & Personal Care,8.5,PayPal,4,0,9,3.0,6,No,205,20,2022-12-24,6,No
+CUST-10994,29,Male,Australia,Silver,41812.0,Home & Kitchen,9.75,Apple Pay,6,0,10,2.0,5,Yes,132,3,2025-04-26,74,No
+CUST-10995,25,Male,Japan,Gold,107768.0,Apparel,106.57,PayPal,5,10,1,3.5,6,No,307,19,2022-12-05,19,No
+CUST-10996,34,Male,United States,Bronze,42350.0,Home & Kitchen,143.27,Credit Card,5,5,8,3.5,7,No,112,12,2024-02-16,127,Yes
+CUST-10997,59,Female,United States,Gold,92506.0,Electronics,268.39,Credit Card,1,0,1,2.5,6,No,296,17,2024-02-25,21,No
+CUST-10998,45,Male,United States,Platinum,132369.0,Home & Kitchen,442.26,Credit Card,7,20,4,3.5,7,No,122,11,2025-02-09,60,No
+CUST-10999,31,Female,Germany,Silver,56506.0,Beauty & Personal Care,94.4,PayPal,1,10,3,4.5,9,No,181,17,2025-05-18,83,No
+CUST-11000,44,Female,United Kingdom,Gold,,Home & Kitchen,230.84,Credit Card,3,15,4,3.5,7,Yes,135,9,2022-10-28,12,No
+CUST-11001,54,Female,United Kingdom,Gold,88965.0,Apparel,8.5,Credit Card,3,0,7,3.0,5,No,237,2,2023-10-05,37,No
+CUST-11002,49,Female,Brazil,Gold,70860.0,Apparel,120.23,Apple Pay,3,10,9,2.5,6,No,124,21,2022-06-06,8,No
+CUST-11003,38,Female,Brazil,Bronze,,Home & Kitchen,91.15,Apple Pay,6,5,9,2.0,4,Yes,166,1,2024-11-10,235,Yes
+CUST-11004,30,Female,Brazil,Bronze,38312.0,Home & Kitchen,116.76,Apple Pay,4,10,10,1.5,3,Yes,96,19,2023-09-12,101,Yes
+CUST-11005,46,Male,United States,Silver,62565.0,Sports & Outdoors,128.86,PayPal,4,15,1,4.0,9,No,212,8,2022-01-31,4,No
+CUST-11006,42,Non-Binary,Germany,Silver,,Apparel,49.42,Debit Card,5,15,10,3.0,5,No,122,12,2024-03-04,13,No
+CUST-11007,48,Female,United States,Silver,61629.0,Beauty & Personal Care,124.4,Buy Now Pay Later,3,5,1,3.5,7,No,260,19,2024-03-17,28,No
+CUST-11008,45,Non-Binary,United States,Gold,100205.0,Home & Kitchen,32.58,Debit Card,3,15,9,3.0,6,No,105,9,2023-11-13,4,No
+CUST-11009,50,Male,United States,Bronze,20779.0,Sports & Outdoors,78.94,PayPal,3,25,4,4.0,8,No,42,20,2023-02-22,64,No
+CUST-11010,31,Female,United States,Silver,58045.0,Home & Kitchen,8.5,Credit Card,4,10,3,,7,No,210,14,2023-02-17,19,Yes
+CUST-11011,53,Female,United Kingdom,Bronze,52971.0,Home & Kitchen,425.81,Crypto,6,0,9,2.0,5,No,108,11,2022-09-08,119,No
+CUST-11012,40,Male,Australia,Gold,67003.0,Home & Kitchen,22.11,Credit Card,3,15,5,4.0,8,No,153,17,2024-07-17,14,No
+CUST-11013,62,Male,United States,Silver,65615.0,Beauty & Personal Care,8.5,Credit Card,3,0,6,4.5,8,No,131,11,2023-04-30,2,No
+CUST-11014,29,Male,Japan,Bronze,43814.0,Books & Media,11.37,PayPal,2,20,1,4.5,8,No,56,11,2025-05-30,2,No
+CUST-11015,58,Female,Canada,Bronze,42743.0,Electronics,121.08,Credit Card,4,10,1,4.5,9,No,136,18,2023-04-25,31,No
+CUST-11016,40,Female,United States,Gold,113668.0,Electronics,101.82,Crypto,9,5,7,3.5,7,No,259,10,2023-09-05,2,No
+CUST-11017,30,Female,United Kingdom,Silver,68019.0,Books & Media,30.78,PayPal,5,0,10,3.0,6,No,219,9,2025-02-20,26,No
+CUST-11018,32,Female,United States,Bronze,68605.0,Home & Kitchen,109.65,PayPal,4,5,8,2.5,5,Yes,169,19,2022-12-27,85,No
+CUST-11019,34,Female,Canada,Platinum,122115.0,Home & Kitchen,8.69,Apple Pay,2,25,11,1.5,4,Yes,253,19,2023-07-14,5,No
+CUST-11020,43,Female,United Kingdom,Gold,97446.0,Apparel,45.7,PayPal,4,0,8,,5,Yes,99,14,2023-02-04,24,No
+CUST-11021,44,Male,United States,Platinum,141520.0,Electronics,783.39,Credit Card,5,10,7,2.5,6,No,169,14,2023-10-27,37,No
+CUST-11022,31,Male,United States,Silver,,Beauty & Personal Care,48.69,PayPal,2,25,11,3.5,7,No,167,17,2022-11-07,2,No
+CUST-11023,37,Female,Canada,Silver,79213.0,Beauty & Personal Care,73.1,Apple Pay,4,5,9,2.5,4,No,151,14,2025-06-04,67,Yes
+CUST-11024,63,Male,Brazil,Gold,136844.0,Apparel,168.42,PayPal,2,5,1,4.5,9,Yes,172,12,2022-11-26,142,No
+CUST-11025,58,Female,United States,Silver,61693.0,Apparel,35.17,Apple Pay,4,10,2,3.5,8,No,72,23,2024-02-06,65,No
+CUST-11026,43,Female,Japan,Gold,104090.0,Sports & Outdoors,16.66,Credit Card,4,10,3,4.0,8,No,36,8,2022-12-28,15,No
+CUST-11027,38,Female,Germany,Bronze,43521.0,Electronics,83.1,Credit Card,7,0,5,3.5,8,No,194,16,2022-08-08,19,No
+CUST-11028,39,Male,Brazil,Silver,49155.0,Sports & Outdoors,194.41,Credit Card,2,0,4,4.0,8,No,160,20,2025-05-19,10,No
+CUST-11029,45,Non-Binary,Australia,Bronze,18000.0,Apparel,200.73,Credit Card,3,10,4,3.5,6,No,187,17,2024-03-23,78,No
+CUST-11030,25,Male,Canada,Bronze,29296.0,Home & Kitchen,83.39,Debit Card,3,25,8,2.5,5,Yes,106,20,2024-03-07,16,No
+CUST-11031,34,Female,Germany,Bronze,18000.0,Books & Media,8.5,Debit Card,6,0,8,4.0,7,No,82,11,2024-03-16,31,No
+CUST-11032,18,Male,Brazil,Bronze,72673.0,Home & Kitchen,29.1,Credit Card,7,0,11,2.5,4,Yes,156,10,2023-02-01,31,No
+CUST-11033,42,Female,United Kingdom,Platinum,137928.0,Apparel,54.88,PayPal,5,5,7,2.0,4,Yes,244,20,2023-03-01,147,Yes
+CUST-11034,45,Male,United States,Bronze,35773.0,Home & Kitchen,116.95,Apple Pay,2,20,1,4.0,8,No,122,12,2025-04-22,6,No
+CUST-11035,32,Male,United States,Silver,78004.0,Apparel,8.5,Credit Card,2,0,10,2.5,5,Yes,211,18,2025-06-30,6,No
+CUST-11036,56,Female,Australia,Gold,74808.0,Apparel,298.5,Credit Card,4,20,4,,9,No,91,8,2023-09-08,5,No
+CUST-11037,23,Male,Australia,Silver,48196.0,Books & Media,13.38,Crypto,4,0,1,4.5,8,No,133,18,2022-05-23,74,No
+CUST-11038,20,Male,United States,Bronze,43225.0,Beauty & Personal Care,101.97,PayPal,5,25,11,4.5,8,No,137,15,2024-02-19,13,No
+CUST-11039,40,Female,Canada,Gold,113517.0,Home & Kitchen,365.6,Crypto,5,10,5,4.0,8,No,256,10,2023-12-10,8,Yes
+CUST-11040,50,Male,United Kingdom,Silver,71030.0,Apparel,142.67,Credit Card,4,15,3,3.5,7,Yes,169,14,2022-12-02,32,No
+CUST-11041,58,Female,United States,Gold,99469.0,Electronics,368.56,Apple Pay,7,5,3,3.5,6,Yes,283,17,2022-09-14,74,No
+CUST-11042,32,Male,India,Gold,96406.0,Electronics,383.2,Credit Card,7,15,4,3.5,6,Yes,80,1,2024-12-15,91,No
+CUST-11043,50,Male,United States,Platinum,147204.0,Home & Kitchen,278.96,Credit Card,9,0,2,3.5,8,No,202,17,2022-05-27,47,No
+CUST-11044,37,Male,United States,Silver,,Beauty & Personal Care,51.08,PayPal,5,0,7,2.5,5,No,164,15,2023-09-26,100,Yes
+CUST-11045,35,Male,Canada,Bronze,23460.0,Home & Kitchen,88.43,Credit Card,4,5,4,4.5,9,No,172,9,2023-05-11,7,No
+CUST-11046,48,Male,Japan,Silver,62829.0,Sports & Outdoors,530.06,Credit Card,1,20,5,5.0,9,No,98,18,2024-01-02,100,No
+CUST-11047,45,Female,United States,Bronze,22673.0,Electronics,248.48,Credit Card,3,15,2,5.0,9,No,240,10,2023-07-08,54,No
+CUST-11048,19,Male,Germany,Gold,96459.0,Apparel,177.13,Credit Card,3,10,6,3.0,5,No,169,10,2022-07-29,55,Yes
+CUST-11049,55,Female,Canada,Bronze,33348.0,Electronics,470.91,Apple Pay,2,10,9,1.5,4,Yes,66,13,2023-08-08,197,No
+CUST-11050,54,Male,United States,Bronze,87708.0,Apparel,27.34,PayPal,9,0,8,3.5,7,No,162,17,2023-12-07,53,No
+CUST-11051,30,Female,United States,Gold,94281.0,Electronics,33.65,Credit Card,7,20,8,3.0,5,No,146,21,2025-06-23,17,No
+CUST-11052,42,Female,Canada,Silver,36723.0,Books & Media,16.96,Credit Card,6,15,2,4.5,9,No,319,8,2023-05-16,10,No
+CUST-11053,43,Male,United States,Bronze,39584.0,Electronics,179.8,Credit Card,4,15,4,3.5,8,No,208,12,2023-06-06,7,No
+CUST-11054,41,Female,Brazil,Silver,71348.0,Books & Media,63.33,PayPal,7,10,8,3.0,6,No,158,6,2022-08-11,29,No
+CUST-11055,31,Male,Australia,Gold,125120.0,Apparel,78.87,Credit Card,8,30,11,2.0,4,Yes,175,18,2024-10-26,24,No
+CUST-11056,29,Female,India,Bronze,,Books & Media,20.11,Apple Pay,2,20,1,5.0,9,No,197,13,2024-08-15,18,No
+CUST-11057,37,Female,United States,Gold,66516.0,Home & Kitchen,138.19,Credit Card,2,10,8,3.0,6,No,218,18,2023-07-27,7,No
+CUST-11058,52,Male,India,Bronze,,Books & Media,8.5,Credit Card,2,5,3,4.5,9,No,10,11,2023-04-01,8,No
+CUST-11059,44,Female,United Kingdom,Gold,70149.0,Electronics,316.75,Debit Card,2,10,8,2.5,5,No,196,20,2024-04-13,63,No
+CUST-11060,33,Female,United States,Gold,87149.0,Beauty & Personal Care,104.59,Apple Pay,5,10,6,3.5,6,No,165,15,2024-01-15,0,No
+CUST-11061,47,Male,United States,Bronze,37362.0,Sports & Outdoors,16.3,Credit Card,3,5,7,3.0,6,No,53,21,2024-11-25,4,No
+CUST-11062,18,Female,United States,Silver,60746.0,Electronics,278.45,Debit Card,9,5,2,4.5,9,No,207,6,2024-11-05,37,No
+CUST-11063,51,Male,Germany,Bronze,54404.0,Electronics,262.99,PayPal,9,5,1,3.5,7,No,293,14,2023-06-13,7,No
+CUST-11064,18,Female,United Kingdom,Gold,,Apparel,19.61,Debit Card,1,10,6,2.5,5,No,197,18,2023-05-21,79,No
+CUST-11065,33,Female,United States,Silver,57072.0,Books & Media,8.5,PayPal,4,5,3,3.5,8,No,220,16,2022-09-24,73,No
+CUST-11066,24,Male,Germany,Silver,61743.0,Home & Kitchen,696.02,Apple Pay,3,0,4,3.0,5,No,268,2,2024-07-23,153,Yes
+CUST-11067,22,Female,United States,Bronze,44692.0,Home & Kitchen,75.7,Crypto,8,15,9,3.0,7,No,88,22,2023-12-15,38,No
+CUST-11068,51,Female,Canada,Bronze,43760.0,Electronics,67.59,Credit Card,5,10,3,3.5,7,Yes,21,10,2022-09-10,10,No
+CUST-11069,32,Female,United Kingdom,Bronze,49848.0,Electronics,52.54,PayPal,6,0,2,3.0,6,No,187,9,2022-07-31,55,No
+CUST-11070,42,Female,Australia,Bronze,57189.0,Beauty & Personal Care,53.01,PayPal,5,5,2,3.5,7,No,132,13,2022-11-19,54,No
+CUST-11071,37,Male,Australia,Silver,69067.0,Electronics,309.4,Credit Card,4,20,2,4.5,9,No,65,15,2022-08-15,68,Yes
+CUST-11072,43,Female,United Kingdom,Gold,103164.0,Home & Kitchen,237.08,Credit Card,8,15,6,3.0,6,No,166,18,2023-01-18,3,No
+CUST-11073,38,Male,United Kingdom,Silver,33519.0,Sports & Outdoors,8.5,Credit Card,2,5,2,3.5,8,No,184,12,2024-09-15,34,No
+CUST-11074,22,Male,United Kingdom,Silver,62904.0,Electronics,703.47,PayPal,4,25,11,3.0,6,No,141,13,2022-08-14,33,No
+CUST-11075,49,Female,Australia,Platinum,148631.0,Home & Kitchen,136.03,PayPal,7,0,7,2.5,5,No,143,15,2023-05-25,95,No
+CUST-11076,32,Male,United States,Gold,108120.0,Electronics,154.8,PayPal,8,30,7,2.5,5,No,159,12,2023-07-29,128,No
+CUST-11077,19,Female,United States,Platinum,127537.0,Home & Kitchen,158.58,Credit Card,5,0,7,2.5,5,Yes,182,21,2023-12-09,27,No
+CUST-11078,32,Non-Binary,United States,Silver,50137.0,Electronics,138.62,PayPal,5,0,2,5.0,9,No,19,20,2022-03-29,30,No
+CUST-11079,56,Female,United Kingdom,Bronze,31666.0,Beauty & Personal Care,71.34,Buy Now Pay Later,6,5,7,4.0,8,No,126,13,2025-03-21,25,No
+CUST-11080,48,Male,United Kingdom,Bronze,51655.0,Apparel,228.84,Credit Card,6,5,10,1.0,2,Yes,58,0,2025-01-23,18,No
+CUST-11081,33,Male,Australia,Gold,113609.0,Apparel,46.33,PayPal,5,10,8,4.0,7,No,219,20,2022-10-30,4,No
+CUST-11082,33,Female,United States,Bronze,34665.0,Home & Kitchen,265.73,Apple Pay,4,15,8,3.5,6,No,35,7,2024-11-27,13,No
+CUST-11083,34,Male,United Kingdom,Bronze,58343.0,Electronics,460.06,Apple Pay,7,20,2,5.0,9,No,214,9,2024-07-01,9,No
+CUST-11084,62,Male,Australia,Silver,,Beauty & Personal Care,136.21,PayPal,3,5,5,3.0,6,No,125,8,2025-05-23,70,No
+CUST-11085,42,Female,Australia,Silver,59762.0,Apparel,26.21,Debit Card,2,5,6,2.0,4,No,114,8,2025-03-04,39,No
+CUST-11086,43,Female,United Kingdom,Silver,58195.0,Home & Kitchen,148.5,Credit Card,4,0,9,3.0,6,No,168,19,2024-08-12,3,No
+CUST-11087,50,Male,United Kingdom,Bronze,55439.0,Electronics,94.63,Debit Card,6,0,6,2.0,5,No,91,16,2023-08-19,0,No
+CUST-11088,40,Male,United States,Bronze,47860.0,Home & Kitchen,272.03,Credit Card,5,10,10,1.5,3,No,162,22,2024-10-21,169,Yes
+CUST-11089,34,Non-Binary,Brazil,Silver,102964.0,Electronics,8.5,Credit Card,3,0,6,2.5,5,No,123,9,2024-09-13,84,Yes
+CUST-11090,35,Male,United States,Platinum,124659.0,Apparel,111.66,Credit Card,3,15,10,3.0,6,No,146,13,2023-11-10,68,No
+CUST-11091,37,Non-Binary,Brazil,Gold,104325.0,Electronics,167.57,Apple Pay,2,10,10,2.5,5,Yes,198,22,2025-03-16,331,Yes
+CUST-11092,37,Male,Germany,Platinum,130474.0,Beauty & Personal Care,28.32,PayPal,8,0,6,3.5,7,No,111,19,2023-02-11,101,No
+CUST-11093,46,Female,Canada,Gold,79352.0,Apparel,110.87,Credit Card,6,10,9,3.0,6,Yes,77,18,2022-05-24,1,No
+CUST-11094,38,Female,United States,Silver,61804.0,Sports & Outdoors,233.23,Credit Card,6,0,10,1.5,4,No,167,8,2023-09-04,1,No
+CUST-11095,46,Male,United Kingdom,Bronze,44472.0,Sports & Outdoors,97.47,Debit Card,4,5,7,3.5,6,No,140,18,2025-01-02,77,No
+CUST-11096,37,Male,United Kingdom,Silver,114527.0,Electronics,813.0,Debit Card,1,15,1,4.0,8,Yes,188,11,2024-01-28,14,No
+CUST-11097,38,Female,United States,Silver,58685.0,Home & Kitchen,53.27,PayPal,5,10,1,4.0,8,Yes,170,14,2025-06-14,39,No
+CUST-11098,18,Female,Germany,Silver,41656.0,Electronics,187.32,PayPal,6,0,4,3.0,6,No,144,16,2022-12-30,50,No
+CUST-11099,48,Non-Binary,India,Silver,66914.0,Apparel,58.88,PayPal,4,15,2,4.5,9,No,192,16,2023-05-06,60,No
+CUST-11100,42,Male,Canada,Silver,24656.0,Beauty & Personal Care,8.5,Credit Card,3,0,3,4.0,9,No,138,18,2024-02-13,9,No
+CUST-11101,49,Female,Japan,Bronze,40344.0,Home & Kitchen,116.96,Debit Card,3,15,7,2.5,5,Yes,10,17,2022-07-16,50,No
+CUST-11102,18,Female,United States,Silver,62288.0,Home & Kitchen,193.46,Credit Card,9,10,7,4.0,8,No,37,6,2023-06-25,5,No
+CUST-11103,63,Female,United Kingdom,Bronze,56302.0,Apparel,80.84,PayPal,1,10,3,4.0,8,No,273,13,2023-10-24,169,Yes
+CUST-11104,36,Female,United States,Gold,112525.0,Apparel,169.96,Credit Card,9,20,2,4.5,9,Yes,176,17,2025-05-02,23,No
+CUST-11105,51,Female,Germany,Bronze,32935.0,Electronics,192.5,PayPal,2,15,1,3.5,7,No,198,10,2022-01-07,17,No
+CUST-11106,25,Female,Brazil,Bronze,39288.0,Beauty & Personal Care,8.5,PayPal,6,0,9,1.0,3,No,117,10,2023-01-08,121,Yes
+CUST-11107,45,Male,Germany,Silver,48209.0,Home & Kitchen,19.45,PayPal,2,0,10,3.0,5,No,140,7,2022-01-01,292,Yes
+CUST-11108,25,Female,United States,Silver,41694.0,Beauty & Personal Care,37.29,Credit Card,1,20,3,5.0,9,Yes,111,12,2022-04-17,27,No
+CUST-11109,30,Male,United Kingdom,Silver,67578.0,Electronics,104.67,PayPal,5,0,9,2.0,4,No,314,23,2022-03-14,42,No
+CUST-11110,60,Male,Canada,Bronze,19075.0,Apparel,8.5,Credit Card,5,10,4,4.5,9,No,145,10,2023-10-19,40,No
+CUST-11111,35,Female,United Kingdom,Silver,54536.0,Apparel,49.84,Credit Card,4,15,10,3.0,6,No,112,14,2023-01-31,18,No
+CUST-11112,40,Male,Australia,Bronze,24086.0,Electronics,157.06,Credit Card,4,10,6,2.5,5,Yes,24,18,2023-10-15,332,Yes
+CUST-11113,48,Female,Australia,Platinum,149894.0,Apparel,58.66,Apple Pay,3,15,7,3.5,6,No,323,1,2024-11-13,20,No
+CUST-11114,43,Male,Germany,Platinum,172425.0,Beauty & Personal Care,106.51,PayPal,5,15,10,4.0,8,No,195,20,2024-10-05,0,No
+CUST-11115,39,Female,United Kingdom,Silver,38571.0,Sports & Outdoors,99.72,PayPal,1,15,6,2.0,5,Yes,187,12,2025-05-03,5,No
+CUST-11116,42,Male,United States,Bronze,18000.0,Home & Kitchen,38.85,Apple Pay,2,20,1,5.0,9,No,184,20,2022-06-24,57,Yes
+CUST-11117,66,Male,United States,Gold,92752.0,Apparel,162.77,Apple Pay,3,10,6,2.5,6,Yes,136,4,2023-07-30,1,No
+CUST-11118,37,Female,United Kingdom,Bronze,,Electronics,269.35,PayPal,4,5,11,2.0,5,No,184,8,2025-05-04,41,No
+CUST-11119,40,Female,United Kingdom,Silver,65935.0,Sports & Outdoors,128.16,Credit Card,8,10,6,4.0,8,No,113,11,2022-01-26,11,No
+CUST-11120,50,Male,Germany,Bronze,33966.0,Electronics,186.04,Credit Card,9,15,5,2.5,6,Yes,72,11,2023-03-18,12,No
+CUST-11121,51,Male,Germany,Platinum,136388.0,Books & Media,8.5,PayPal,4,20,3,5.0,9,No,263,20,2025-04-15,20,No
+CUST-11122,52,Female,United States,Bronze,48615.0,Apparel,99.94,PayPal,6,0,10,,7,No,134,1,2022-01-29,28,No
+CUST-11123,45,Male,United Kingdom,Silver,80727.0,Apparel,50.94,Debit Card,5,5,3,4.0,8,No,194,17,2025-04-05,22,No
+CUST-11124,24,Female,United States,Gold,59809.0,Books & Media,93.77,Debit Card,6,25,11,3.5,6,No,176,7,2024-06-03,5,No
+CUST-11125,57,Male,United States,Silver,55359.0,Electronics,501.94,Credit Card,8,10,10,2.5,4,No,189,19,2023-12-20,98,Yes
+CUST-11126,24,Female,Australia,Bronze,45848.0,Home & Kitchen,135.75,Credit Card,2,0,7,3.0,6,No,41,19,2024-03-13,22,No
+CUST-11127,41,Male,United States,Platinum,123476.0,Home & Kitchen,73.07,PayPal,5,15,8,3.0,6,Yes,143,14,2024-05-18,8,No
+CUST-11128,28,Female,United Kingdom,Silver,93161.0,Electronics,87.07,Credit Card,4,50,3,5.0,10,No,145,9,2023-11-26,70,No
+CUST-11129,37,Female,United States,Silver,50562.0,Apparel,35.57,Credit Card,4,20,3,4.5,9,No,91,17,2024-11-16,27,No
+CUST-11130,41,Female,Australia,Bronze,41256.0,Home & Kitchen,94.08,Debit Card,4,15,7,3.0,6,No,168,8,2024-05-06,22,No
+CUST-11131,41,Female,Canada,Silver,72008.0,Beauty & Personal Care,18.96,Credit Card,3,0,10,3.5,6,Yes,233,8,2023-04-05,47,No
+CUST-11132,43,Male,United States,Silver,51356.0,Electronics,205.3,Buy Now Pay Later,3,20,7,4.0,8,No,233,16,2024-03-01,25,No
+CUST-11133,57,Female,Canada,Bronze,18000.0,Books & Media,8.5,Apple Pay,6,10,11,2.5,5,Yes,106,23,2022-08-22,10,No
+CUST-11134,43,Male,Japan,Bronze,34284.0,Electronics,881.92,Apple Pay,3,20,9,2.5,5,No,156,20,2025-04-28,21,No
+CUST-11135,35,Female,India,Gold,113529.0,Electronics,48.18,Credit Card,3,5,6,3.5,6,No,205,16,2025-06-02,18,No
+CUST-11136,49,Female,United States,Bronze,35935.0,Apparel,193.66,Credit Card,6,0,7,2.0,5,Yes,178,15,2022-03-22,153,No
+CUST-11137,52,Female,Brazil,Bronze,26764.0,Electronics,501.59,PayPal,3,10,11,3.0,6,Yes,76,23,2022-01-14,8,No
+CUST-11138,23,Female,Brazil,Silver,78662.0,Electronics,261.71,Credit Card,9,0,10,2.0,3,Yes,277,15,2022-11-29,34,No
+CUST-11139,45,Female,Brazil,Gold,89046.0,Books & Media,51.67,Credit Card,6,15,1,4.5,9,No,224,12,2024-10-29,73,No
+CUST-11140,46,Female,Germany,Bronze,32817.0,Apparel,39.44,Credit Card,5,30,7,,5,Yes,198,21,2023-06-21,33,No
+CUST-11141,34,Male,Germany,Silver,64690.0,Electronics,316.69,Credit Card,4,15,2,5.0,9,No,230,9,2023-02-23,11,No
+CUST-11142,54,Female,United Kingdom,Bronze,55873.0,Electronics,123.25,Credit Card,3,20,7,3.0,6,No,182,7,2024-07-11,59,No
+CUST-11143,36,Male,Japan,Bronze,,Beauty & Personal Care,21.01,Apple Pay,5,10,3,4.5,9,No,95,17,2022-06-13,40,No
+CUST-11144,39,Male,Canada,Bronze,,Sports & Outdoors,101.29,Credit Card,2,15,9,3.5,7,No,139,7,2022-12-25,14,No
+CUST-11145,35,Female,Germany,Gold,115877.0,Apparel,89.21,Credit Card,6,20,5,5.0,9,No,70,11,2022-12-04,68,Yes
+CUST-11146,38,Female,United Kingdom,Bronze,32892.0,Electronics,196.76,PayPal,2,15,7,4.5,8,No,163,12,2022-08-09,17,Yes
+CUST-11147,24,Non-Binary,Japan,Bronze,23534.0,Electronics,64.89,Crypto,9,10,8,3.0,6,No,120,15,2023-12-17,64,No
+CUST-11148,20,Male,Australia,Silver,63121.0,Electronics,143.84,Credit Card,5,10,2,3.5,7,No,148,23,2022-05-07,39,No
+CUST-11149,57,Male,United States,Gold,96929.0,Electronics,34.16,Credit Card,4,15,11,1.5,3,No,246,9,2023-05-27,152,Yes
+CUST-11150,27,Female,Australia,Bronze,22586.0,Apparel,8.5,PayPal,5,0,1,3.0,6,No,101,11,2023-11-22,13,No
+CUST-11151,26,Male,Canada,Silver,58844.0,Electronics,88.79,Debit Card,2,20,7,2.0,5,No,133,7,2023-05-04,35,No
+CUST-11152,18,Male,Australia,Bronze,49187.0,Home & Kitchen,12.24,Apple Pay,4,30,6,3.5,7,No,146,16,2025-04-16,43,No
+CUST-11153,30,Male,United Kingdom,Silver,68487.0,Apparel,10.9,PayPal,7,10,6,3.5,6,No,34,18,2022-01-24,23,No
+CUST-11154,22,Non-Binary,United Kingdom,Silver,71077.0,Books & Media,59.96,Credit Card,5,15,2,3.5,8,No,138,13,2024-01-09,61,No
+CUST-11155,57,Female,Brazil,Silver,67237.0,Sports & Outdoors,8.5,PayPal,3,15,3,4.0,8,No,10,9,2024-02-27,77,No
+CUST-11156,50,Female,United States,Bronze,32873.0,Home & Kitchen,139.56,Credit Card,4,15,4,4.0,7,No,98,16,2022-02-25,29,No
+CUST-11157,29,Male,Australia,Bronze,32749.0,Apparel,21.89,Apple Pay,9,10,3,3.0,6,No,191,15,2022-05-21,2,No
+CUST-11158,65,Male,United Kingdom,Bronze,20418.0,Apparel,111.47,Apple Pay,4,20,2,4.5,8,No,159,8,2025-05-24,22,No
+CUST-11159,49,Female,Canada,Bronze,74125.0,Apparel,68.68,Buy Now Pay Later,4,5,3,3.0,6,No,118,12,2024-06-20,63,No
+CUST-11160,34,Female,United States,Bronze,42242.0,Beauty & Personal Care,15.08,Credit Card,8,0,6,3.0,6,Yes,143,13,2024-02-14,10,No
+CUST-11161,18,Female,Canada,Gold,90952.0,Apparel,83.58,Credit Card,2,20,9,3.5,7,No,95,23,2023-03-19,85,No
+CUST-11162,65,Female,United States,Platinum,123281.0,Sports & Outdoors,83.12,PayPal,1,15,4,3.5,7,No,181,20,2025-06-09,52,No
+CUST-11163,21,Male,United States,Platinum,192841.0,Books & Media,48.95,Apple Pay,4,20,6,4.5,9,Yes,406,18,2025-06-24,160,Yes
+CUST-11164,18,Male,United States,Gold,75680.0,Apparel,12.72,Apple Pay,1,0,1,5.0,10,No,277,20,2023-07-22,113,Yes
+CUST-11165,50,Female,United States,Silver,,Home & Kitchen,967.9,Credit Card,5,0,6,3.0,5,No,150,18,2022-12-07,47,No
+CUST-11166,67,Female,India,Gold,102485.0,Electronics,222.22,Credit Card,9,25,3,3.5,7,Yes,181,20,2023-12-13,10,No
+CUST-11167,54,Female,India,Bronze,52803.0,Electronics,123.17,PayPal,2,0,9,2.0,5,Yes,82,5,2022-04-14,80,No
+CUST-11168,44,Female,United Kingdom,Silver,79242.0,Apparel,132.54,Credit Card,5,20,4,4.5,9,No,107,13,2025-01-18,4,No
+CUST-11169,45,Male,Japan,Silver,94536.0,Electronics,174.18,Debit Card,5,20,7,3.0,6,No,190,18,2023-11-14,16,No
+CUST-11170,48,Non-Binary,United States,Silver,71110.0,Sports & Outdoors,235.0,PayPal,6,15,4,4.0,8,Yes,121,16,2023-01-30,15,Yes
+CUST-11171,47,Male,Germany,Gold,75991.0,Electronics,209.06,Apple Pay,3,0,11,3.5,6,No,216,8,2022-01-03,21,No
+CUST-11172,41,Female,Australia,Bronze,37374.0,Apparel,93.43,PayPal,3,15,6,2.5,6,Yes,240,11,2022-04-02,6,No
+CUST-11173,39,Male,India,Bronze,47540.0,Home & Kitchen,17.74,Apple Pay,10,20,7,2.0,5,No,165,10,2024-05-27,57,No
+CUST-11174,37,Male,United Kingdom,Platinum,177228.0,Home & Kitchen,563.78,Credit Card,3,5,2,4.5,9,Yes,215,10,2023-03-11,28,No
+CUST-11175,28,Male,Japan,Bronze,18000.0,Apparel,67.87,Debit Card,5,5,10,2.5,5,Yes,19,11,2025-04-04,128,No
+CUST-11176,34,Female,United States,Silver,83646.0,Sports & Outdoors,33.85,Credit Card,4,5,6,2.0,5,Yes,210,14,2022-11-23,48,No
+CUST-11177,18,Female,India,Platinum,143238.0,Home & Kitchen,42.51,PayPal,8,0,8,2.0,5,No,117,20,2024-01-04,69,No
+CUST-11178,36,Female,United States,Silver,77080.0,Apparel,40.13,Credit Card,6,20,6,4.0,7,No,131,18,2023-04-07,73,No
+CUST-11179,26,Female,Germany,Silver,,Electronics,1146.46,PayPal,5,20,2,3.0,6,No,212,19,2023-04-13,9,No
+CUST-11180,24,Female,Germany,Bronze,26836.0,Apparel,18.48,Credit Card,6,50,4,4.5,9,Yes,200,20,2022-09-29,1,No
+CUST-11181,40,Female,Germany,Bronze,55515.0,Sports & Outdoors,70.59,Credit Card,5,10,1,4.0,8,No,117,12,2023-01-25,10,No
+CUST-11182,54,Male,United States,Gold,106779.0,Home & Kitchen,8.5,Buy Now Pay Later,8,15,7,1.5,3,No,146,11,2024-11-19,149,Yes
+CUST-11183,49,Male,Brazil,Silver,79497.0,Sports & Outdoors,70.21,Credit Card,6,0,8,2.5,5,Yes,114,5,2024-02-22,55,No
+CUST-11184,19,Female,United States,Silver,61760.0,Apparel,80.02,Apple Pay,8,15,10,2.0,4,Yes,73,21,2023-10-03,52,Yes
+CUST-11185,26,Female,Germany,Bronze,31203.0,Electronics,676.91,Crypto,4,10,2,4.5,10,Yes,94,6,2023-11-06,25,No
+CUST-11186,49,Non-Binary,United States,Bronze,,Electronics,122.17,Credit Card,1,25,10,2.0,5,No,24,18,2024-06-11,101,No
+CUST-11187,26,Non-Binary,United States,Platinum,154748.0,Apparel,255.68,Apple Pay,10,20,5,3.0,6,No,241,12,2024-11-20,61,No
+CUST-11188,35,Male,Canada,Bronze,49630.0,Home & Kitchen,126.27,Credit Card,5,25,11,3.0,5,No,170,21,2024-09-19,159,Yes
+CUST-11189,44,Prefer not to say,United Kingdom,Silver,44615.0,Beauty & Personal Care,8.5,Credit Card,2,20,8,2.5,5,Yes,178,12,2025-03-11,40,No
+CUST-11190,26,Male,United States,Bronze,32305.0,Apparel,25.85,PayPal,4,20,11,2.5,4,Yes,74,19,2024-05-05,9,No
+CUST-11191,39,Non-Binary,United States,Silver,53598.0,Apparel,75.42,Buy Now Pay Later,3,0,8,2.5,6,No,69,10,2024-04-24,7,No
+CUST-11192,21,Female,United Kingdom,Platinum,,Apparel,384.85,Credit Card,3,20,5,3.0,6,Yes,180,10,2023-06-12,26,No
+CUST-11193,30,Female,Japan,Silver,47281.0,Apparel,162.0,PayPal,6,10,8,2.0,4,No,147,16,2024-07-04,183,No
+CUST-11194,41,Female,Brazil,Bronze,21591.0,Electronics,47.7,PayPal,11,5,6,3.5,8,No,121,23,2023-08-27,13,No
+CUST-11195,18,Female,United States,Silver,,Electronics,72.72,Debit Card,3,0,5,4.0,7,Yes,128,14,2024-05-21,8,No
+CUST-11196,43,Female,United Kingdom,Gold,81703.0,Electronics,80.39,Credit Card,4,15,11,2.0,4,No,272,21,2023-05-03,30,No
+CUST-11197,37,Male,United States,Silver,32713.0,Electronics,579.22,Apple Pay,4,5,4,4.5,7,No,164,19,2022-10-17,49,No
+CUST-11198,44,Male,United States,Gold,131406.0,Electronics,869.28,Apple Pay,7,10,5,3.0,7,No,313,19,2024-02-15,7,No
+CUST-11199,40,Male,Germany,Silver,84545.0,Electronics,542.92,Apple Pay,4,15,4,5.0,9,No,244,13,2023-07-17,47,No
+CUST-11200,54,Female,Germany,Gold,80977.0,Home & Kitchen,101.56,Buy Now Pay Later,5,25,1,,8,No,271,12,2023-04-12,10,No
